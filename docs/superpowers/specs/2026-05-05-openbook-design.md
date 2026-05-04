@@ -2,7 +2,10 @@
 
 - **상태**: Approved (브레인스토밍 완료)
 - **작성일**: 2026-05-05
-- **저자**: 정성채
+- **저자**: 정성채 (goopy684@gmail.com)
+- **리파지토리**: https://github.com/goopy68432/open-books
+- **배포 URL**: https://goopy68432.github.io/open-books/
+- **GitHub Pages base path**: `/open-books/` (astro.config.mjs `base`)
 - **다음 단계**: writing-plans 스킬로 구현 계획 작성
 
 ## 1. 개요
