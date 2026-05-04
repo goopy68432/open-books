@@ -5,6 +5,7 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import rehypeAutolink from "rehype-autolink-headings";
 import rehypeExternalLinks from "rehype-external-links";
+import rehypeMermaid from "rehype-mermaid";
 import { remarkCallout } from "./src/remark/remark-callout.ts";
 
 export default defineConfig({
@@ -18,6 +19,7 @@ export default defineConfig({
       rehypeKatex,
       [rehypeAutolink, { behavior: "wrap" }],
       [rehypeExternalLinks, { target: "_blank", rel: ["noopener","noreferrer"] }],
+      [rehypeMermaid, { strategy: "img-svg", mermaidConfig: { theme: "neutral" } }],
     ],
     shikiConfig: { themes: { light: "github-light", dark: "github-dark" } }
   },
