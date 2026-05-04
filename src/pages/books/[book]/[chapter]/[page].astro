@@ -6,6 +6,8 @@ import Breadcrumb from "@/components/Breadcrumb.astro";
 import PrevNext from "@/components/PrevNext.astro";
 import BookSidebar from "@/components/BookSidebar.astro";
 import PageToc from "@/components/PageToc.astro";
+import ProgressCheckbox from "@/components/islands/ProgressCheckbox.tsx";
+import BookmarkButton from "@/components/islands/BookmarkButton.tsx";
 import { buildBookTree, flattenPages } from "@/lib/books";
 import { withBase } from "@/lib/paths";
 
@@ -21,14 +23,14 @@ export async function getStaticPaths() {
     for (const f of flat) {
       paths.push({
         params: { book: slug, chapter: f.chapter, page: f.page },
-        props: { f, book: b, tree },
+        props: { f, book: b, tree, total: flat.length },
       });
     }
   }
   return paths;
 }
 
-const { f, book, tree } = Astro.props;
+const { f, book, tree, total } = Astro.props;
 const { Content } = await render(f.entry!);
 const title = `${f.title} · ${book.data.title}`;
 ---
@@ -40,6 +42,9 @@ const title = `${f.title} · ${book.data.title}`;
     { label: f.title },
   ]} />
   <Prose><Content /></Prose>
+  <ProgressCheckbox client:visible book={book.id} chapter={f.chapter} page={f.page} total={total} />
   <PrevNext bookSlug={book.id} prev={f.prev} next={f.next} />
-  <PageToc slot="pagetoc" />
+  <PageToc slot="pagetoc">
+    <BookmarkButton slot="extra" client:idle book={book.id} chapter={f.chapter} page={f.page} title={f.title} />
+  </PageToc>
 </ReadLayout>
