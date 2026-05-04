@@ -5,6 +5,7 @@ import Prose from "@/components/Prose.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import PrevNext from "@/components/PrevNext.astro";
 import BookSidebar from "@/components/BookSidebar.astro";
+import PageToc from "@/components/PageToc.astro";
 import { buildBookTree, flattenPages } from "@/lib/books";
 import { withBase } from "@/lib/paths";
 
@@ -40,4 +41,5 @@ const title = `${f.title} · ${book.data.title}`;
   ]} />
   <Prose><Content /></Prose>
   <PrevNext bookSlug={book.id} prev={f.prev} next={f.next} />
+  <PageToc slot="pagetoc" />
 </ReadLayout>
