@@ -8,6 +8,7 @@ import BookSidebar from "@/components/BookSidebar.astro";
 import PageToc from "@/components/PageToc.astro";
 import ProgressCheckbox from "@/components/islands/ProgressCheckbox.tsx";
 import BookmarkButton from "@/components/islands/BookmarkButton.tsx";
+import Highlighter from "@/components/islands/Highlighter.tsx";
 import { buildBookTree, flattenPages } from "@/lib/books";
 import { withBase } from "@/lib/paths";
 
@@ -42,6 +43,7 @@ const title = `${f.title} · ${book.data.title}`;
     { label: f.title },
   ]} />
   <Prose><Content /></Prose>
+  <Highlighter client:idle book={book.id} chapter={f.chapter} page={f.page} />
   <ProgressCheckbox client:visible book={book.id} chapter={f.chapter} page={f.page} total={total} />
   <PrevNext bookSlug={book.id} prev={f.prev} next={f.next} />
   <PageToc slot="pagetoc">
