@@ -18,6 +18,8 @@ const { title, description } = Astro.props;
   @media (max-width: 1023px) {
     .read-grid { grid-template-columns: 1fr !important }
     .read-grid > aside { display: none !important }
+    .read-grid > main { display: flex; flex-direction: column; align-items: center; }
+    .read-grid > main > * { width: 100%; max-width: var(--content-w); }
   }
   @media (max-width: 767px) {
     body { font-size: calc(var(--fs) + 1px) }
