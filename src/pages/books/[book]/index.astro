@@ -1,0 +1,45 @@
+---
+import { getCollection } from "astro:content";
+import HomeLayout from "@/layouts/HomeLayout.astro";
+import { buildBookTree } from "@/lib/books";
+import { withBase } from "@/lib/paths";
+export async function getStaticPaths() {
+  const books = await getCollection("books", b => !b.data.draft);
+  const pages = await getCollection("pages", p => !p.data.draft);
+  return books.map(b => {
+    const tree = buildBookTree(b.id, pages.filter(p => p.id.startsWith(`${b.id}/`)));
+    return { params: { book: b.id }, props: { b, tree } };
+  });
+}
+const { b, tree } = Astro.props;
+const firstChapter = tree.chapters[0];
+const first = firstChapter?.pages[0];
+---
+<HomeLayout title={b.data.title} description={b.data.description}>
+  <header style="display:grid;grid-template-columns:200px 1fr;gap:2rem;margin-bottom:2em;align-items:start">
+    <div style="aspect-ratio:3/4;background:linear-gradient(135deg,var(--accent),#a855f7);border-radius:8px"></div>
+    <div>
+      <h1 style="margin:0 0 .3em">{b.data.title}</h1>
+      {b.data.subtitle && <p style="color:var(--text-soft);font-size:1.1em;margin:0 0 .8em">{b.data.subtitle}</p>}
+      <div style="color:var(--text-soft);margin-bottom:1em">{b.data.author}</div>
+      {b.data.description && <p>{b.data.description}</p>}
+      {first && firstChapter && (
+        <a href={withBase(`/books/${b.id}/${firstChapter.slug}/${first.slug}`)}
+           style="display:inline-block;padding:.6em 1.2em;background:var(--accent);color:#fff;border-radius:6px;font-weight:600;margin-top:1em">
+          처음부터 읽기 →
+        </a>
+      )}
+    </div>
+  </header>
+  <h2>목차</h2>
+  {tree.chapters.map(c => (
+    <section style="margin:1em 0">
+      <h3 style="margin:.5em 0">{c.title}</h3>
+      <ul>
+        {c.pages.map(p => (
+          <li><a href={withBase(`/books/${b.id}/${c.slug}/${p.slug}`)}>{p.title}</a></li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</HomeLayout>
