@@ -4,6 +4,7 @@ import ReadLayout from "@/layouts/ReadLayout.astro";
 import Prose from "@/components/Prose.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import PrevNext from "@/components/PrevNext.astro";
+import BookSidebar from "@/components/BookSidebar.astro";
 import { buildBookTree, flattenPages } from "@/lib/books";
 import { withBase } from "@/lib/paths";
 
@@ -26,11 +27,12 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { f, book } = Astro.props;
+const { f, book, tree } = Astro.props;
 const { Content } = await render(f.entry!);
 const title = `${f.title} · ${book.data.title}`;
 ---
 <ReadLayout title={title} description={f.entry!.data.description}>
+  <BookSidebar slot="sidebar" book={book} tree={tree} current={{ chapter: f.chapter, page: f.page }} />
   <Breadcrumb items={[
     { href: withBase("/"), label: "홈" },
     { href: withBase(`/books/${book.id}`), label: book.data.title },

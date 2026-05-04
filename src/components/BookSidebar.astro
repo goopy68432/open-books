@@ -1,0 +1,28 @@
+---
+import { withBase } from "@/lib/paths";
+import type { BookTree } from "@/lib/books";
+interface Props { book: { id: string; data: { title: string } }; tree: BookTree; current: { chapter: string; page: string }; }
+const { book, tree, current } = Astro.props;
+---
+<aside style="width:var(--sidebar-w);background:var(--bg-soft);border-right:1px solid var(--border);padding:1.2rem 1rem;overflow-y:auto;height:calc(100vh - var(--topbar-h));position:sticky;top:var(--topbar-h)">
+  <a href={withBase(`/books/${book.id}`)} style="font-weight:700;color:var(--text);display:block;margin-bottom:1em">📘 {book.data.title}</a>
+  {tree.chapters.map(c => (
+    <details open={c.pages.some(p => p.slug === current.page && c.slug === current.chapter)} style="margin-bottom:.6em">
+      <summary style="cursor:pointer;font-weight:600;color:var(--text-soft);padding:.2em 0">{c.title}</summary>
+      <ul style="list-style:none;padding-left:.6em;margin:.3em 0">
+        {c.pages.map(p => {
+          const active = c.slug === current.chapter && p.slug === current.page;
+          return (
+            <li>
+              <a href={withBase(`/books/${book.id}/${c.slug}/${p.slug}`)}
+                 aria-current={active ? "page" : undefined}
+                 style={`display:block;padding:.3em .5em;border-radius:4px;font-size:.95em;${active ? "background:var(--accent-soft);border-left:3px solid var(--accent);font-weight:600" : "color:var(--text-soft)"}`}>
+                {p.title}
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </details>
+  ))}
+</aside>

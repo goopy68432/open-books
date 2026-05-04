@@ -4,7 +4,11 @@ interface Props { title: string; description?: string; }
 const { title, description } = Astro.props;
 ---
 <BaseLayout {title} {description}>
-  <main style="max-width:var(--content-w);margin:0 auto;padding:2rem 1rem">
-    <slot />
-  </main>
+  <div class="read-grid" style="display:grid;grid-template-columns:var(--sidebar-w) 1fr var(--pagetoc-w);min-height:100vh">
+    <slot name="sidebar" />
+    <main style="padding:2rem clamp(1rem,4vw,3rem);min-width:0">
+      <slot />
+    </main>
+    <slot name="pagetoc" />
+  </div>
 </BaseLayout>
