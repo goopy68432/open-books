@@ -1,0 +1,16 @@
+---
+import { withBase } from "@/lib/paths";
+interface Props { book: any; }
+const { book } = Astro.props;
+const cover = book.data.cover ? `/books/${book.id}/${book.data.cover}` : null;
+---
+<a href={withBase(`/books/${book.id}`)} style="display:block;border:1px solid var(--border);border-radius:var(--r-md);overflow:hidden;background:var(--bg);transition:transform .1s">
+  <div style={`aspect-ratio:3/2;background:${cover ? `url(${cover}) center/cover` : "linear-gradient(135deg,var(--accent),#a855f7)"};display:flex;align-items:end;padding:1rem;color:#fff`}>
+    {!cover && <div style="font-size:1.4em;font-weight:700">{book.data.title}</div>}
+  </div>
+  <div style="padding:1rem">
+    <h3 style="margin:0 0 .3em;font-size:1.05em">{book.data.title}</h3>
+    <div style="color:var(--text-soft);font-size:.9em">{book.data.author}</div>
+    {book.data.description && <p style="margin:.5em 0 0;font-size:.88em;color:var(--text-soft)">{book.data.description}</p>}
+  </div>
+</a>
