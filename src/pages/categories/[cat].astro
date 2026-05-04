@@ -1,0 +1,22 @@
+---
+import { getCollection } from "astro:content";
+import HomeLayout from "@/layouts/HomeLayout.astro";
+import BookCard from "@/components/BookCard.astro";
+import yaml from "js-yaml";
+import { readFileSync } from "node:fs";
+import { BooksYamlSchema } from "@/content/config";
+
+export async function getStaticPaths() {
+  const cats = BooksYamlSchema.parse(yaml.load(readFileSync("content/books.yml", "utf8"))).categories;
+  return cats.map(c => ({ params: { cat: c.slug }, props: { cat: c } }));
+}
+const { cat } = Astro.props;
+const books = (await getCollection("books", b => !b.data.draft && b.data.category === cat.slug))
+  .sort((a,b) => a.data.order - b.data.order);
+---
+<HomeLayout title={`${cat.name} · open-books`}>
+  <h1>{cat.icon} {cat.name}</h1>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1.5rem;margin-top:1.5em">
+    {books.map(b => <BookCard book={b} />)}
+  </div>
+</HomeLayout>

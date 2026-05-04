@@ -1,0 +1,19 @@
+---
+import { getCollection } from "astro:content";
+import HomeLayout from "@/layouts/HomeLayout.astro";
+import BookCard from "@/components/BookCard.astro";
+export async function getStaticPaths() {
+  const all = await getCollection("books", b => !b.data.draft);
+  const tags = new Set<string>(); for (const b of all) for (const t of b.data.tags) tags.add(t);
+  return [...tags].map(t => ({ params: { tag: t }, props: { tag: t } }));
+}
+const { tag } = Astro.props;
+const books = (await getCollection("books", b => !b.data.draft && b.data.tags.includes(tag)))
+  .sort((a,b) => a.data.order - b.data.order);
+---
+<HomeLayout title={`#${tag} · open-books`}>
+  <h1>#{tag}</h1>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1.5rem;margin-top:1.5em">
+    {books.map(b => <BookCard book={b} />)}
+  </div>
+</HomeLayout>
