@@ -1,0 +1,41 @@
+---
+import { getCollection, render } from "astro:content";
+import ReadLayout from "@/layouts/ReadLayout.astro";
+import Prose from "@/components/Prose.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import PrevNext from "@/components/PrevNext.astro";
+import { buildBookTree, flattenPages } from "@/lib/books";
+import { withBase } from "@/lib/paths";
+
+export async function getStaticPaths() {
+  const pages = await getCollection("pages", e => !e.data.draft);
+  const books = await getCollection("books", e => !e.data.draft);
+  const paths: any[] = [];
+  for (const b of books) {
+    const slug = b.id;
+    const bookPages = pages.filter(p => p.id.startsWith(`${slug}/`));
+    const tree = buildBookTree(slug, bookPages);
+    const flat = flattenPages(tree);
+    for (const f of flat) {
+      paths.push({
+        params: { book: slug, chapter: f.chapter, page: f.page },
+        props: { f, book: b, tree },
+      });
+    }
+  }
+  return paths;
+}
+
+const { f, book } = Astro.props;
+const { Content } = await render(f.entry!);
+const title = `${f.title} · ${book.data.title}`;
+---
+<ReadLayout title={title} description={f.entry!.data.description}>
+  <Breadcrumb items={[
+    { href: withBase("/"), label: "홈" },
+    { href: withBase(`/books/${book.id}`), label: book.data.title },
+    { label: f.title },
+  ]} />
+  <Prose><Content /></Prose>
+  <PrevNext bookSlug={book.id} prev={f.prev} next={f.next} />
+</ReadLayout>

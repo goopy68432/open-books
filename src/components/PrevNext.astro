@@ -1,0 +1,17 @@
+---
+import { withBase } from "@/lib/paths";
+interface Props {
+  bookSlug: string;
+  prev?: { chapter: string; page: string; title: string };
+  next?: { chapter: string; page: string; title: string };
+}
+const { bookSlug, prev, next } = Astro.props;
+---
+<div class="prevnext" style="display:flex;justify-content:space-between;margin-top:2em;padding-top:1em;border-top:1px solid var(--border)">
+  {prev ? (
+    <a href={withBase(`/books/${bookSlug}/${prev.chapter}/${prev.page}`)}>← {prev.title}</a>
+  ) : <span />}
+  {next ? (
+    <a href={withBase(`/books/${bookSlug}/${next.chapter}/${next.page}`)}>{next.title} →</a>
+  ) : <span />}
+</div>

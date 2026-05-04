@@ -1,5 +1,5 @@
 import { defineCollection, z } from "astro:content";
-import { glob, file } from "astro/loaders";
+import { glob } from "astro/loaders";
 
 const booksYamlSchema = z.object({
   categories: z.array(z.object({
@@ -10,7 +10,11 @@ const booksYamlSchema = z.object({
 });
 
 const bookCollection = defineCollection({
-  loader: glob({ pattern: "*/book.yml", base: "./content" }),
+  loader: glob({
+    pattern: "*/book.yml",
+    base: "./content",
+    generateId: ({ entry }) => entry.split("/")[0],
+  }),
   schema: z.object({
     title: z.string().min(1),
     subtitle: z.string().optional(),
@@ -27,7 +31,11 @@ const bookCollection = defineCollection({
 });
 
 const pageCollection = defineCollection({
-  loader: glob({ pattern: "*/*/*.md", base: "./content" }),
+  loader: glob({
+    pattern: "*/*/*.md",
+    base: "./content",
+    generateId: ({ entry }) => entry.replace(/\.md$/, ""),
+  }),
   schema: z.object({
     title: z.string().min(1),
     description: z.string().optional(),
