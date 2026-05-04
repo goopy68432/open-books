@@ -12,3 +12,15 @@ const { title, description } = Astro.props;
     <slot name="pagetoc" />
   </div>
 </BaseLayout>
+
+<style is:global>
+  @media (max-width: 1279px) { :root { --sidebar-w: 240px; --pagetoc-w: 220px } }
+  @media (max-width: 1023px) {
+    .read-grid { grid-template-columns: 1fr !important }
+    .read-grid > aside { display: none !important }
+  }
+  @media (max-width: 767px) {
+    body { font-size: calc(var(--fs) + 1px) }
+    .read-grid > main { padding: 1.2rem .9rem !important }
+  }
+</style>
