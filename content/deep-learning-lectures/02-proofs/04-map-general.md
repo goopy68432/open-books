@@ -1,5 +1,5 @@
 ---
-title: "03. MAP 일반화 유도 — Prior $\theta^M(1-\theta)^M$"
+title: '03. MAP 일반화 유도 — Prior $\theta^M(1-\theta)^M$'
 slug: map-general
 order: 4
 ---

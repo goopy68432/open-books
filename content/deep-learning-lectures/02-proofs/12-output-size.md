@@ -1,5 +1,5 @@
 ---
-title: "11. Output Size Formula 유도 — \\"외우지 말고 유도\\""
+title: '11. Output Size Formula 유도 — "외우지 말고 유도"'
 slug: output-size
 order: 12
 ---
