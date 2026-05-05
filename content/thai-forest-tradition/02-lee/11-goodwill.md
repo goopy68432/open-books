@@ -1,0 +1,25 @@
+---
+title: The Power of Good Will — <i>October 21, 1958</i>
+slug: goodwill
+order: 11
+author: Ajaan Lee Dhammadharo
+year: '2003'
+source_url: https://www.accesstoinsight.org/lib/thai/lee/goodwill.html
+license: CC-BY-NC
+---
+
+The rewards of good will are: (1) it purifies the virtues of the person who develops it; and (2) it brings the mind to Right Concentration. This is why it's included in the classical forty topics of concentration.
+
+Our Lord Buddha, from the time before he gained Awakening until he entered total nibbana, practiced good will in his deeds, good will in his words, and good will in his thoughts at all times. The fact that we human beings have lived in peace through the virtues of the Triple Gem up to the present day is because of the power of the Buddha's great good will and compassion. For this reason, we too should develop good will for all beings in line with his example.
+
+The power of good will can bring peace and security to the world in countless ways. There's a brief story from the time of the Buddha that illustrates this point. Once a king was returning home with his troops after having engaged in a battle. On the way, they stopped off in a cool, quiet forest to rest and to find water to drink and to bathe in, and there in the forest they happened to come across a group of around 500 monks practicing good-will concentration. The monks' quiet manner — they weren't even making a sound — astonished the king. He said to himself, "Even in a single household of two or three people there are bound to be quarrels and commotion. But here these contemplatives are living together by the hundreds without any commotion at all. If our country could be at peace like this, there probably wouldn't need to be any battles or war."
+
+Impressed, he went to the head monk, bowed down, and asked to be taught their contemplative practice. After listening to the head monk's advice, he sent his troops back to his capital while he stayed there in the forest, practicing good-will meditation for twelve years to the point where he had mastered the jhanas. Only then did he return to his capital. Immediately on his return, he made a practice of spreading thoughts of good will in every direction throughout his kingdom and to the neighboring kingdoms as well. His people came thronging around him: happy, joyful, and filled with respect for him. When he conversed with them to learn of their hardships and joys, he taught them to develop good will, compassion, appreciation, and equanimity for one another. Captivated by his words, his people listened to him with trust and respect, and followed his instructions. From that point on, love and kindness spread through every home and village, giving rise to a sense of friendship, fellowship, and cooperation that spread throughout the kingdom. There were no more wars with neighboring kingdoms, and the people lived in happiness and peace.
+
+This story shows what the power of goodness in a single person's heart can accomplish: it brings security and wellbeing to people throughout an entire nation.
+
+This is why the Buddha teaches us to develop inner goodness by meditating on good will. But you have to be earnest in really doing it if you want to get real results. Even if it's only for a short time — the wiggle of an elephant's ears or the flicker of a snake's tongue — it can give rise to amazing power, like the power of an elephant or a snake in being able to kill off people or other animals in the twinkling of an eye. But if you're not truly earnest in what you do, the power of truth won't appear in the mind, and you won't be able to use it to get any results — like the ear of a dog or a cat: It can wiggle all day long and yet it won't cause anyone any fear. With an elephant, though, all it has to do is wiggle his ears just once, and people trip all over themselves trying to run away so fast that their legs practically fall off. Or a cobra: all it has to do is wiggle its tongue once, and people fall over in a faint. The power of the mind's true earnestness has the same sort of potency.
+
+The worldly crown of a king, embellished with all the nine auspicious gems, even though it's dazzling and priceless, is still no match for a meditator's Dhamma-crown embellished with the Buddha Gem, the Dhamma Gem, and the Sangha Gem.
+
+If we let evil come flowing into the heart, goodness will have no chance to come in and take charge. Evil will seize power and take control, while goodness will have to go running out to stand shivering outside the walls.
