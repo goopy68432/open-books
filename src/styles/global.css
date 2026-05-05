@@ -25,9 +25,12 @@ html{
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
 }
+html{--fs:var(--fs-3);--lh:var(--lh-3)}
 [data-fontsize="1"]{--fs:var(--fs-1);--lh:var(--lh-1)}
-[data-fontsize="2"],html{--fs:var(--fs-2);--lh:var(--lh-2)}
+[data-fontsize="2"]{--fs:var(--fs-2);--lh:var(--lh-2)}
 [data-fontsize="3"]{--fs:var(--fs-3);--lh:var(--lh-3)}
+[data-fontsize="4"]{--fs:var(--fs-4);--lh:var(--lh-4)}
+[data-fontsize="5"]{--fs:var(--fs-5);--lh:var(--lh-5)}
 body{margin:0;font-size:var(--fs);line-height:var(--lh);transition:background .15s,color .15s}
 a{color:var(--link);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em;text-decoration-color:#0000004d}
 a:hover{text-decoration-color:currentColor}

@@ -21,15 +21,18 @@
   --callout-success:#d3e3c9;
 
   /* Typography — serif body, sans for UI/meta */
-  --font-serif:"Source Serif 4","Noto Serif KR",Georgia,"Iowan Old Style",serif;
-  --font-sans:"Inter","Wanted Sans Variable","Pretendard",-apple-system,system-ui,sans-serif;
+  /* D2 Coding everywhere — Naver monospace with full Hangul support.
+     Falls back to serif/sans only if D2 Coding fails to load. */
+  --font-serif:"D2Coding","Source Serif 4","Noto Serif KR",Georgia,serif;
+  --font-sans:"D2Coding","Inter","Wanted Sans Variable","Pretendard",system-ui,sans-serif;
   --font-mono:"D2Coding","JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
 
   --content-w:clamp(40ch,68ch,720px);
   --sidebar-w:280px; --pagetoc-w:240px; --topbar-h:56px;
   --r-sm:0; --r-md:0; --r-lg:0;          /* editorial: hard edges */
-  --fs-1:16px; --fs-2:18px; --fs-3:20px;  /* serif body needs slightly larger */
-  --lh-1:1.7; --lh-2:1.8; --lh-3:1.85;
+  /* 5-step font size for fine-grained settings (14–22 px) */
+  --fs-1:14px; --fs-2:16px; --fs-3:18px; --fs-4:20px; --fs-5:22px;
+  --lh-1:1.7; --lh-2:1.75; --lh-3:1.8; --lh-4:1.82; --lh-5:1.85;
 }
 [data-theme="dark"] {
   --bg:#1a1814;            /* warm dark, like ink on parchment inverted */

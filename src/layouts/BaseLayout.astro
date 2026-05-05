@@ -16,7 +16,8 @@ const { title, description } = Astro.props;
         try {
           const s = JSON.parse(localStorage.getItem("openbook:state") || "{}");
           const t = s.theme?.mode || "auto";
-          const fs = s.theme?.fontSize || 2;
+          let fs = Number(s.theme?.fontSize ?? 3);
+          if (!Number.isFinite(fs) || fs < 1 || fs > 5) fs = 3;
           const dark = t === "dark" || (t === "auto" && matchMedia("(prefers-color-scheme: dark)").matches);
           document.documentElement.dataset.theme = dark ? "dark" : "light";
           document.documentElement.dataset.fontsize = String(fs);

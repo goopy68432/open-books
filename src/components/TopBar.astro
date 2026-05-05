@@ -1,13 +1,13 @@
 ---
 import { withBase } from "@/lib/paths";
-import ThemeToggle from "./islands/ThemeToggle.tsx";
+import SettingsPanel from "./islands/SettingsPanel.tsx";
 ---
 <header class="topbar">
   <a class="brand" href={withBase("/")}>OPENBOOK</a>
   <div class="spacer"></div>
   <a class="navlink" href={withBase("/search")}>SEARCH</a>
   <a class="navlink" href="https://github.com/goopy68432/open-books">GITHUB</a>
-  <ThemeToggle client:load />
+  <SettingsPanel client:load />
 </header>
 <style>
   .topbar {

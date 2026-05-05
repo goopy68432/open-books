@@ -1,6 +1,6 @@
 const KEY = "openbook:state";
 export type Mode = "light" | "dark" | "auto";
-export type FontSize = 1 | 2 | 3;
+export type FontSize = 1 | 2 | 3 | 4 | 5;
 
 interface State { version: number; theme?: { mode: Mode; fontSize: FontSize }; [k: string]: any }
 
