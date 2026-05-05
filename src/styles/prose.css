@@ -1,4 +1,7 @@
-.prose{max-width:var(--content-w);margin:0 auto}
+.prose{max-width:var(--content-w);margin:0 auto;min-width:0}
+.prose .katex-display{overflow-x:auto;overflow-y:hidden;padding:.3em 0;max-width:100%}
+.prose .katex-display>.katex{display:inline-block;white-space:nowrap}
+.prose .katex{max-width:100%}
 .prose h1{font-size:2em;margin:0 0 .6em;font-weight:800;letter-spacing:-.01em}
 .prose h2{font-size:1.4em;margin:1.8em 0 .5em;font-weight:700;border-bottom:1px solid var(--border);padding-bottom:.3em}
 .prose h3{font-size:1.15em;margin:1.4em 0 .4em;font-weight:700}

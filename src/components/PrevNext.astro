@@ -7,16 +7,32 @@ interface Props {
 }
 const { bookSlug, prev, next } = Astro.props;
 ---
-<div class="prevnext" style="display:flex;justify-content:space-between;margin-top:2em;padding-top:1em;border-top:1px solid var(--border)">
+<div class="prevnext">
   {prev ? (
-    <a href={withBase(`/books/${bookSlug}/${prev.chapter}/${prev.page}`)}>← {prev.title}</a>
+    <a class="pn-link pn-prev" title={prev.title} href={withBase(`/books/${bookSlug}/${prev.chapter}/${prev.page}`)}>← {prev.title}</a>
   ) : <span />}
   {next ? (
-    <a href={withBase(`/books/${bookSlug}/${next.chapter}/${next.page}`)}>{next.title} →</a>
+    <a class="pn-link pn-next" title={next.title} href={withBase(`/books/${bookSlug}/${next.chapter}/${next.page}`)}>{next.title} →</a>
   ) : <span />}
 </div>
 <style>
+  .prevnext {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid var(--border);
+  }
+  .pn-link {
+    max-width: 48%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
   @media (max-width: 767px) {
-    .prevnext { position: fixed; bottom: 0; left: 0; right: 0; background: var(--bg); border-top: 1px solid var(--border); padding: .6em 1em; z-index: 5 }
+    .prevnext { padding: .8em 1em; gap: .6rem }
+    .pn-link { font-size: .92em }
   }
 </style>
