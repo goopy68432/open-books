@@ -1,4 +1,4 @@
-.prose{max-width:var(--content-w);margin:0 auto;min-width:0;font-family:var(--font-serif)}
+.prose{max-width:100%;min-width:0;font-family:var(--font-serif)}
 .prose .katex-display{overflow-x:auto;overflow-y:hidden;padding:.3em 0;max-width:100%}
 .prose .katex-display>.katex{display:inline-block;white-space:nowrap}
 .prose .katex{max-width:100%;font-size:1.02em}

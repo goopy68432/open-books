@@ -1,7 +1,19 @@
 ---
 import PageTocScrollSpy from "./islands/PageTocScrollSpy.tsx";
 ---
-<aside style="width:var(--pagetoc-w);padding:2rem 1rem;height:calc(100vh - var(--topbar-h));position:sticky;top:var(--topbar-h);overflow-y:auto;border-left:1px solid var(--border)">
+<aside class="pagetoc">
   <PageTocScrollSpy client:load />
   <slot name="extra" />
 </aside>
+<style>
+  .pagetoc {
+    width: var(--pagetoc-w);
+    padding: 2rem 1.2rem 2rem 1.5rem;
+    height: calc(100vh - var(--topbar-h));
+    position: sticky;
+    top: var(--topbar-h);
+    overflow-y: auto;
+    border-left: 1px solid var(--border);
+    font-family: var(--font-sans);
+  }
+</style>

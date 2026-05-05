@@ -6,7 +6,20 @@ const { title, description } = Astro.props;
 ---
 <BaseLayout {title} {description}>
   <TopBar />
-  <main style="max-width:1200px;margin:0 auto;padding:2rem 1.5rem">
+  <main class="home-main">
     <slot />
   </main>
 </BaseLayout>
+<style>
+  .home-main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2.5rem 1.75rem;
+  }
+  @media (max-width: 1023px) {
+    .home-main { padding: 2rem 1.4rem; max-width: 760px }
+  }
+  @media (max-width: 767px) {
+    .home-main { padding: 1.4rem 1rem }
+  }
+</style>

@@ -14,31 +14,40 @@ const { title, description } = Astro.props;
 </BaseLayout>
 
 <style is:global>
+  /* PC (≥1280px) — tight grid, main column ~720px after padding */
+  :root {
+    --sidebar-w: 260px;
+    --pagetoc-w: 220px;
+    --content-w: 100%;
+  }
   .read-grid {
     display: grid;
     grid-template-columns: var(--sidebar-w) minmax(0, 1fr) var(--pagetoc-w);
     min-height: 100vh;
-    max-width: 1400px;     /* cap whole layout so columns don't sprawl on big screens */
+    max-width: 1240px;       /* sidebar + ~760 main + toc, centered */
     margin: 0 auto;
   }
   .read-main {
-    padding: 2.4rem clamp(1.5rem, 3vw, 2.5rem);
+    padding: 2.4rem 1.75rem;
     min-width: 0;
   }
-  /* Slightly wider content column to fill the middle better */
-  :root { --content-w: clamp(40ch, 72ch, 760px); }
+  .read-main > * { max-width: 100% }
 
+  /* Tablet landscape (1024–1279) */
   @media (max-width: 1279px) {
-    :root { --sidebar-w: 240px; --pagetoc-w: 220px }
+    :root { --sidebar-w: 220px; --pagetoc-w: 200px }
     .read-grid { max-width: none }
+    .read-main { padding: 2rem 1.5rem }
   }
+  /* Tablet portrait (768–1023) — drop sidebars, center column */
   @media (max-width: 1023px) {
-    .read-grid { grid-template-columns: 1fr !important }
+    .read-grid { grid-template-columns: 1fr !important; max-width: 760px }
     .read-grid > aside { display: none !important }
-    .read-main { max-width: var(--content-w); margin: 0 auto; width: 100% }
+    .read-main { padding: 1.6rem 1.4rem !important }
   }
+  /* Mobile (<768) */
   @media (max-width: 767px) {
     body { font-size: calc(var(--fs) + 1px) }
-    .read-main { padding: 1.2rem .9rem !important }
+    .read-main { padding: 1.2rem 1rem !important }
   }
 </style>
