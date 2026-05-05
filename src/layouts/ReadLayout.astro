@@ -14,36 +14,43 @@ const { title, description } = Astro.props;
 </BaseLayout>
 
 <style is:global>
-  /* PC (≥1280px) — tight grid, main column ~720px after padding */
+  /* PC (≥1280) — sidebars hug viewport edges, main fills the rest */
   :root {
-    --sidebar-w: 260px;
-    --pagetoc-w: 220px;
+    --sidebar-w: 280px;
+    --pagetoc-w: 240px;
     --content-w: 100%;
   }
   .read-grid {
     display: grid;
     grid-template-columns: var(--sidebar-w) minmax(0, 1fr) var(--pagetoc-w);
     min-height: 100vh;
-    max-width: 1240px;       /* sidebar + ~760 main + toc, centered */
-    margin: 0 auto;
+    /* no max-width: let layout span full viewport */
   }
   .read-main {
-    padding: 2.4rem 1.75rem;
+    padding: 2.4rem clamp(2rem, 5vw, 4rem);
     min-width: 0;
   }
+  /* Cap actual prose reading column on very wide main, centered */
   .read-main > * { max-width: 100% }
+  .read-main .prose,
+  .read-main > nav,
+  .read-main > article {
+    max-width: 880px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
   /* Tablet landscape (1024–1279) */
   @media (max-width: 1279px) {
-    :root { --sidebar-w: 220px; --pagetoc-w: 200px }
-    .read-grid { max-width: none }
-    .read-main { padding: 2rem 1.5rem }
+    :root { --sidebar-w: 230px; --pagetoc-w: 210px }
+    .read-main { padding: 2rem 1.6rem }
+    .read-main .prose, .read-main > nav, .read-main > article { max-width: none }
   }
-  /* Tablet portrait (768–1023) — drop sidebars, center column */
+  /* Tablet portrait (768–1023) — single column */
   @media (max-width: 1023px) {
-    .read-grid { grid-template-columns: 1fr !important; max-width: 760px }
+    .read-grid { grid-template-columns: 1fr !important }
     .read-grid > aside { display: none !important }
-    .read-main { padding: 1.6rem 1.4rem !important }
+    .read-main { padding: 1.6rem clamp(1.2rem, 4vw, 2rem) !important; max-width: 760px; margin: 0 auto; width: 100% }
   }
   /* Mobile (<768) */
   @media (max-width: 767px) {
