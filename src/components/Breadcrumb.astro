@@ -2,11 +2,27 @@
 interface Props { items: { href?: string; label: string }[]; }
 const { items } = Astro.props;
 ---
-<nav style="font-size:.9em;color:var(--text-soft);margin-bottom:1em">
+<nav class="crumbs">
   {items.map((it, i) => (
     <>
       {it.href ? <a href={it.href}>{it.label}</a> : <span>{it.label}</span>}
-      {i < items.length - 1 && <span> / </span>}
+      {i < items.length - 1 && <span class="sep"> / </span>}
     </>
   ))}
 </nav>
+<style>
+  .crumbs {
+    font-family: var(--font-sans);
+    font-size: .76em;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--text-mute);
+    margin-bottom: 2em;
+  }
+  .crumbs a {
+    color: var(--text-soft);
+    text-decoration: none;
+  }
+  .crumbs a:hover { color: var(--text); text-decoration: underline; text-underline-offset: .2em }
+  .sep { color: var(--text-mute); margin: 0 .3em }
+</style>

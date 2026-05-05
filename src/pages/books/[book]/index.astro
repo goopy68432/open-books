@@ -14,32 +14,134 @@ export async function getStaticPaths() {
 const { b, tree } = Astro.props;
 const firstChapter = tree.chapters[0];
 const first = firstChapter?.pages[0];
+const totalPages = tree.chapters.reduce((s, c) => s + c.pages.length, 0);
+const year = (b.data.created instanceof Date ? b.data.created : new Date(b.data.created)).getFullYear();
 ---
 <HomeLayout title={b.data.title} description={b.data.description}>
-  <header style="display:grid;grid-template-columns:200px 1fr;gap:2rem;margin-bottom:2em;align-items:start">
-    <div style="aspect-ratio:3/4;background:linear-gradient(135deg,var(--accent),#a855f7);border-radius:8px"></div>
-    <div>
-      <h1 style="margin:0 0 .3em">{b.data.title}</h1>
-      {b.data.subtitle && <p style="color:var(--text-soft);font-size:1.1em;margin:0 0 .8em">{b.data.subtitle}</p>}
-      <div style="color:var(--text-soft);margin-bottom:1em">{b.data.author}</div>
-      {b.data.description && <p>{b.data.description}</p>}
-      {first && firstChapter && (
-        <a href={withBase(`/books/${b.id}/${firstChapter.slug}/${first.slug}`)}
-           style="display:inline-block;padding:.6em 1.2em;background:var(--accent);color:#fff;border-radius:6px;font-weight:600;margin-top:1em">
-          처음부터 읽기 →
-        </a>
-      )}
-    </div>
-  </header>
-  <h2>목차</h2>
-  {tree.chapters.map(c => (
-    <section style="margin:1em 0">
-      <h3 style="margin:.5em 0">{c.title}</h3>
-      <ul>
-        {c.pages.map(p => (
-          <li><a href={withBase(`/books/${b.id}/${c.slug}/${p.slug}`)}>{p.title}</a></li>
-        ))}
-      </ul>
-    </section>
-  ))}
+  <article class="cover">
+    <div class="eye">{(b.data.category || "").toUpperCase()} · {year} · {totalPages} PAGES</div>
+    <h1 class="title">{b.data.title}</h1>
+    {b.data.subtitle && <p class="sub">{b.data.subtitle}</p>}
+    <div class="author">{b.data.author}</div>
+    {b.data.description && <p class="desc">{b.data.description}</p>}
+    {first && firstChapter && (
+      <a class="cta" href={withBase(`/books/${b.id}/${firstChapter.slug}/${first.slug}`)}>
+        처음부터 읽기 →
+      </a>
+    )}
+  </article>
+
+  <hr class="rule" />
+
+  <section class="toc">
+    <div class="eye">목차</div>
+    {tree.chapters.map((c, i) => (
+      <section class="chap">
+        <div class="chap-head">
+          <span class="num">{String(i + 1).padStart(2, "0")}</span>
+          <h2 class="chap-title">{c.title}</h2>
+        </div>
+        <ol class="pages">
+          {c.pages.map(p => (
+            <li>
+              <a href={withBase(`/books/${b.id}/${c.slug}/${p.slug}`)}>{p.title}</a>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))}
+  </section>
 </HomeLayout>
+
+<style>
+  .cover { max-width: 720px; margin: 24px 0 0 }
+  .eye {
+    font-family: var(--font-sans);
+    font-size: .76em;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--text-mute);
+    margin-bottom: 14px;
+  }
+  .title {
+    font-family: var(--font-serif);
+    font-size: clamp(2.2em, 5vw, 3em);
+    font-weight: 600;
+    letter-spacing: -.025em;
+    line-height: 1.05;
+    margin: 0 0 12px;
+  }
+  .sub {
+    font-family: var(--font-serif);
+    font-size: 1.15em;
+    font-style: italic;
+    color: var(--text-soft);
+    margin: 0 0 18px;
+  }
+  .author {
+    font-family: var(--font-sans);
+    font-size: .82em;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--text-soft);
+    margin-bottom: 28px;
+  }
+  .desc {
+    font-family: var(--font-serif);
+    font-size: 1.05em;
+    color: var(--text);
+    line-height: 1.65;
+    margin: 0 0 32px;
+  }
+  .cta {
+    display: inline-block;
+    font-family: var(--font-sans);
+    font-size: .8em;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--text);
+    text-decoration: none;
+    border: 1px solid var(--text);
+    padding: 12px 24px;
+    margin-top: 8px;
+    transition: background .15s, color .15s;
+  }
+  .cta:hover { background: var(--text); color: var(--bg) }
+
+  .rule { border: 0; border-top: 1px solid var(--border-strong); margin: 56px 0 32px }
+
+  .toc { max-width: 760px }
+  .toc .eye { margin-bottom: 24px }
+  .chap { margin-bottom: 32px }
+  .chap-head { display: flex; align-items: baseline; gap: 16px; margin-bottom: 10px }
+  .num {
+    font-family: var(--font-mono);
+    font-size: .8em;
+    color: var(--text-mute);
+  }
+  .chap-title {
+    font-family: var(--font-serif);
+    font-size: 1.2em;
+    font-weight: 600;
+    letter-spacing: -.01em;
+    margin: 0;
+  }
+  .pages {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 0 calc(.8em + 16px);
+    font-family: var(--font-serif);
+  }
+  .pages li {
+    border-top: 1px solid var(--border);
+    padding: .55em 0;
+    counter-increment: item;
+  }
+  .pages li:last-child { border-bottom: 1px solid var(--border) }
+  .pages li a {
+    color: var(--text);
+    text-decoration: none;
+    font-size: 1em;
+  }
+  .pages li a:hover { text-decoration: underline; text-underline-offset: .2em }
+</style>

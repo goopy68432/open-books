@@ -7,17 +7,74 @@ import { readFileSync } from "node:fs";
 import { BooksYamlSchema } from "@/content/config";
 import { withBase } from "@/lib/paths";
 
-const books = (await getCollection("books", b => !b.data.draft)).sort((a,b) => a.data.order - b.data.order);
+const books = (await getCollection("books", b => !b.data.draft)).sort((a, b) => a.data.order - b.data.order);
 const categories = BooksYamlSchema.parse(yaml.load(readFileSync("content/books.yml", "utf8"))).categories;
+const catName = (slug: string) => categories.find(c => c.slug === slug)?.name || slug;
 ---
-<HomeLayout title="open-books" description="내 학습 사이트">
-  <h1 style="font-size:2em;margin:0 0 1em">📘 open-books</h1>
-  <div style="display:flex;gap:.5em;flex-wrap:wrap;margin-bottom:2em">
-    {categories.map(c => (
-      <a href={withBase(`/categories/${c.slug}`)} style="padding:.4em .8em;border:1px solid var(--border);border-radius:999px;color:var(--text-soft)">{c.icon} {c.name}</a>
-    ))}
-  </div>
-  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1.5rem">
-    {books.map(b => <BookCard book={b} />)}
-  </div>
+<HomeLayout title="open-books" description="정성채의 학습 노트">
+  <header class="hero">
+    <div class="eye">정성채의 학습 노트</div>
+    <h1 class="title">Notes on Learning</h1>
+    <p class="lede">수학, 프로그래밍, 다르마 — 흩어져 있던 노트를 한 권의 책처럼 정리합니다.</p>
+    <nav class="cats">
+      {categories.map(c => (
+        <a class="catlink" href={withBase(`/categories/${c.slug}`)}>{c.name}</a>
+      ))}
+    </nav>
+  </header>
+
+  <section class="grid">
+    {books.map(b => <BookCard book={b} categoryName={catName(b.data.category)} />)}
+  </section>
 </HomeLayout>
+
+<style>
+  .hero { margin: 16px 0 56px; max-width: 720px }
+  .eye {
+    font-family: var(--font-sans);
+    font-size: .76em;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--text-mute);
+    margin-bottom: 14px;
+  }
+  .title {
+    font-family: var(--font-serif);
+    font-size: clamp(2.2em, 5vw, 3.4em);
+    font-weight: 600;
+    letter-spacing: -.025em;
+    line-height: 1.05;
+    margin: 0 0 16px;
+  }
+  .lede {
+    font-family: var(--font-serif);
+    font-size: 1.1em;
+    color: var(--text-soft);
+    line-height: 1.55;
+    margin: 0 0 28px;
+    font-style: italic;
+  }
+  .cats { display: flex; flex-wrap: wrap; gap: 0 24px }
+  .catlink {
+    font-family: var(--font-sans);
+    font-size: .78em;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--text-soft);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 2px;
+  }
+  .catlink:hover { color: var(--text); border-bottom-color: var(--text) }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    column-gap: 40px;
+    row-gap: 0;
+  }
+  @media (max-width: 720px) {
+    .hero { margin: 8px 0 40px }
+    .grid { grid-template-columns: 1fr }
+  }
+</style>

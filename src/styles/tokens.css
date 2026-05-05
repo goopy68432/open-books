@@ -1,21 +1,53 @@
 :root {
-  --bg:#fff; --bg-soft:#f9fafb; --bg-code:#f3f4f6; --border:#e5e7eb;
-  --text:#111827; --text-soft:#4b5563; --text-mute:#9ca3af;
-  --link:#2563eb; --accent:#3b82f6; --accent-soft:#dbeafe;
-  --hl-yellow:#fef08a; --hl-green:#bbf7d0; --hl-pink:#fbcfe8;
-  --callout-info:#dbeafe; --callout-warn:#fef3c7; --callout-danger:#fecaca; --callout-success:#bbf7d0;
-  --font-sans:"Wanted Sans Variable","Wanted Sans","Pretendard",-apple-system,"Apple SD Gothic Neo",system-ui,sans-serif;
+  /* Editorial / paper palette — warm cream, deep ink, no chroma accent */
+  --bg:#faf8f3;
+  --bg-soft:#f3efe5;       /* sidebar, soft surfaces */
+  --bg-code:#efeae0;       /* inline code background */
+  --border:#d8d3c4;        /* hairline */
+  --border-strong:#1a1a1a; /* section dividers (editorial top rule) */
+  --text:#1a1a1a;          /* deep near-black (not pure black) */
+  --text-soft:#5b5b5b;     /* secondary */
+  --text-mute:#8a857a;     /* tertiary, uppercase metadata */
+  --link:#1a1a1a;          /* same as text — link is decorated by underline */
+  --accent:#1a1a1a;        /* used sparingly; same as ink */
+  --accent-soft:#ece8dd;   /* current page hint */
+
+  --hl-yellow:#f5e6a3;
+  --hl-green:#cde6c2;
+  --hl-pink:#ecc8d2;
+  --callout-info:#e8e4d6;
+  --callout-warn:#f1e3c1;
+  --callout-danger:#e6cfc6;
+  --callout-success:#d3e3c9;
+
+  /* Typography — serif body, sans for UI/meta */
+  --font-serif:"Source Serif 4","Noto Serif KR",Georgia,"Iowan Old Style",serif;
+  --font-sans:"Inter","Wanted Sans Variable","Pretendard",-apple-system,system-ui,sans-serif;
   --font-mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
-  --content-w:clamp(40ch,65ch,720px);
+
+  --content-w:clamp(40ch,68ch,720px);
   --sidebar-w:280px; --pagetoc-w:240px; --topbar-h:56px;
-  --r-sm:6px; --r-md:10px; --r-lg:14px;
-  --fs-1:15px; --fs-2:17px; --fs-3:19px;
+  --r-sm:0; --r-md:0; --r-lg:0;          /* editorial: hard edges */
+  --fs-1:16px; --fs-2:18px; --fs-3:20px;  /* serif body needs slightly larger */
   --lh-1:1.7; --lh-2:1.8; --lh-3:1.85;
 }
 [data-theme="dark"] {
-  --bg:#0f172a; --bg-soft:#1e293b; --bg-code:#1e293b; --border:#334155;
-  --text:#f1f5f9; --text-soft:#cbd5e1; --text-mute:#64748b;
-  --link:#60a5fa; --accent:#60a5fa; --accent-soft:#1e3a8a;
-  --hl-yellow:#713f12; --hl-green:#14532d; --hl-pink:#831843;
-  --callout-info:#1e3a8a; --callout-warn:#78350f; --callout-danger:#7f1d1d; --callout-success:#14532d;
+  --bg:#1a1814;            /* warm dark, like ink on parchment inverted */
+  --bg-soft:#26221b;
+  --bg-code:#26221b;
+  --border:#3a342a;
+  --border-strong:#e8e2d3;
+  --text:#e8e2d3;
+  --text-soft:#a9a297;
+  --text-mute:#6f685c;
+  --link:#e8e2d3;
+  --accent:#e8e2d3;
+  --accent-soft:#2e2922;
+  --hl-yellow:#5d4715;
+  --hl-green:#27451c;
+  --hl-pink:#5e2536;
+  --callout-info:#2a2820;
+  --callout-warn:#3d2f15;
+  --callout-danger:#3d2018;
+  --callout-success:#22351c;
 }

@@ -2,10 +2,46 @@
 import { withBase } from "@/lib/paths";
 import ThemeToggle from "./islands/ThemeToggle.tsx";
 ---
-<header style="height:var(--topbar-h);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 1.5rem;gap:1rem;position:sticky;top:0;background:var(--bg);z-index:10">
-  <a href={withBase("/")} style="font-weight:800;color:var(--text);font-size:1.1em">📘 open-books</a>
-  <div style="flex:1" />
-  <a href={withBase("/search")} style="color:var(--text-soft)">🔍</a>
+<header class="topbar">
+  <a class="brand" href={withBase("/")}>OPENBOOK</a>
+  <div class="spacer"></div>
+  <a class="navlink" href={withBase("/search")}>SEARCH</a>
+  <a class="navlink" href="https://github.com/goopy68432/open-books">GITHUB</a>
   <ThemeToggle client:load />
-  <a href="https://github.com/goopy68432/open-books" style="color:var(--text-soft)">GitHub</a>
 </header>
+<style>
+  .topbar {
+    height: var(--topbar-h);
+    border-bottom: 1px solid var(--border-strong);
+    display: flex;
+    align-items: center;
+    padding: 0 clamp(1rem, 4vw, 2.5rem);
+    gap: 1.5rem;
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+    font-family: var(--font-sans);
+  }
+  .brand {
+    font-weight: 700;
+    font-size: .92em;
+    letter-spacing: .18em;
+    color: var(--text);
+    text-decoration: none;
+  }
+  .spacer { flex: 1 }
+  .navlink {
+    font-size: .76em;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--text-soft);
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .navlink:hover { color: var(--text); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .25em }
+  @media (max-width: 640px) {
+    .topbar { padding: 0 1rem; gap: 1rem }
+    .navlink { font-size: .7em; letter-spacing: .1em }
+  }
+</style>

@@ -1,16 +1,68 @@
 ---
 import { withBase } from "@/lib/paths";
-interface Props { book: any; }
-const { book } = Astro.props;
-const cover = book.data.cover ? `/books/${book.id}/${book.data.cover}` : null;
+interface Props { book: any; categoryName?: string; }
+const { book, categoryName } = Astro.props;
+const year = (book.data.created instanceof Date ? book.data.created : new Date(book.data.created))
+  .getFullYear();
+const eyebrow = `${(categoryName || book.data.category || "").toString().toUpperCase()} · ${year}`;
 ---
-<a href={withBase(`/books/${book.id}`)} style="display:block;border:1px solid var(--border);border-radius:var(--r-md);overflow:hidden;background:var(--bg);transition:transform .1s">
-  <div style={`aspect-ratio:3/2;background:${cover ? `url(${cover}) center/cover` : "linear-gradient(135deg,var(--accent),#a855f7)"};display:flex;align-items:end;padding:1rem;color:#fff`}>
-    {!cover && <div style="font-size:1.4em;font-weight:700">{book.data.title}</div>}
-  </div>
-  <div style="padding:1rem">
-    <h3 style="margin:0 0 .3em;font-size:1.05em">{book.data.title}</h3>
-    <div style="color:var(--text-soft);font-size:.9em">{book.data.author}</div>
-    {book.data.description && <p style="margin:.5em 0 0;font-size:.88em;color:var(--text-soft)">{book.data.description}</p>}
-  </div>
+<a class="bookcard" href={withBase(`/books/${book.id}`)}>
+  <div class="eye">{eyebrow}</div>
+  <h3 class="title">{book.data.title}</h3>
+  {book.data.subtitle && <p class="sub">{book.data.subtitle}</p>}
+  {book.data.description && <p class="desc">{book.data.description}</p>}
+  <div class="author">{book.data.author}</div>
 </a>
+<style>
+  .bookcard {
+    display: block;
+    border-top: 1px solid var(--border-strong);
+    padding: 16px 0 24px;
+    text-decoration: none;
+    color: inherit;
+    transition: opacity .15s;
+  }
+  .bookcard:hover { opacity: .65 }
+  .eye {
+    font-family: var(--font-sans);
+    font-size: .72em;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--text-mute);
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  .title {
+    font-family: var(--font-serif);
+    font-size: 1.25em;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: -.01em;
+    margin: 0 0 6px;
+  }
+  .sub {
+    font-family: var(--font-serif);
+    font-style: italic;
+    color: var(--text-soft);
+    font-size: .95em;
+    margin: 0 0 8px;
+  }
+  .desc {
+    font-family: var(--font-serif);
+    font-size: .92em;
+    color: var(--text-soft);
+    line-height: 1.55;
+    margin: 0 0 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .author {
+    font-family: var(--font-sans);
+    font-size: .76em;
+    letter-spacing: .08em;
+    color: var(--text-mute);
+    text-transform: uppercase;
+  }
+</style>

@@ -1,24 +1,123 @@
-.prose{max-width:var(--content-w);margin:0 auto;min-width:0}
+.prose{max-width:var(--content-w);margin:0 auto;min-width:0;font-family:var(--font-serif)}
 .prose .katex-display{overflow-x:auto;overflow-y:hidden;padding:.3em 0;max-width:100%}
 .prose .katex-display>.katex{display:inline-block;white-space:nowrap}
-.prose .katex{max-width:100%}
-.prose h1{font-size:2em;margin:0 0 .6em;font-weight:800;letter-spacing:-.01em}
-.prose h2{font-size:1.4em;margin:1.8em 0 .5em;font-weight:700;border-bottom:1px solid var(--border);padding-bottom:.3em}
-.prose h3{font-size:1.15em;margin:1.4em 0 .4em;font-weight:700}
-.prose p{margin:.9em 0}
-.prose ul,.prose ol{padding-left:1.4em;margin:.8em 0}
-.prose code{background:var(--bg-code);padding:.15em .35em;border-radius:4px;font-family:var(--font-mono);font-size:.9em}
-.prose pre{background:#f8fafc;border:1px solid var(--border);border-radius:8px;padding:14px 16px;overflow-x:auto;font-size:.92em;position:relative}
-[data-theme="dark"] .prose pre{background:#0b1220}
-.prose pre code{background:none;padding:0;font-size:1em}
-.prose blockquote{border-left:4px solid var(--border);padding:.2em 1em;color:var(--text-soft);margin:1em 0}
-.prose img{max-width:100%;height:auto;border-radius:6px}
-.prose table{border-collapse:collapse;width:100%;margin:1em 0}
-.prose th,.prose td{border:1px solid var(--border);padding:.5em .8em;text-align:left}
-.prose hr{border:0;border-top:1px solid var(--border);margin:2em 0}
+.prose .katex{max-width:100%;font-size:1.02em}
 
-.callout{border-left:4px solid;padding:12px 16px;border-radius:6px;margin:1em 0}
-.callout-info{background:var(--callout-info);border-color:var(--accent)}
-.callout-warn{background:var(--callout-warn);border-color:#d97706}
-.callout-danger{background:var(--callout-danger);border-color:#dc2626}
-.callout-success{background:var(--callout-success);border-color:#16a34a}
+/* Headings — serif, restrained */
+.prose h1{
+  font-family:var(--font-serif);
+  font-size:2.2em;
+  margin:0 0 .35em;
+  font-weight:600;
+  letter-spacing:-.02em;
+  line-height:1.15;
+}
+.prose h2{
+  font-family:var(--font-serif);
+  font-size:1.45em;
+  margin:2em 0 .5em;
+  font-weight:600;
+  letter-spacing:-.01em;
+  border-top:1px solid var(--border-strong);
+  padding-top:.6em;
+}
+.prose h3{
+  font-family:var(--font-serif);
+  font-size:1.15em;
+  margin:1.6em 0 .35em;
+  font-weight:600;
+}
+.prose h4{
+  font-family:var(--font-sans);
+  font-size:.78em;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--text-mute);
+  font-weight:500;
+  margin:1.4em 0 .3em;
+}
+.prose p{margin:.95em 0}
+.prose strong{font-weight:600}
+.prose em{font-style:italic;color:#000}
+[data-theme="dark"] .prose em{color:#fff}
+
+.prose ul,.prose ol{padding-left:1.4em;margin:.8em 0}
+.prose li{margin:.25em 0}
+.prose li::marker{color:var(--text-mute)}
+
+/* Code — switch to mono only inside code, paper-toned bg */
+.prose code{
+  background:var(--bg-code);
+  padding:.1em .35em;
+  border-radius:2px;
+  font-family:var(--font-mono);
+  font-size:.86em;
+}
+.prose pre{
+  background:var(--bg-soft);
+  border:1px solid var(--border);
+  padding:14px 18px;
+  overflow-x:auto;
+  font-size:.88em;
+  position:relative;
+  margin:1.2em 0;
+}
+.prose pre code{background:none;padding:0;font-size:1em}
+
+/* Blockquote — editorial pullquote feel */
+.prose blockquote{
+  border-left:2px solid var(--border-strong);
+  padding:.4em 1.2em;
+  color:var(--text-soft);
+  margin:1.4em 0;
+  font-style:italic;
+}
+
+/* Images / tables / hr */
+.prose img{max-width:100%;height:auto}
+.prose figure{margin:1.5em 0}
+.prose figcaption{
+  font-family:var(--font-sans);
+  font-size:.78em;
+  letter-spacing:.06em;
+  color:var(--text-mute);
+  text-align:center;
+  margin-top:.4em;
+}
+.prose table{
+  border-collapse:collapse;
+  width:100%;
+  margin:1.4em 0;
+  font-family:var(--font-sans);
+  font-size:.92em;
+}
+.prose th,.prose td{
+  border-bottom:1px solid var(--border);
+  padding:.55em .8em;
+  text-align:left;
+  vertical-align:top;
+}
+.prose th{
+  border-bottom:1.5px solid var(--border-strong);
+  font-weight:600;
+  font-family:var(--font-sans);
+  font-size:.78em;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--text-mute);
+}
+.prose hr{border:0;border-top:1px solid var(--border-strong);margin:2.4em 0}
+
+/* Callouts — soft tinted boxes, no rounded corners, restrained */
+.callout{
+  border-left:2px solid var(--border-strong);
+  padding:14px 18px;
+  margin:1.4em 0;
+  font-family:var(--font-serif);
+}
+.callout > p:first-child{margin-top:0}
+.callout > p:last-child{margin-bottom:0}
+.callout-info{background:var(--callout-info)}
+.callout-warn{background:var(--callout-warn)}
+.callout-danger{background:var(--callout-danger)}
+.callout-success{background:var(--callout-success)}

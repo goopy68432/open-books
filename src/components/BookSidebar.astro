@@ -4,25 +4,87 @@ import type { BookTree } from "@/lib/books";
 interface Props { book: { id: string; data: { title: string } }; tree: BookTree; current: { chapter: string; page: string }; }
 const { book, tree, current } = Astro.props;
 ---
-<aside style="width:var(--sidebar-w);background:var(--bg-soft);border-right:1px solid var(--border);padding:1.2rem 1rem;overflow-y:auto;height:calc(100vh - var(--topbar-h));position:sticky;top:var(--topbar-h)">
-  <a href={withBase(`/books/${book.id}`)} style="font-weight:700;color:var(--text);display:block;margin-bottom:1em">📘 {book.data.title}</a>
-  {tree.chapters.map(c => (
-    <details open={c.pages.some(p => p.slug === current.page && c.slug === current.chapter)} style="margin-bottom:.6em">
-      <summary style="cursor:pointer;font-weight:600;color:var(--text-soft);padding:.2em 0">{c.title}</summary>
-      <ul style="list-style:none;padding-left:.6em;margin:.3em 0">
-        {c.pages.map(p => {
-          const active = c.slug === current.chapter && p.slug === current.page;
-          return (
-            <li>
-              <a href={withBase(`/books/${book.id}/${c.slug}/${p.slug}`)}
-                 aria-current={active ? "page" : undefined}
-                 style={`display:block;padding:.3em .5em;border-radius:4px;font-size:.95em;${active ? "background:var(--accent-soft);border-left:3px solid var(--accent);font-weight:600" : "color:var(--text-soft)"}`}>
-                {p.title}
-              </a>
-            </li>
-          );
-        })}
-      </ul>
-    </details>
-  ))}
+<aside class="booksidebar">
+  <a class="bookhead" href={withBase(`/books/${book.id}`)}>{book.data.title}</a>
+  {tree.chapters.map(c => {
+    const expanded = c.pages.some(p => p.slug === current.page && c.slug === current.chapter);
+    return (
+      <details open={expanded}>
+        <summary>{c.title}</summary>
+        <ul>
+          {c.pages.map(p => {
+            const active = c.slug === current.chapter && p.slug === current.page;
+            return (
+              <li>
+                <a class={active ? "active" : ""}
+                   aria-current={active ? "page" : undefined}
+                   href={withBase(`/books/${book.id}/${c.slug}/${p.slug}`)}>
+                  {p.title}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </details>
+    );
+  })}
 </aside>
+<style>
+  .booksidebar {
+    width: var(--sidebar-w);
+    background: var(--bg);
+    border-right: 1px solid var(--border);
+    padding: 1.6rem 1.2rem;
+    overflow-y: auto;
+    height: calc(100vh - var(--topbar-h));
+    position: sticky;
+    top: var(--topbar-h);
+    font-family: var(--font-sans);
+    font-size: .9em;
+  }
+  .bookhead {
+    display: block;
+    font-family: var(--font-serif);
+    font-weight: 600;
+    font-size: 1.1em;
+    color: var(--text);
+    margin-bottom: 1.4em;
+    padding-bottom: .8em;
+    border-bottom: 1px solid var(--border-strong);
+    text-decoration: none;
+    line-height: 1.25;
+  }
+  details { margin-bottom: .4em }
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--text);
+    padding: .35em 0;
+    list-style: none;
+    font-size: .82em;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+  }
+  summary::-webkit-details-marker { display: none }
+  summary::before {
+    content: "+ ";
+    color: var(--text-mute);
+    font-family: var(--font-mono);
+  }
+  details[open] summary::before { content: "− " }
+  ul { list-style: none; padding: 0; margin: .35em 0 .6em }
+  li a {
+    display: block;
+    padding: .25em 0 .25em .9em;
+    color: var(--text-soft);
+    text-decoration: none;
+    border-left: 2px solid transparent;
+    line-height: 1.45;
+  }
+  li a:hover { color: var(--text); border-left-color: var(--border) }
+  li a.active {
+    color: var(--text);
+    border-left-color: var(--text);
+    font-weight: 600;
+  }
+</style>
