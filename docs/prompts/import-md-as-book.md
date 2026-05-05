@@ -60,13 +60,36 @@ draft: false
 ### 페이지 frontmatter (각 .md 상단)
 ```yaml
 ---
-title: "<페이지 제목>"        # 필수, 한국어 OK
-description: "<선택 한 줄>"   # 선택
+title: '<페이지 제목>'        # 필수, 한국어 OK. ⚠️ 작은따옴표 권장 (아래 규칙 참조)
+description: '<선택 한 줄>'   # 선택
 draft: false
 ---
 ```
 
 frontmatter 다음 줄부터 본문. 본문 첫 줄에 `# title`이 frontmatter title과 같으면 제거 (자동 렌더되므로 중복).
+
+### ⚠️ YAML escape 주의 (반드시 지킬 것)
+
+제목/설명에 LaTeX 수식, 백슬래시, 큰따옴표가 포함되면 **반드시 작은따옴표(single-quote)** 로 감싼다. 큰따옴표는 YAML이 `\t`, `\n`, `\theta` 등을 escape sequence로 해석해서 빌드가 깨진다.
+
+```yaml
+# ❌ 빌드 실패 (\theta가 unknown escape)
+title: "기출 5번 — MAP, prior $p(\theta) \propto \theta^m$"
+
+# ❌ 빌드 실패 (\"가 escape인데 backslash 깨짐)
+title: "01. 채점 철학 — \"답만 적으면 0점\""
+
+# ✅ OK
+title: '기출 5번 — MAP, prior $p(\theta) \propto \theta^m$'
+
+# ✅ OK (single-quote 안에서 큰따옴표는 그대로)
+title: '01. 채점 철학 — "답만 적으면 0점"'
+
+# ✅ OK (single-quote 자체를 쓰려면 두 개 ''로 escape)
+title: '컴파일러는 ''함수''를 어떻게 보는가'
+```
+
+**규칙 요약**: 제목에 `\`, `$`, `"` 중 하나라도 있으면 무조건 single-quote. 일반 텍스트도 single-quote 통일이 안전하다.
 
 ### 본문 정리 규칙
 - H1은 페이지당 1개. 추가 H1은 H2로 강등.
