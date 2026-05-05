@@ -4,7 +4,7 @@
   --link:#2563eb; --accent:#3b82f6; --accent-soft:#dbeafe;
   --hl-yellow:#fef08a; --hl-green:#bbf7d0; --hl-pink:#fbcfe8;
   --callout-info:#dbeafe; --callout-warn:#fef3c7; --callout-danger:#fecaca; --callout-success:#bbf7d0;
-  --font-sans:"Pretendard",-apple-system,"Apple SD Gothic Neo",system-ui,sans-serif;
+  --font-sans:"Wanted Sans Variable","Wanted Sans","Pretendard",-apple-system,"Apple SD Gothic Neo",system-ui,sans-serif;
   --font-mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
   --content-w:clamp(40ch,65ch,720px);
   --sidebar-w:280px; --pagetoc-w:240px; --topbar-h:56px;

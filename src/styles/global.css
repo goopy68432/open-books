@@ -1,8 +1,9 @@
 @import "./tokens.css";
+@import url("https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.3/packages/wanted-sans/fonts/webfontkit/variable/split/WantedSansVariable.css");
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css");
 
 *,*::before,*::after{box-sizing:border-box}
-html{font-family:var(--font-sans);background:var(--bg);color:var(--text)}
+html{font-family:var(--font-sans);background:var(--bg);color:var(--text);letter-spacing:-.002em}
 [data-fontsize="1"]{--fs:var(--fs-1);--lh:var(--lh-1)}
 [data-fontsize="2"],html{--fs:var(--fs-2);--lh:var(--lh-2)}
 [data-fontsize="3"]{--fs:var(--fs-3);--lh:var(--lh-3)}
