@@ -23,7 +23,7 @@
   /* Typography — serif body, sans for UI/meta */
   --font-serif:"Source Serif 4","Noto Serif KR",Georgia,"Iowan Old Style",serif;
   --font-sans:"Inter","Wanted Sans Variable","Pretendard",-apple-system,system-ui,sans-serif;
-  --font-mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
+  --font-mono:"D2Coding","JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
 
   --content-w:clamp(40ch,68ch,720px);
   --sidebar-w:280px; --pagetoc-w:240px; --topbar-h:56px;
