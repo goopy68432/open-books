@@ -1,0 +1,44 @@
+---
+title: For the Sake of the Deathless — June 04, 2021
+slug: 210604-for-the-sake-of-the-deathless
+order: 10
+date: June 04, 2021
+mp3: https://www.dhammatalks.org/Archive/y2021/210604_For_the_Sake_of_the_Deathless.mp3
+pdf_transcript: ''
+source_url: https://www.dhammatalks.org/audio/evening/2021/210604-for-the-sake-of-the-deathless.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+I was reading recently about a conflict between two famous philosophers in America back in the late nineteenth century, early twentieth century, over why you would do philosophy. One of them said that the purpose was to arrive at knowledge, and the other one said, “What good is knowledge if it doesn’t tell you what to do?” Of course, from the Buddha’s point of view, both of them are wrong. From his point of view, what good is knowledge if it doesn’t lead to happiness? What good is action if it doesn’t lead to happiness, a happiness that you can really rely on? You have to remember that’s what the Dhamma is all about. Its purpose, its _attha_ , is to find a happiness that you can rely on.
+
+As the Buddha noted, the way the mind puts things together always has to have a purpose. There’s a passage where he defines the different aggregates as verbs. Even form deforms. We know form through its activities. And fabrication fabricates all the aggregates for a purpose, for the sake of something. And as the Buddha saw rightly, it’s for the sake of happiness. The thing is, we have to keep on fabricating because the happiness we’ve gained from our activities in the past lasts for a little while and then goes away. So we have to keep making more and more and more. The Buddha’s question was, can you fabricate in such a way that you arrive at a happiness that doesn’t disappoint, that’s not going to change?
+
+At first blush, it sounds contradictory. If you try to fabricate a happiness that doesn’t change, that’s impossible because our fabrications all change. But what he discovered was that we fabricate a path. We make the path skillful. It’s skillful in such a way that it arrives at the threshold of something that doesn’t change. In other words, it delivers us there. It doesn’t cause it. It’s just like taking your car and driving down to San Diego. It doesn’t cause San Diego, but the act of driving the car gets you there. That’s what we’re doing as we’re meditating here. We’re following a path and we have a purpose.
+
+Those people who like to claim that they meditate with no purpose at all: You wonder what kind of equation is going on in their minds. Why bother? We meditate because we make a difference by meditating. We meditate because we’re trying to develop the skill that’s needed. When the Buddha talked about his quest for awakening, he said it was both for something that didn’t grow ill, didn’t age, didn’t die, was free from sorrow, lamentation, and all the other disappointments; and it was also for what was skillful. He was looking for what was skillful as a means to get to the deathless.
+
+So that’s what we’re working on here, trying to develop a skill that allows us, as the Buddha said, to see what we haven’t seen before, to attain what we haven’t attained before. So we’re feeling our way. We do have a map, and it’s a map that’s just right. It doesn’t have too much information. If the Buddha had tried to give all the information he gained in his awakening, the map would become unreadable. He gave us just enough to get us on the right course.
+
+But the path also requires that we look at ourselves, because the problem that this path overcomes is something that lies within each of us. You have to take care of what’s inside you. If the Buddha could have taken care of it for you, he would have done it. He had a large heart like that. He wanted to help all beings. But he realized he couldn’t. He could speak to us, give us messages, but then we have to look within ourselves to see, on the one hand, how we’re creating the problem, and then on the other hand what we can do to stop creating the problem.
+
+That frame of mind that acts for the sake of things is both part of the problem but also part of the solution. So again, it’s not that we’re here practicing without any goal. We have a very clear goal. We also have to look at our actions, to see that each is for the sake of what? Why are we doing that? Sometimes we don’t think of anything very far ahead, but just for the sake of pleasure right now. This is one of the mind’s worst habits. It doesn’t think about long-term consequences. It thinks about just the short-term because it’s hungry. And if it’s not hungry enough, it can _make_ itself hungry. That’s a habit we have to learn to overcome.
+
+This is one of the reasons why the Buddha compared concentration to food. The different levels of _jhana_ , he said, are like different grades of food. The highest, of course, is the fourth, which he says is like honey, ghee, and butter, really rich food. We learn to feed ourselves on this, so that the part of the mind that likes to make you hungry will be stymied, and so that you can look more clearly at the choices you’re making.
+
+It’s when you’re well-fed that you can start thinking about the long-term with some clarity. Then the long-term has power over the mind. The Buddha said that one of the measures of discernment is when you see that something leads to a long-term harm but it’s something you’d like to do, you know how to talk yourself out of doing it. Or if you see something that leads to long-term benefit but it’s something you don’t like to do, you talk yourself into wanting to do it. For that, it really helps if the mind feels well-fed.
+
+Even though our goal is the deathless, what we’re working on right now is food for the fabricated path that will take us there. Still, have the conviction in the back of your mind that, yes, there is something deathless. The Buddha said there is. All the noble disciples have said he’s right. But now we have to focus on the path to go there.
+
+It’s like preparing for a trip. If you simply think about all the nice things you’re going to do and see on the trip, but you don’t pack your luggage or provisions properly, the trip isn’t going to go very far and you’re not going to see all those wonderful things you want to see.
+
+So focus right now on the breath for the purpose of knowledge, for the purpose of knowing what to do—both with the purpose of leading to the ultimate happiness. Have that purpose in the back of your mind. In the front of your mind, have the breath, have the mind focusing its attention on the breath, its alertness on what’s going on right now with the breath. Bring that mindfulness to the fore, as the Buddha would say.
+
+Dogen once said that the duties with regard to the third and the fourth noble truths are basically the same. You develop the path, and in developing the path you realize awakening, you realize cessation of suffering. It’s not someplace else. Some people have read this teaching as to mean that the path and the goal are the same, but that’s not the case. It’s in the doing of the path that you’re also doing the doing the duty of the third noble truth.
+
+So your focus right here—this breath coming in, this breath going out. Pay a lot of attention to the breath, because it is your path, and you can make it as smooth as you want. This is probably one of the reasons why the Buddha recommended breath meditation more than anything else. Of the different elements of the body, it’s the most responsive to your intentions right in the present moment. It shows you very clearly: If you hold this perception in mind, the breath will be one way. If you hold another perception in mind, the breath will be another way.
+
+Then you can judge which perception helps you settle down, which intention helps you settle down, and you can use that knowledge to develop concentration and to develop discernment. You start seeing the mind, you start seeing the fabrications of the mind. And in doing this very consciously, you dig up a lot of things that you do unconsciously that might resist. But it’s only when you counteract them that they’ll show themselves. Then you can figure out your way around them.
+
+So it’s by paying very careful attention right here that you get to that goal that seems so far away. But you have to remember, when it’s found, it’s going to be found right here. This is apparently what the Buddha meant by saying it’s touched with the body. We experience the body right now. That’s where the deathless going to appear, so look very carefully right here. As you make settling down with the breath your purpose, you find that leads deeper and deeper, to deeper purposes. So give this your full attention. This is the fullness of attention that leads to a sense of fullness of mind. And that gets you closer and closer to the goal.
+

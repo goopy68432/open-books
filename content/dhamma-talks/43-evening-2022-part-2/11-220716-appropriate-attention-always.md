@@ -1,0 +1,54 @@
+---
+title: Appropriate Attention Always — July 16, 2022
+slug: 220716-appropriate-attention-always
+order: 11
+date: July 16, 2022
+mp3: https://www.dhammatalks.org/Archive/y2022/220716_Appropriate_Attention_Always.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/220716_Appropriate_Attention_Always.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2022/220716-appropriate-attention-always.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+When Buddhism went to China, it got influenced by the I-Ching and the idea that each moment is unique. There are thousands of different ways that the I-Ching describes what’s appropriate for a particular moment. So you had to be sensitive to the particulars to decide what would be right or wrong in that particular case. Everything was relative to what the moment told you or how you intuited the moment.
+
+Which is very different from the Buddha’s original way of teaching. He said that there are certain principles you hold on to no matter what, and they give you a framework for dealing with whatever present moment comes up. Without exception. These are the principles of appropriate attention, which the Buddha explains in two connected ways.
+
+One is the principle that skillful actions should be developed, unskillful actions should be abandoned. The Buddha gives a list of what counts as skillful and what counts as unskillful, and you can take that as a framework for approaching every present moment. A lot of the principles of what’s skillful and what’s unskillful relate to the precepts. Which means the precepts always come first. It’s all too easy to say, “Well, this situation is such that we have to abandon that precept, or that situation is such that we have to abandon this precept, because we’re going to suffer this or that loss.”
+
+But as the Buddha reminds you, there are serious losses and losses that are not so serious. The serious ones are loss of right view and loss of your virtue. The ones that are not serious are the kinds of things that the world takes seriously, like loss of wealth, loss of health, loss of your relatives. The Buddha said that those are minor. You lose those things, you get them back—if not in this lifetime, then in another lifetime. They come and they go. But if you lose your virtue, you lose your right views, it can take a long time to get them back, and in the meantime you’re going to cause yourself a lot of suffering.
+
+The precepts protect us from getting worked up about worldly affairs, such as the news that this person is doing that horrible thing, that person has done this horrible thing, and people say, “We have to do something to stop them.” Well, yes, you do what you can, but within the precepts. It’s because people abandon the precepts so quickly that they don’t realize that there are ways of dealing with difficult situations while staying within the precepts. If you use your ingenuity enough, you’ll find what those ways are, so that you can minimize the losses. Other times, there are situations where you simply have to accept the fact that you’ll lose things, but you hold on to your precepts. You’re going to lose your health, wealth, and relatives someday anyhow. But there’s no need ever to lose your right view and your virtue.
+
+I’m frequently reminded of the veteran from the Vietnam War I heard being interviewed one time. Apparently, he’d shot and killed an innocent girl during the war, and that memory came back to haunt him every night. He said that if he had $1,000,000 to pay to go back and undo that deed, he would happily pay that $1,000,000. But no matter how much money you have, you can’t go back and undo the things you’ve done.
+
+So it’s best to have some rules that you hold on to beforehand, so that no matter what anybody says, or orders or tells you, no matter what anybody does, you’re not going to break your precepts. That determination protects you from that kind of regret.
+
+So we do hold on to this framework as our way of approaching each moment. There’s nothing special about any moment that lies outside of this principle of developing what’s skillful and abandoning what’s unskillful. Simply that as the practice progresses, that principle gets developed even further into the four noble truths, which is the second expression of appropriate attention. What you develop is the noble eightfold path; what you abandon is craving. You realize that when you abandon craving, you can put an end to suffering. You develop the eightfold path so that you can abandon craving and be done with the suffering.
+
+Again, you’ve got this framework for approaching each moment. This is one of the functions of mindfulness: to keep that framework in mind. When something comes up, you know what to do with it. For instance, with the hindrances: Those are part of the cause of suffering, so you know you have to abandon them. And again, that’s a framework you want to keep in mind, because it’s all too easy when the hindrances arise to fall in with them. Sensual desire comes along and there’s a part of the mind that says, “Yes, this object really is worthy of this kind of desire.” When ill will comes, that person really does deserve to suffer. When you feel sleepy, ah yes, you need to sleep. And so on down the line.
+
+But if you can keep that framework in mind, recognize what sensual desire is, and recognize it as a hindrance and something to be abandoned because it’s a cause of suffering, then you know what to do. You don’t listen to the voices that tell you otherwise.
+
+As for the clinging-aggregates, those are to be comprehended. That’s the duty with regard to the first noble truth. What does comprehension mean? It doesn’t mean you’re simply notice, “Oh yes, there is suffering,” or “This is what suffering is like.” You understand that suffering lies in the clinging to the aggregates. And why do you cling to the aggregates? Because you find pleasure in them. Some people will say that it’s because you think they have some abiding essence that you hold on to them, but I’ve never seen that as the reason for holding on to a mug, for instance. I like my mug because it works. It seems to repay whatever effort I put in to keeping it and caring for it.
+
+In other words, you see that the pleasure is worth it. No matter how much effort goes into it, the pleasure is worth it. So to comprehend the clinging-aggregates means to see, “Actually, it’s not really worth it.” This is where the contemplation of the body into 32 parts comes in handy. You think of all the grief that goes into finding somebody you lust for and having the relationship that you want—for the sake of what? Go down the parts of the body: Which are the ones that are really of value, that repay you?
+
+Actually, the parts of the body will not repay you. There’s something else going on in the mind. That’s the way the mind paints pictures about the relationship. Often it’s not so much focused on the object itself, but on you in your fantasies. But you have to ask: Are the fantasies worth it? What do you get out of them? Ajaan Lee’s image is of a dog gnawing on some bones that have no meat at all. What does it get out of it? The taste of its own saliva. Think about that.
+
+This is what it means to comprehend the aggregates. Try to see, which aggregate are you holding on to? What are you clinging to, and is it worth it? You can loosen up some of your attachment to the objects that you’re clinging to. Then you begin to turn around and look at the craving behind the clinging. As the Buddha said, we take craving as our friend. Everything it tells us to do, we do, we do, we do, we do, believing in it 100%, thinking that it’s got our best interests in mind. Well, no. It’s the kind of friend that gets you to break the law and then, when the police come, goes running off. Have you ever seen craving go to hell? Ever seen craving suffer? Craving just keeps on coming and coming and coming, but it gets _you_ to suffer.
+
+That’s where you need the things to develop, such as the noble eightfold path, the seven factors for awakening. When you have some mindfulness, maintain it. Nurture it. Turn it into right mindfulness. Analyze things into what’s skillful and what’s unskillful, so that you can have something good to hold on to. Try to develop it so that it gets more and more precise. As the Buddha said, you start out with basic dualities in the mind. You see what’s skillful and what’s not. What mind states are bright? What mind states are dark? You’re able to make those distinctions and then, based on that, you work on your persistence to give rise to what’s skillful and to get rid of what’s not.
+
+As the Buddha said, appropriate attention underlies all of the factors for awakening. Once you can exercise your persistence, get rid of those unskillful qualities of the mind, the mind is going to feel rapture, to feel calm, to get concentrated. Within the concentration, as it develops, the feelings get more refined, your perceptions get more refined. Then you can get to a state of really solid equanimity, where you can see things as they’re happening very clearly. As the Buddha said, this is where mindfulness becomes pure.
+
+These are things to develop in as many circumstances as you can muster.
+
+The Buddha’s giving us a framework to apply to every present moment so that we realize that in each moment, even though it has its unique features, it’s not the unique features that matter. It’s how things fit into that larger framework. The framework is what gives you guidance.
+
+This is what the teachings are all about. The Buddha didn’t set out the four noble truths just to say, “Here are some interesting facts to file away in your list of trivia.” These are facts that are meant to do something for you. As the Buddha said, we started out with this desire to get rid of suffering. Here he’s offering these facts for the sake of that. They’re facts with a purpose, with implicit duties, for you to take and use, in line with those duties.
+
+The framework is not being imposed on you. Our relationship to the Buddha is special. Postmodern people tell us that everybody telling you what you should do is basically trying to exert power over you. But that doesn’t apply to the Buddha. He found something really good and he wants to share it out of compassion. If you have compassion for yourself, you adopt this framework, follow its guidance and you can’t go wrong. You’re wrong only when you try to make exceptions. If you make exceptions, you’re the one who’ll suffer. Sometimes, following your example, other people will suffer, too.
+
+So, both for their sake and for yours, keep this framework in mind—the framework of what’s skillful, the framework of appropriate attention—for your long-term welfare and happiness.
+

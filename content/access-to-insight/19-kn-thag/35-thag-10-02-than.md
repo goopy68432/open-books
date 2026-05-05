@@ -1,0 +1,14 @@
+---
+title: Ekavihariya — Dwelling Alone
+slug: thag-10-02-than
+order: 35
+author: Thanissaro Bhikkhu
+nikaya: KN
+year: '2003'
+source_url: https://www.accesstoinsight.org/tipitaka/kn/thag/thag.10.02.than.html
+license: CC-BY-NC
+---
+
+If, in front or behind, there is no one else, it's extremely pleasant for one staying alone in the forest. Come then! Alone I will go to the wilderness praised by the Awakened One pleasant for a resolute monk dwelling alone. Alone, astute in my goal, I'll quickly enter the grove — refreshing, giving rapture to meditators — the haunt of elephants in rut. When the Cool Forest's in full flower, in a cool mountain gorge, having bathed my limbs I'll walk back & forth. alone. Ah, when will I dwell, alone and free from companions, in the refreshing great forest — my task done, fermentation-free? As I desire to do this, may my purpose succeed. I myself will bring it about. No one can do it for anyone else. I myself bind on my armor. I will enter the grove and will not emerge without having attained fermentations' end. While soft breezes blow — cool, heavily, fragrantly scented — I'll make ignorance burst, as I sit on a mountaintop. In the forest covered with blossoms or perhaps on a cool hillside, blessed with the bliss of release, on Giribbaja I'll delight. [1] I am now he whose resolves are fulfilled like the moon on a full-moon night. With all fermentations totally ended, there is now no further becoming. 
+  *[MLS]: Middle Length Sayings (I.B.Horner, tr.; PTS)
+  *[MLDB]: Middle Length Dsicourses of the Buddha (Bh. Bodhi, tr.; Wisdom Publications)

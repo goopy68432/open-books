@@ -1,0 +1,38 @@
+---
+title: Endurance & Contentment — March 25, 2020
+slug: 200325-endurance-contentment
+order: 35
+date: March 25, 2020
+mp3: https://www.dhammatalks.org/Archive/y2020/200325_Endurance_&_Contentment.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/200325_Endurance_&_Contentment.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2020/200325-endurance-contentment.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Endurance and contentment are virtues that Westerners are notoriously bad about and lacking in. The ajaans in Thailand noticed, when they had Western students, that these were their weak points. Westerners had trouble enduring hardships, enduring restrictions. They were always finding something wrong with the situation and making themselves thoroughly miserable.
+
+So these are two virtues that we have to work on. And a large part of developing endurance and contentment lies in learning how to talk to yourself. As you know, the Buddha’s analysis is that through ignorance we fabricate bodily, verbal, and mental fabrications in ways that cause suffering. So we have to bring some knowledge to the process, so that we can turn these fabrications into the path to the end of suffering. And the “knowledge” here is the knowledge of a skill: knowing how to breathe, knowing how to talk to ourselves, knowing what perceptions to hold in mind.
+
+One of the most harmful mental fabrications to focus on is how you’re suffering under some condition that other people are not suffering under and thinking that it’s not right. But then again, you don’t know other people’s states of mind. They may be free in some ways that you’re not free, but suffering under other burdens that you don’t know. So that kind of comparing mind isn’t helpful. One of Ajaan Fuang’s students once complained to him that she had a miserable life. And he said to her, “Your ‘miserable’ life would be twenty times good for a lot of other people.”
+
+So learn to look at the good side of the situation—and there _is_ a good side. Focus on that. This works both for contentment and for endurance. In terms of endurance, if you’re constantly focusing on what’s difficult, what’s painful, where you’re weak, it just aggravates the situation. Look for your strengths. Look for the things that _do_ give you support. I found this very helpful when I was living alone on the mountain there in Thailand. The situation sounds like it should have been ideal: I had all this time for myself. But when I first got there, after a couple days I felt trapped. There was nowhere else I could go. And I found that looking around for helpful things I could do for other people gave me a sense of accomplishing something within the restrictions of being there.
+
+So look around. See what kinds of small favors you can do for other people. Or simply straighten things out. If you find that something is a mess, well, you can straighten it out. Most of us divide our times between the things we have to do and the things we want to do. When we’re done with the things we have to do, we think, “Well, what do I _want_ to do now?” But it’s good to ask yourself instead, “Do I have a little extra energy to do something else, not just for satisfying my wants, but as an act of kindness?”
+
+And then learn how to look at the voices in your mind.
+
+It was during that period on the mountain that I began to realize that my mind was like a committee: lots of different opinions, some of which I could trace to my mother, to my father, different lessons I had picked up at school, picked up from the culture at large. Being in a place far away from my culture, far away from my family and friends, allowed me to identify who I was carrying around inside. I could ask myself, “What do those people know? What did they know when they said that or they passed on that value, passed on that idea? Have I ever really tested it or did I just pick it up?” And seeing the voices not necessarily as _my_ voice talking to me inside, but just as different voices inside, allowed me to step back and choose what kind of conversation I wanted to have with myself. That insight makes it a lot easier to put up with the times when the mind is saying all kinds of crazy things.
+
+Because this is what it comes down to. Ajaan Lee points out that of those three kinds of fabrication, verbal fabrication is the real culprit. We suffer because of the way we talk to ourselves. And we can change the way we talk to ourselves. We have our old habits, we have the old conversations we’ve been through many, many times, and we know that they don’t put an end to suffering, and yet we engage in them again and again anyhow, because we don’t see anything better, or don’t think that we’re capable of anything better. Or we say to ourselves, “This is the way I am, this is way I think, this is way it’s got to be.” But if you couldn’t change the way you talk to yourself, then the Buddha wouldn’t have taught. It’s because we can change our ways that the Buddha taught the Dhamma.
+
+So look into that verbal fabrication. Technically, it’s defined as directed thought and evaluation, but it basically comes down to the chatter going on in the mind. When you invest that chatter with your identity, it makes it hard to step back from it. So instead, you can look at it as the committee of the mind, or the corporation of the mind. Or try Ajaan Lee’s image: There are all those worms inside your body, the germs inside your blood vessels. As those germs go through the blood vessels in the brain, they may leave a few ideas behind. Or who knows about the spirits of people and animals that you’ve mistreated in the past: They may be hovering around, looking for a chance to slip something disruptive into your mind when you’re not noticing.
+
+In other words, figure out some way of seeing the voices as Other. That’s what the Buddha said lies at the essence of discernment: seeing things as separate. You don’t have to identify with them. You can choose your identity; you can choose the voices in the mind that you’re going to side with. So take advantage of that fact.
+
+That will make all the difference between whether you’re discontent or content with where you are. Realize that where you are right now is good enough to practice. That’s what contentment is for. Ask yourself: “Can you breathe? Can you focus on your breath? Do the circumstances around you allow for that?” If they allow for that, then the problem is inside, so you turn and look inside, because remember what the limits of contentment are: You content yourself with outside circumstances that are good enough to practice, so you can focus on being discontent with the level of skill in your mind. You can focus on the work that really needs to be done.
+
+The same with endurance: If you tell yourself, “I _must_ have the strength to do this,” you find that you do have it. If you tell yourself, “I don’t have the strength, I can’t stand it,” things are going to break down. So learn to build up some resilience. Learn to build up some confidence that the resources are there, the potentials are there so that you can practice. You do have the strength. You _can_ put up with difficult situations, you _can_ put up with restrictions outside. You’ve got what it takes. Listen to the voice that says that inside. And then focus on the work that really needs to be done.
+
+If the end of suffering involved straightening out the world, there would be no end to the problem. But what it really involves is straightening out your inner conversation. So focus there and you’ve got a lot of the problems solved.
+

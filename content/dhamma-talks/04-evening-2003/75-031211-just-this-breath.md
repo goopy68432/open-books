@@ -1,0 +1,42 @@
+---
+title: Just This Breath — December 11, 2003
+slug: 031211-just-this-breath
+order: 75
+date: December 11, 2003
+mp3: https://www.dhammatalks.org/Archive/y2003/031211 Just This Breath.mp3
+pdf_transcript: ''
+source_url: https://www.dhammatalks.org/audio/evening/2003/031211-just-this-breath.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Don’t tell yourself you’ve got a whole hour to sit here. Just tell yourself you’ve got _this_ breath: _this_ breath coming in, _this_ breath going out. That’s all there is: _this_ breath. As for the breaths for the rest of the hour, don’t even think of them right now. Pay attention to them when they come. When they go, you’re done with them. There’s only _this_ breath.
+
+Your meditation needs that kind of focus if you’re going to see anything clearly. This attitude also helps to cut through a lot of the garbage at the beginning of the meditation. You may have experience from the past of how long it takes for the mind to settle down. But by now you should have a sense of where the mind goes when it settles down. Why can’t you go there _right now_?
+
+Once you’re there with the breath, and you can get your balance, try to _maintain_ balance. Again, it’s just _this_ breath, _this_ breath. See what you can do with _this_ breath. Welcome it as an opportunity for making things better. How deep can it go, how good can it feel? How much of your attention can you give to it?
+
+Ordinarily, the mind is like a command post where you’re receiving information from all directions about all sorts of different things, and it has a tendency to reserve some attention from what you’re trying to focus on right now in case an emergency comes up. But while you’re meditating you want to bring all of your attention to the breath. Don’t hold anything in reserve. If you find any part of your mind or body that’s not connected with the breath, well, get it connected. Add it on. Let the connected parts build up as much as they can with each breath.
+
+The more fully you can be in the present moment, the better. One moment of full attention is better than a whole hour of just drifting around. Of course, a whole hour of full attention is better than just one moment, but you can’t do the whole hour at once. You can only do this moment, so give yourself fully to _this_ moment. Don’t hold anything back.
+
+In the texts this quality is called _citta_ , intentness. It’s one of the bases of success. It means giving the breath your full attention, not saving anything for the next breath. You give everything to just _this_ breath. After all, as the Buddha says, how can you know how much longer you’re going to live? There’s the _Sutta_ where he asks the monks, “How often do you remind yourself of death every day?” One monk responds, “I remind myself that if I had one more day to live, I could do an awful lot in terms of the practice.” Another monk says, “I tell myself that if I had half a day left to live, I could do an awful lot in terms of the practice”, and so it goes on down to shorter and shorter intervals of time until finally one monk says, “I keep telling myself, ‘If I had one more breath to live I could do a lot in terms of the practice.’” And the Buddha says, “The last monk is the one who’s not complacent.” Everyone else, he said, counts as heedless and complacent.
+
+What this means is that in one breath you’ve got everything you need to focus on, everything you need to “do a lot in terms of the practice.” If we let our practice get automatic without giving it our full attention, then this breath comes and that breath goes, and all without our getting much out of any of them, thinking somehow that the number of breaths can make up for the fact that we didn’t really pay attention to any one particular breath very much.
+
+It’s like presenting an argument. Some people think that 50 weak arguments add up to one strong argument, or that 50 poor reasons for something add up to one good reason, but they don’t. All you need is one really good reason, one really good argument that goes straight to the jugular, and you win the day. It’s the same with the meditation: all you need is one really good breath, one intently experienced breath, one fully experienced breath. That can show you a lot more than an hour or two of superficially viewed breaths—breaths where you’re just skimming across the surface, hoping to get through all this breathing to the end of the hour.
+
+So try to immerse yourself in the breath. The word _kayagatasati_ means mindfulness “immersed in the body.” The “ _–gata_ ” there is a suffix meaning immersed. Try to surround yourself totally with the breath. Be aware of the breath on all sides. That way you don’t have room to hold anything back. Things begin to open up in the body, things begin to open up in the mind. Sometimes, you can begin to detect an actual physical sense that you’ve been pulling yourself back somehow from your body, or that you’re doing it now: pulling yourself back from being totally immersed in the present moment, saving a part of yourself for something else. Well, as you’re meditating, let go of that sense of pulling back. Let yourself jump right in to the present moment the same way you’d jump into a big pool of water.
+
+Everything you need to know for the purpose of Awakening is right here, and if you hold back it that means you’re missing some of the elements. So as far as you’re concerned right here, right now, this is all there is: _the right here, the right now—this breath, this breath_. If you see any thoughts arising in the mind about how much longer we’re going to be sitting here or how long we _have_ been sitting here, just let them blow away. Think of the breath as going right through them, not giving them any space to land. You’ll find, as you stay fully immersed in the breath like this, that a lot of the good qualities you want to develop in the practice come along without your having to think about them. You don’t have to worry about directed thought, you don’t have to worry about evaluation, you don’t have to worry about all those Wings to Awakening. As you fully give yourself to the breath, fully give yourself to the present moment, they all come together.
+
+Luang Paw Phut once told of the time he was studying with Ajaan Sao. Ajaan Sao’s meditation instructions were simplicity itself. “Just focus on the meditation word,” he said, “that’s all you have to know. Don’t ask what it means, don’t ask where it’s going to take you. Just focus on the one word, _buddho_.”
+
+Luang Paw Phut, being the sort of person who liked to read a lot, would read Ajaan Singh’s meditation guide, which talks about establishing mindfulness and all the other steps you have to go through to get into your meditation. So he asked Ajaan Sao about this, and Ajaan Sao said, “Look, when you focus on the _buddho_ , all those other steps happen of their own accord without your having to decide where mindfulness is and where you have to establish it. If you allow yourself to focus fully on the _buddho_ , all those other qualities come along as well.”
+
+The same holds true in being with the breath. Fully give yourself to the breath. If you want to say a meditation word along with it, think of every little cell in your body saying _buddho, buddho_ until the mind is really there with the breath. Then you can let go of the word and just be with the breath. Don’t pull out, don’t pull back, just stay right here.
+
+Bit by bit you’ll find yourself adjusting to staying right here comfortably: that’s the directed thought, that’s the evaluation. But you don’t have to give those processes those names. Just be right here, be aware right here, be comfortable right here, and the fullness of your awareness will develop over time without your having to plan ahead, without your having to pace yourself. Give yourself fully right now. If you give yourself fully right now and if it grows fuller in the course of time, fine. If not, you’ve done everything you can, so there’s no need to worry about it. You don’t have to ask yourself where you are in the grand arc of the hour. You don’t have to save yourself for the last lap. It’s not like being a runner who has to pace himself. You give yourself fully to the breath right now, right now, and don’t have to worry about what you’re going to have left at the end of the hour. The full- giving right now is what’s going to see you through the hour.
+
+So, as you’re meditating here, there’s just this one thing: _this_ breath. That’s all you need to know.
+

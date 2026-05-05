@@ -1,0 +1,60 @@
+---
+title: The Airplane Mechanic — June 21, 2011
+slug: 110621-the-airplane-mechanic
+order: 43
+date: June 21, 2011
+mp3: https://www.dhammatalks.org/Archive/y2011/110621 The Airplane Mechanic.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/110621_The_Airplane_Mechanic.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2011/110621-the-airplane-mechanic.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+One of the paradoxes in the Buddha’s teaching is that, on the one hand, we’re told to be patient and, on the other, we’re told to have a sense of urgency. One teaching tells us to slow down; the other tells us to speed up. So how do you put those two together? Well, think about times when you’ve been in an airport. You get to your gate and learn that they’ve found a technical problem with the airplane and there’s going to be a delay. Part of you wants them to hurry up and fix the problem quickly, and another part realizes that if they’re in too much in a hurry, they might actually miss something important. You could die if they’re too quick, in too much of a hurry to get things done.
+
+So as you meditate, think of the mechanics there. On the one hand, they do have to have a sense of urgency, but they also have to be patient enough to do things very carefully, to do them right.
+
+A lot of this comes down to what it means to be observant. You want the mechanic to be observant. That means, on the one hand, being slow enough to observe things and, on the other, being quick enough to observe things: slow in the sense that you don’t want to jump to any conclusions before you really have all the evidence in, and quick in the sense that you want to catch the subtle things as they come and go, come and go.
+
+These qualities come together when the mind is really still, with mindfulness ardency, and a sense of alertness. When you’re working with the breath, you’re ery patient to observe the breath; to see what really does feel comfortable. And then when you have a sense of comfort, allowing that sense of ease to spread through the body without pushing it; without forcing it, because if you force it too much, it’s not going to be ease anymore. It’s not going to be comfort anymore. But you have to be ardent in being as sensitive as possible to catch things quickly, so that you can respond in time.
+
+So think of whatever qualities you’ve had to develop to be observant in some area where you are already skilled: both the patience and the quickness; the slowness and the quickness. Try to bring those same qualities to what you’re doing right here, right now. If the mind wanders off, you want to be quick to bring it back because the skill we’re working on right here right now—although it does require patiently watching the mind; watching the thoughts that come into the mind—the first order of business is to be able to pull out of those thoughts whenever you have to, because to watch the thought, you have to get out of it.
+
+That means that as soon as you notice that you’re wandering away, you just drop the thought. You don’t have to tie up the loose ends. You don’t have to make a note to come back to it later. Just drop it. Come back to the breath. Over time, that ability to drop it turns into a habit that you can call on whenever you need to.
+
+There’s that old story of being in a dream. You’re in a boat. And there’s one too many people in the boat. There’s your mother and there’s your father and there are all the members of your family. You know that if everybody stays in the boat, everybody’s going to die. One person has to leave and you’re asked to choose. What do you do? If you really get into the narrative, you get yourself all tied up. But if you remember, “Hey, this is a dream,” you just get out of the dream. That’s it.
+
+That’s the kind of skill you want to develop as you’re meditating and dealing with thoughts, however strong and important they may seem. For the time being, you put them aside, telling yourself that the skill you need right now is the skill of getting out. And to help further that skill, you need this sense of well-being in the body so that you’ll have a nice place to go. Because, for the most part, the reason we go into those thought worlds is because we’re in an uncomfortable place looking for some kind of satisfaction and relief.
+
+Even the negative emotions have their attractions. And the best way to see that attraction is to give yourself something better: a better place to go; a better place to be. So try to develop this sense of well-being in the breath so that as soon as you notice that you’ve slipped off, just drop it, whatever the thought is. Come right back to the comfort of the breath.
+
+If you find that the thought is insistent, that you keep going back and back and back to it, that’s when you have to develop some discernment. Remind yourself of the drawbacks of that kind of thinking. If you would allow yourself to indulge in that kind of thinking for 24 hours, where would it lead you? What kind of state would you be in at the end of the 24 hours? Do you really want to induce that kind of state in the mind?
+
+Or you can simply think of it as a movie you’ve seen many, many, many times before. You know what Humphrey Bogart is going to say. You know what all the characters are going to say. Why do you want to watch it again? And when you come right down to it, it’s not even Humphrey Bogart in your movie. If your thoughts were put up on a movie screen, would you want to pay to see them? When you can think in this way, it’s a lot easier to drop the thinking.
+
+And if you find that it keeps coming back, then you make up your mind for the time being: “I’m just going to ignore it.” We know that therapists say to allow yourself to feel the emotion, to get into the emotion, to not be in denial. Well, you’re not in denial when you’re developing the skill of pulling out. You’re pulling out knowing what you’re doing. In denial, you pretend that it’s not happening, that you don’t have those feelings; that you don’t have those thoughts.
+
+But here we’re not denying it. We’re simply asking ourselves to develop a new skill, so that when the thought arises, we can say, “I’m simply going to stay here with the breath. The thought can be in another part of the mind. But I’m simply not going to pay it any attention.” Doing this allows you to get in touch with the breath, and realize that even though the thought may be there, you don’t have to get sucked into it. This is a really important skill, because for most of us, as soon as a thought arises, we have to get into it.
+
+It’s like finding a piece of clothing lying on the floor and you feel that you have to get into that piece of clothing and take on whatever role it symbolizes. If it’s a soldier’s uniform, you suddenly become a soldier. If it’s an apron, you have to become a cook—whatever. But here, you just put it aside and say, “Okay, there’s a piece of clothing on the floor, but I don’t have to go there. I don’t have to get into it.” If you’re going to understand your thinking, you have to have this ability to watch the thoughts from an outside perspective. One way to do that is simply to say, “I’m going to stay here with the breath. The thought can go chattering on as much as it wants.” And usually these thoughts are like crazy people. They want to get your attention and they’ll say anything outrageous they can. But you just have to be firm that you’re not going to go there. You’re not going to even look at them. You know they’re there, but you’re not going to look at them. And ultimately, they’ll lose their interest and go away.
+
+If they don’t, another technique is to simply notice where in the body is the tension that goes along with the thought. When the thought come in, there’s going to be tension, say, in your back, your face, in your neck, someplace in the body. Once you notice that, breathe through it. Allow it to relax. Think of yourself as atomizing the tension, allowing it to blow away. When the thought has no place to stand, it’ll disappear.
+
+The final technique in the arsenal that the Buddha recommends is that if the thought just keeps coming back, coming back, coming back in spite of all these other approaches, you stick your tongue against the roof of your mouth, you clench your teeth and just say, “I will not think that thought.” If you have a meditation word like Buddho, you just jam the airwaves with that: “Buddho, Buddho, Buddho,” rapid fire, whatever the meditation word may be. This, of all the techniques, is the one involving the least discernment, but there are times when you need it. It’s not the case that we always have to treat our thoughts with kid gloves.
+
+And you realize that having aversion for the thoughts is not going to help. Again, it’s like that problem of trying to be too quick or too slow. If the aversion just tries to chase the thought away, that’s the kind of thinking that ends up in denial, creating more tension and more frustration. Then, of course, the unskillful thought is going to go underground. It’s going to sneak around for a while and then come up with a big tentacle like The Thing, which is what you don’t want.
+
+So in the same way that you try to develop skillful qualities by combining patience and urgency, it’s the same way with dropping unskillful qualities. You don’t hate them but you try to be quick in noticing them. And you try to be thorough and patient and say, “I’m going to clear some space here.” The whole problem with these distracting thoughts is that when you get into them, when you get sucked into them, all of a sudden they color everything you see.
+
+At the very least, you have to be able to step out and say, “There’s that thought there, but I’m here.” In the beginning, as long as the “here” is not really solid, you don’t want to get too involved in observing the thought. You want to make this sense of being here with the breath really, really solid. And then you’re in a much better position where you can actually observe the thought and understand it and figure out, “Why is there this attraction to that kind of thinking? What kind of miserable nourishment do I get out of it?”
+
+It’s easy to see that kind of nourishment when you have something better to feed on. So that’s why we feed on the breath; feed on the sense of ease that we can develop in the body so that we can catch the mind as it goes looking for other pleasures—and see those other pleasures for what they are, that they really aren’t worth it.
+
+What this all comes down to is that we’re really trying to be observant; to watch things carefully. And that requires a whole panoply of skills: knowing when to be quick; when to be slow; when to be gentle; when to be forceful.
+
+So again, think of the mechanic on the plane. On the one hand, you want to be quick enough so that you can get the plane off in time, or at least not make he passengers wait too long. But on the other hand, you want to do a thorough job so that you don’t miss anything that suddenly malfunctions when they’re up at 35,000 feet.
+
+So try to develop this combination of patience and urgency that allows you to be observant, that allows you to be both slow and quick so that you can deal effectively with the problems at hand. And that’s what it’s all about. We’re solving a problem here: recognizing there is a problem. The mind’s causing itself suffering. And there is a solution.
+
+There’s another paradox. On the one hand, we don’t have much time. On the other hand, we have all the time in the world. If we don’t finish the job in this lifetime, we can come back and try it again and again. Still, that coming back involves a large amount of suffering. So if there’s something you can observe now, something you can deal with right now, you don’t want to wait. This is why the best attitude to have is one of timelessness in your efforts. You’re always watching what’s happening right here, right here. It’s always right here, right now. And you always do what you can right here, right now. That’s when things will get done well and on time.
+

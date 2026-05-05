@@ -1,0 +1,40 @@
+---
+title: The Path Is in the Details — November 23, 2005
+slug: 051123-path-is-in-the-details-the
+order: 85
+date: November 23, 2005
+mp3: https://www.dhammatalks.org/Archive/y2005/051123 Path Is in the Details, The.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/051123_The_Path_Is_in_the_Details.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2005/051123-path-is-in-the-details-the.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Often we’re drawn to the practice because of the big concepts: oneness, interconnectedness, peace. But when we sit down and meditate, we don’t see any of those things. All we see is confusion. We see the particulars of our mind right here in the present moment, and it gets us frustrated. How can these particulars lead to anything big?
+
+But think for a minute. If you’re going to go to the Grand Canyon, what are the directions to the Grand Canyon? They don’t say, “Go north until you hit the splendor and then turn right. Continue east until you hit vastness.” They say, “Go up Interstate 15 till you hit Interstate 40. Go east on 40. Get off at Williams and head north.” Very specific, down to earth instructions. And you have to pay attention to the specific, down to earth instructions if you’re going to get there. All the things that have to do with driving—watching out for this car, watching out for that car, all the very particular things: It’s by paying attention to them that you get to the big place.
+
+It’s the same with meditation. The present moment in the mind is always made up of particular things: particular thoughts, particular experiences, and especially particular intentions. Those are the crucial things. So it’s important, as you meditate, as you get to know your mind, to look for the particulars. The path comes down to something very basic: being honest about your intentions. Often this is difficult, but it’s the most important work. After all, each intention is the potential for something new in every experience and every moment. Your past habits, your past tendencies, color the present moment to some extent. But they don’t have to totally overwhelming. They don’t have to determine everything that’s going to happen right now. You do have the freedom with each and every moment to choose to do the skillful thing, to choose to be honest about your intentions, so that you can check to see whether they’re skillful or not. If they’re unskillful, you can drop them.
+
+This is all very basic, basic work. It’s the Interstate 15 and Interstate 40 of our practice. It’s the particular car you have to watch out for—the one speeding up behind you or the one stopping in front of you—and your choice of how to handle the traffic: That’s what gets you there. The fascinating thing about the present moment is this present intention, the possibility for freedom right here, the possibility for change. It’s what holds everything together.
+
+When the Buddha talks about experience being composed of the five aggregates, each aggregate is a potential coming in from the past that then gets actualized through your fabrication of the present moment out of those raw materials. There’s a potential for form, for feeling, perception, fabrication, consciousness, but with your present intention you choose how to put those things together and turn them into actual forms, feelings, perceptions, and so on.
+
+This is something very quick. We’re very adept at it. Because it’s so quick, it’s hard for us to catch sight of it. And because we’re so adept at it, we don’t even notice it, as with any skill you can do effortlessly. After a while, you hardly notice it at all. Yet there is a lot of effort that goes into this, and the question is: Is it worth the effort? The Buddha says, ultimately, No, but for the purpose of the path, you first have to learn how to put things together in a skillful way.
+
+This means looking at your intentions, looking at what motivates them. Is there any greed, anger, or delusion in there? If so, watch out. You have to be willing to the test your intentions and to learn from your mistakes. All this is the nuts and bolts of the meditation, which may sound dull and uninteresting, but if you keep your awareness on this level, you find you have less and less chance of being deluded, and a greater and greater chance of living life skillfully. It’s when we get lost in abstractions that we’re up in the clouds and can’t see things clearly for they are.
+
+I know someone who went to a retreat one time and the lesson taught at the end of the retreat was to try to view your daily life as an interaction of the absolute and the relative. She tried it for a week, and at the end of the week, when she asked me a question about it, the question was extremely confused because the abstractions were actually getting in the way of seeing anything clearly.
+
+Think about the teaching on karma. Everyone treats it as if it were kindergarten Buddhism. Some people actually treat it as if it weren’t really Buddhist: something that got picked up by the tradition from its surroundings in India, something that got thrown into the baggage by mistake when it flew over here from Asia. But that’s not the case. The teaching on karma is actually radically central to everything the Buddha taught. Your intentions are the big issue in life, the big issue in the practice, and they come one by one by one. You can watch them one by one by one, and you can see that they have their impact. You learn how to judge them by evaluating that impact and connecting the dots: It’s the kind of intention that gives this or that kind of result. The next time you see it, then if it’s a bad result, watch out and try to avoid it. If it’s a good result, remember it and add it to your range of skills. You still have to watch it carefully, just to be sure, but meanwhile you want to nurture the skillful actions as you understand them.
+
+The good news here is that, as the Buddha said, this is the potential for change in our lives, this is the potential for growth: right here in the specifics of our intentions, the specifics of how they’re motivated and what kind of results they give. That’s how you take advantage of this potential for growth.
+
+So be careful not to get lost in abstract concepts. Keep your eyes on the moment-to-moment arising of intentions. Give yourself good intentions to focus on, as when you’re doing meditation: Give yourself a good intention to hold on to, so that the mind can develop the stability and the sense of ease it needs to keep watch continually in the present moment. You find, as time goes on, that the task gets lighter and lighter. You’re more familiar with that spot. As you’re more familiar with it, you can sense the quality of intention as it arises. Sometimes even before it becomes a coherent thought, you can tell whether it’s going in the right direction or wrong. You can then deal with it accordingly.
+
+This is how our life gets transformed, by paying attention to the details of our actions, the details of our intentions, right here now. Don’t try to jump over the steps too quickly. This is why we have to pay a lot of attention. And our focus doesn’t have to go anywhere else. Your attention just gets more and more refined right here, right here, right here. That allows it to see more of the details of your intentions right here.
+
+That’s how working with these little things can lead to something really big. As the intentions get more and more refined, you finally get the mind to the point where there’s total equilibrium. It doesn’t need any new intentions. It can see that any new intention just makes things worse, even very subtle intentions, and learns how not to intend. That’s when everything opens up. It’s like one tiny thread that holds a huge tapestry together: You cut the thread and the whole thing unravels.
+
+Or it’s like the mouse that saved the lion because it could eat through the net in which the lion was caught. So don’t look down on the little things, because some little things can make a huge difference.
+

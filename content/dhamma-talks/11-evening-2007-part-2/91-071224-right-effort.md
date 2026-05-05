@@ -1,0 +1,62 @@
+---
+title: Right Effort — December 24, 2007
+slug: 071224-right-effort
+order: 91
+date: December 24, 2007
+mp3: https://www.dhammatalks.org/Archive/y2007/071224 Right Effort.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/071224_Right_Effort.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2007/071224-right-effort.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+One of the Thai idioms for meditation practice is “making an effort.” A lot of us don’t like seeing it that way. We like to think of meditation more as a process of not doing anything, or of relaxing. Well, there is relaxation, but there has to be relaxed effort—or better, joyful effort, because the term “relaxed effort” sounds like a lax effort, which it’s not. We’re making an effort in pleasure and ease, trying to develop a state of mind where the body is suffused with pleasure and rapture, but that involves work. It’s the work of the directed thought and evaluation, evaluating the breath so that it can give rise to a sense of ease at least in some spot of the body, and then being able to work that sense of ease and fullness throughout the whole body.
+
+That requires that you understand the process of breathing, you understand how you relate to feelings, what can actually done with a feeling of pleasure, how it can be allowed to spread, what ways of trying to make it spread don’t work, what ways do work. This requires effort. But when you have the right attitude toward the effort, you enjoy it, and it pays off.
+
+Right effort is sometimes described as a certain level or amount of effort—not too little, not too much—and although the amount of effort does play a role, it’s more important that you understand what skillful and what’s not. There are four areas that you have to attend to, each with its own duty, and they all depend on having a good sense of which qualities in the mind are skillful and which qualities are not. The Pali word here, _kusala,_ is sometimes translated as “wholesome”—i.e. wholesome qualities _vs_. unwholesome qualities—but that misses an important aspect of the practice. We’re trying to develop the same attitude toward effort that you’d apply when developing a skill. When you see the importance of the skill and begin to get a sense of mastering the skill, there’s a sense of joy that comes from that.
+
+You notice that with any skill. As you begin to sense that you’re becoming a better and better cook, you want to go back into the kitchen and work at it some more. As you begin to master a foreign language, you find that you enjoy learning new words, figuring out the idioms, trying to test your skills, so that you can get better and better at it.
+
+You want to take the same attitude toward the meditation. In fact, as a meditator, you want to take the same attitude toward your whole life. When you’re dealing with other people, think of it as a skill, because you’re bound to run into difficult people. You’re bound to run into difficult situations. If you simply wilt in the face of difficulty, you’ll never learn anything. Or if you want to try to avoid difficulty, wanting to be surrounded by nothing but loving, wonderful people, you don’t belong in human realm, because you’re never going to find a situation like that here.
+
+But if you realize that, regardless of the difficulties, there are ways of dealing with them that are more skillful than others, then as you can develop the skills, you find that you’re more and more eager to master them, to perfect them. That’s the right attitude toward right effort: regarding, say, the hindrances of the mind as a challenge you want to meet, regarding the factors for awakening also as a challenge you want to master.
+
+As with any skill, you’re going to find that you make incremental progress sometimes, and other times there are big leaps and bounds, but you want to value both. If you look down on the incremental progress, you’re developing the wrong attitude. You have to learn how to prize the times when you can make, as Ajaan Maha Boowa says, even one little tiny speck of bark on this tree of your defilements get taken off. You should value that fact, because as you value the little bits of skill, that gives you encouragement to work on them again and again and again, until the days when you see huge strips of bark coming off.
+
+So on the one hand you’ve got the unskillful qualities of mind, and your duties with regard to those are two. You want to generate desire, arouse your persistence, uphold your intent, for abandoning unskillful qualities that have already arisen, and for preventing unskillful qualities that haven’t arisen from arising.
+
+Notice that desire is an important part of the practice here. This is where the Buddha explicitly recommends it as part of the path. And again, the way to spark that desire is to regard all this as a skill, or even as a game. If you’ve ever played a game of strategy, you want to take that same attitude and bring it to your dealings with your sensual desire or your anger, or your sloth and torpor, your restless and anxiety, or your uncertainty. What are the strategies of these unskillful qualities? How do they move in and take over the mind? You want to figure out their strategies so that you can have some strategies of your own to counteract them.
+
+Then there are the skillful qualities, the seven factors for awakening: mindfulness as a factor for awakening; analysis of qualities, i.e., analyzing things into skillful and unskillful; persistence; rapture; serenity; concentration; and equanimity. These are qualities that, if they haven’t arisen yet, you want to give rise to them. When they have arisen, you want to develop them.
+
+Notice that the Buddha’s attitude here is not that you simply watch these things come and go. Sometimes you hear that if concentration comes, just note the fact the concentration is there, don’t get attached to it. Just watch it go away, and you’ll see the truth of inconstancy. That’s not what the Buddha taught. Your duty here, once you’ve given rise to it, is to generate the desire to develop it, to bring it to culmination.
+
+Again, it involves desire, but it’s a skillful use of desire, i.e., a desire that understands cause and effect. Our unskillful desires are the ones that don’t want to hear anything about cause and effect. They just want what they want. Skillful desire realizes that in order to get a certain effect, you’ve got to give rise to certain causes. In order to get rid of something, you have to get rid of its causes.
+
+So if you find that sensual desire is taking over your mind, try to figure out: What are the causes of that desire? You can’t attack the desire directly. You’ve got to attack the causes. When you want to give rise to mindfulness, you can’t just think, poof, mindfulness. You’ve got to ask yourself: What are the causes of mindfulness? What nurtures it? Being very careful about your behavior, being very careful about your precepts: That’s one thing that fosters mindfulness. Look at your daily life. Are you very careful about your behavior or are you sloppy? Being meticulous in daily life is an important help in the meditation. There’s so much emphasis placed on it in the forest tradition. The way you wash your bowl, the way you wear your robes, the way you clean spittoons, the way you’re sensitive to the needs of others, is all going to have an impact on the meditation.
+
+This is how you train your desire to be skillful desire, a part of the path. Look for the causes, both for skillful qualities and unskillful qualities in the mind, because those are the things you’re going to be dealing with.
+
+Once you understand what’s skillful, what’s unskillful, and how you should approach these qualities, then you bring the issue of: Exactly how much effort can you put into practice at any one time?
+
+There are two considerations here. One is: What is the nature of the problem? Some problems require a huge amount of effort, and others are more delicate, in which case the effort is simply the effort to stay mindful continually and to keep watch until you understand the problem. In cases like that, the amount of effort required is determined by the nature of the problem itself.
+
+The other side, of course, is what you’re up for. What’s your level of energy right now? You may have high plans for what you want to accomplish in the meditation, but if your energy level is not up to it, you have to adjust your expectations.
+
+This is where the famous simile of the lute comes in. There was a young monk who had been very delicately brought up—Sona was his name. The soles of his feet were so soft from being delicately brought up that they even had hair on them. He became a monk, was doing walking meditation, and his feet became all bloody from walking so much. And he got discouraged.
+
+So he sat there thinking, “I can disrobe and use my family fortune to make merit. That’d be a good use of my life.”
+
+At that point, the Buddha appeared in front of him. You can imagine Sona’s feelings about that. How would you feel if the Buddha appeared in front of you right now and had been reading your mind when you’ve been thinking something not especially skillful? But Sona took it well. The Buddha knew exactly what was on Sona’s mind, so he asked him, “When you were young, did you play the lute?” “Yes.” “And how did the lute sound when the strings were too tight?” “It sounded horrible.” “How about when the strings were too loose?” “It sounded horrible.” “How about when they were tuned just right?” “That’s when you can play music.”
+
+Then Buddha said, “Think of tuning the first string on your instrument as tuning the level of your energy. Then tune the rest of your strings to that. In other words, you choose the right tightness for your persistence, and then tune your conviction, mindfulness, concentration, and discernment to what you’re capable of right now.” If you find some days then you’re really capable of a lot, put in as much energy as you can. Other times when you find that you’re not up to it, either physically or mentally, find the right amount of effort to apply. Try to be as skillful as you can, given the amount of energy you’ve got. Keep the proper form.
+
+It’s like when you’re practicing to be a swimmer. There are days when your energy level is down, so you do less practice, but you try to maintain proper form throughout the practice. And it’s the same with the meditation. In days when your energy level is down, try at least as skillful as you can. When you notice unskillful thoughts coming up, do what you can to prevent them. When skillful mental states arise, do what you can to maintain them.
+
+And above all, try to keep that proper form, keep it constant. Because it’s the skillfulness of your mind that makes all the difference. If you have a lot of effort but it’s not being applied skillfully, then it’s going to be counterproductive. You throw yourself into it, you see nothing coming out of it, and you get discouraged. Then you may decide, well, maybe it’s a lot easier not to put so much effort into it. You feel much better, you feel lighter. You say, “See? Now you’ve learned that effort is bad and non-effort is good.” That’s what you tell yourself.
+
+When you find that happening in your mind, remind yourself the image of milking a cow. As the Buddha said, there’s a right way and a wrong way to get milk out of the cow. If you try twisting the cow’s horn, you don’t get any milk. It doesn’t mean you’re not twisting it hard enough, it means you’re doing the wrong thing. You may just sit there twisting and twisting and twisting, getting the cow all aggravated, get yourself all aggravated, and then if you stop twisting, you say, “Oh, here we are. It’s much easier not twisting the cow’s horn.” Well, it’s easier, but you still don’t get any milk. You go down and you pull the udder, then you’re going to get milk.
+
+So the first issue in right effort is always the question of skillfulness: understanding what’s skillful, understanding what’s not, and using your desire to become skillful as an incentive on the path—because the desire is what gives energy to your right effort. So don’t be afraid of desire, simply learn to use it skillfully. Understand cause and effect, and the fact some causes are more skillful than others. Even though there’s an element of craving in desire and conceit in trying to master that skill, they’re all useful parts of the path.
+

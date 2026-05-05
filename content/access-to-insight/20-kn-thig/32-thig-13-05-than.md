@@ -1,0 +1,21 @@
+---
+title: Subha — The Goldsmith's Daughter
+slug: thig-13-05-than
+order: 32
+author: Thanissaro Bhikkhu
+nikaya: KN
+year: '2000'
+source_url: https://www.accesstoinsight.org/tipitaka/kn/thig/thig.13.05.than.html
+license: CC-BY-NC
+---
+
+"I was a child, with clean clothes, when I first heard the Dhamma. And within me, heedful, was a break-through to the truth. Then I arrived at an enormous dissatisfaction with all sensuality. Seeing the danger in self-identity, I longed only for renunciation. Leaving my circle of relatives, slaves, workers, prosperous villages & fields, delightful, enticing possessions, I went forth, abandoning not-insignificant wealth. Having gone out through conviction in the well-taught true Dhamma, it wouldn't be proper for me — aspiring to nothingness — having cast off gold & silver to take them back. Gold & silver don't buy Awakening, don't buy peace. This [gold] isn't proper for contemplatives. This isn't noble wealth. This is greediness, intoxication, delusion, bondage to dust, suspicion, many troubles. There's no lasting stability here. It's to this extent that many, many men — heedless, their hearts defiled — opposing one another, create conflicts, murder, bondage, calamity, loss, grief, & lamentation. Many misfortunes are seen for those head-over-heels in sensuality. So, my relatives: Why do you, like enemies, try to bind me to sensuality? You know I've gone forth, seeing the danger in sensuality. Gold coin & bullion can't put an end to fermentations. Sensuality is an enemy, a murderer, hostile, arrows & bonds. So, my relatives: Why do you, like enemies, try to bind me to sensuality? You know I've gone forth with shaven head, wrapped in a patchwork cloak. Leftover alms-scraps, gleanings, a robe made from cast-off cloth: _That's_ what's proper for me — the requisites of one with no home. The great seers have rejected sensuality, both human & divine. Released are they, in the place of security. Arrived are they, in unshakeable ease. So may I not come into union with sensuality, in which no shelter is found. It's an enemy, a murderer — sensuality — painful, like a mass of flame. Greed: an obstacle, fearful, threatened, full of thorns, very out-of-tune, a great cause of delusion. Sensuality: a frightening attack, like a snake's head in which fools delight — blinded, run-of-the-mill. Because many people in the world are stuck in the mud of sensuality, unknowing, they don't realize the end of birth & death. Many people follow the path to bad destinations because of sensuality, bringing disease on themselves. Thus sensuality creates enemies. It burns, is defiled. It's the bait of the world, constraining, the bondage of death, maddening, deceptive, agitating the mind. It's a net cast by Mara for the defilement of living beings: with endless drawbacks, much pain, great poison, giving little enjoyment, creating conflict, drying up the good side [of the mind]. I, having caused much trouble like this because of sensuality, will not return to it, as I always delight in Unbinding. Doing battle with sensuality in hopes of the cool state, I will stay heedful, finding delight in the ending of fetters. I follow the path — eightfold, straight, griefless, stainless, secure — over which great seers have crossed." See this Subha, the goldsmith's daughter, standing firm in the Dhamma, entering the imperturbable state,[1] doing jhana at the foot of a tree. This is the eighth day of her going forth confident, beautiful through the true Dhamma. Trained by Uppalavanna, she's a three-knowledge woman who's left death behind; freed from slavery, debtless, a nun with developed faculties,[2] set loose from all ties, her task done, fermentation- free. Sakka, lord of beings, with his community of devas, approaching her through supranormal power, pays homage to her: Subha the goldsmith's daughter. 
+
+# Notes
+
+1.
+    See [MN 106](<../../mn/mn.106.than.html>).
+2.
+    This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, concentration, and discernment. See. [SN 48.10](<../../sn/sn48/sn48.010.than.html>) and [AN 4.37](<../../an/an04/an04.037.than.html>).
+  *[MLS]: Middle Length Sayings (I.B.Horner, tr.; PTS)
+  *[MLDB]: Middle Length Dsicourses of the Buddha (Bh. Bodhi, tr.; Wisdom Publications)

@@ -1,0 +1,68 @@
+---
+title: Equanimity & Karma — April 03, 2016
+slug: 160403-equanimity-karma
+order: 43
+date: April 03, 2016
+mp3: https://www.dhammatalks.org/Archive/y2016/160403_Equanimity_&_Karma.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/160403_Equanimity_&_Karma.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2016/160403-equanimity-karma.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+The reflection on equanimity just now focused on karma: Each of us is the owner of our karma. If you don’t understand the teaching on karma, it sounds kind of pessimistic and fatalistic. As people do their thing, we have our karma. We just have to put up with it. But actually, it’s pointing out what you have to put up with and what you don’t have to put up with. Of course, that requires that you understand the teaching on karma, and especially that an important part of karma is our freedom of choice.
+
+What you’re experiencing right now is a combination of three things: choices you made in the past, sending their results into the present moment—and there are lots of those; then there are the choices you’re making right now; and there are also the results of those choices. Your experience of the present moment is the combination of all three.
+
+In fact, it’s your present input that allows you to experience these things to begin with. And that right there points to where the freedom lies: in your present choices, because they’re the ones you’re free to choose. No matter how unskillful you’ve been in the past, no matter how much bad karma you have in the past, you are free to choose the skillful course of action right now. And it turns out that if you can do that with skill, you don’t have to suffer, because the suffering that weighs down the mind is not what comes from past actions. It’s what’s coming from your actions right now. There may be pains in the body as a result of past actions, and a lot of tormenting thoughts may come up in the mind as a result of past actions, but you have the choice of how you’re going to relate to those things.
+
+This is one of the reasons why we meditate: to develop more skill in how to relate to things in a way that doesn’t let us suffer.
+
+So the teaching on karma focuses you on the present moment and has you look at what choices you actually have right now. One of the things you run up against immediately is that you’ve made some bad choices in the past and you still have the ability to make some bad choices now. That’s part of having freedom of choice. That requires that we train ourselves to be more skillful in the present and also to relate more skillfully to what’s coming from the past.
+
+But the fact that we have freedom has another implication: Other people have freedom, too. They’re free to choose what they’re going to do and say and think. And just as we can make mistakes, they can make mistakes as well. We have to live in a world where people are making a lot of mistakes. Now, to some extent we can hope to influence both ourselves and other people to act in a skillful direction. But there are limits on how far we can force other people to behave skillfully.
+
+And you have to remember that there’s that other part of the chant that says, “We’re the owners of our actions.” Your actions are your most important possession, which means that you don’t want to do anything unskillful to prevent other people from doing unskillful things. This is one of the big problems in life. People see somebody else doing something bad, and they say, “Well, I’ve got to stop that.” And they end up doing something really bad, too. Then they try to justify it.
+
+There’s the old story about how you know someone’s going to kill x number of people, so wouldn’t it be better just to kill that person first? Well, you don’t know if the other person’s actually going to do that. What you _do_ know is that you’ve killed that person. So there’s a limitation there. Other people may want to do something really unskillful, but there are boundaries of skillfulness for yourself that you don’t want to overstep.
+
+In some cases, you have to accept the fact that you’re going to be on the receiving end of their unskillful choices. But remember that your actions are your most important possession. Also realize that other people can hurt you in various ways. They can cause you physical pain. They can say nasty things to you. There’s a part of you that’s automatically going to leave you open to their influence. But if they hurt you in those ways, they don’t necessarily harm you. They really harm you when they get you to do unskillful things in response. So make sure that that distinction is clear. They can hurt you physically, they can say nasty things, but they’re not really harming you. It’s only if you decide to retaliate in an unskillful way: That’s when they’ve done harm. And you’ve harmed yourself.
+
+So an important part of equanimity lies in learning patience: how to deal with unskillful words; how to deal with painful feelings. The Buddha’s recommendations on unskillful words is basically that you learn how to depersonalize them. In one case, he says, when someone is saying something really nasty, remind yourself that it only has to go as far as your ears. Tell yourself, “An unpleasant sound is making contact at the ears.” See if you can stop it there, because if it goes in from there, it’s not coming in on its own. You pulled it in. In other words, you start commenting on how awful that person was: “How could they possibly say that? And what a horrible thing it is to say. And is it really true? I hope it’s not true.” With all of these comments, we just pull, pull, pull in all of this nasty stuff. It’s like a vacuum cleaner that pulls in nothing but the dirt. So you can remind yourself, you’re free to say: “Just leave it there at the ear. An unpleasant sound has made contact at the ear, and when the contact ends, it’s ended.”
+
+Our problem, as the Buddha said, is like we’re a gong that reverberates. A sound comes into the ear and it reverberates throughout our mind. It can go on for days and weeks and months and years, the things that other people have said. So you’ve got to train yourself to see it just as a sound at the ear and stop it right there. Beware of any tendencies you have to add any narratives around that. Then remind yourself that the fact that you have an ear is what leaves you open to hearing these things. So it’s a normal part of human experience.
+
+That’s the Buddha’s other contemplation: He talks about the different kinds of speech there are in the human world. There’s kind speech and there’s unkind speech. There’s true speech and there’s false speech; helpful, harmful. In other words, all kinds of good and bad speech, and this is normalcy for human speech. So when someone’s lying to you or saying something really nasty, something really hurtful, and you know that they have bad intentions behind what they’re saying, just remind yourself, “This is nothing out of the norm.” We wanted to be born as human beings, and so this is what we get. This is the way human speech is everywhere. Realizing this makes it a lot easier to deal with it and not feel so singled out,
+
+Because that’s a lot of what our problems are: We feel that we’ve been singled out somehow for especially bad treatment. So you can depersonalize it and see it as a larger part of the world as a whole. It reminds that you if you want to stay on in the human world, this is what you’re going to be subject to. It provides good motivation to meditate to find if there’s some way out.
+
+As for physical pain, the Buddha says, on the one hand, if you can develop thoughts of goodwill for all beings, that helps to mitigate the pain. There’s also the case of the bandits who trap you, pin you down, and are going to saw off your limbs with a saw. He says you want to have goodwill even for those bandits, because if you don’t, you’re going to think thoughts of revenge. And there you are. You’ve harmed yourself. So what equanimity teaches you here right now is this: You’ve been pinned down. There’s nothing you can do to fight. You’ve got to accept that fact. And then you realize, “I’ve got to maintain the state of my mind.”
+
+The Buddha says you want to look after your goodwill the same way that a mother would look after her only son. Protect it to that extent. Be careful with it. Be meticulous with it, even in really difficult situations. And the Buddha says that the reason he gives you this analogy—it’s a very extreme one—is that when other people say really nasty things, you can say to yourself, “If I’m supposed to have goodwill even for people who pin me down and are sawing off my limbs, maybe it’s a lot easier to have goodwill for the person who’s saying something nasty or lying to me.”
+
+So this is what the teaching on karma is all about in relation to equanimity. It’s to help you see that there are some things that you have to accept.
+
+But there are also areas where you have freedom of choice, right here in the present moment. All the time.
+
+So when we reflect on karma as a way of developing equanimity, it’s not just passive or fatalistic. It’s to remind ourselves of what’s important: our actions in the present moment Our freedom to choose wisely or unwisely in the present moment is what makes all the difference.
+
+The painful things in the world, the Buddha says, are like being shot by an arrow. But our problem is we don’t leave it with just one arrow. We shoot ourselves with a lot more. You can imagine what it’s like. Hold that picture in mind: You’ve been shot by an arrow, and then you take the trouble of picking up a bow and arrow and pointing them at yourself. Just the fact that you’re pointing them at yourself right there, that makes the first arrow hurt even more. Then, of course, the other arrows come in. But, as he explains, those extra arrows are the ones that actually weigh down the mind. That first arrow doesn’t have to weigh down the mind at all.
+
+So try to develop the right qualities of mind, which he enumerates as: one, the ability to develop unlimited goodwill and equanimity; two, working on your virtue so that you don’t have to criticize yourself over the unvirtuous things you’ve done or said; three, working on your discernment so that you can see these distinctions in karma; and then four, training your mind so that it’s not overcome by pleasure or overcome by pain.
+
+These are among the reasons for why we practice concentration.
+
+As we’re working the breath, it gives us skill in handling any physical pain that comes up. At the very least, we know how to focus on another part of the body and get the breath energy in that part of the body running well so that it’s soothing, nourishing, and energizing. Then we can spread that sense of ease to the area where the pain is. Think of the breath energy flowing _through_ the pain.
+
+In other words, the concentration gives us a series of skills for dealing with pain so that we’re not just on the receiving end and feeling helpless in the face of it. It enables us to have a sense of confidence in the present moment so that we can really do our duty with regard to pain, which is to comprehend it, to see what it is about the physical pain that actually is weighing down the mind, and to see the activities of the mind that bring the pain inside. Here again, the focus is on your present karma. The meditation gives you the strength you need in order not to get overcome by the pain or feel threatened by the pain. It gives you confidence so you can look into it: What is this pain? Why is it a problem? And where is the problem?
+
+As for not being overcome by pleasure, this is another one of the skills you learn as you meditate. You focus on the breath, and a sense of ease results. A lot of people go immediately for the ease and they drop the breath. They just want to wallow in that sensation of ease and milk what they can out of it. Now, if that’s what they do, the sense of ease will last for a little while, but then it goes. You have to learn, instead, to let the ease do its work, whereas you continue doing your work with the breath, i.e., you focus on the breath; stay steadily with the breath, and then let the ease do its soothing in the body. You focus on the causes; the effects will take care of themselves. In this way, you learn how not to be overcome by pleasure.
+
+In fact, as you get deeper in the meditation, you realize that rapture and pleasure, after a while, tend to get gross. There’s an even more refined state, which is just pure equanimity. And you learn to prefer that. That way, you’re not overcome either by pleasure or pain.
+
+So what it comes down to is developing virtue, concentration, and discernment; and then making your attitude of goodwill and equanimity as unlimited as you can.
+
+These are some of the skills you have at your disposal. These are possibilities in the present moment, so that you can respond to other people’s hurtful actions and hurtful words without being harmed: one, so that you don’t respond with unskillful karma yourself and burden yourself with that new possession; and two, so that you can maintain the state of mind that doesn’t have to suffer in the face of pain.
+
+So this is what equanimity means. It’s not fatalistic passive acceptance of things. It requires an understanding of karma so that you realize you do have certain choices, areas where you can make a difference. That way, you don’t want to burden yourself by trying to push against things that you can’t change. Look instead for the possibilities for change in your present choices, because that’s where the freedom from suffering lies.
+

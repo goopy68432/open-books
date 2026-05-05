@@ -1,0 +1,44 @@
+---
+title: Three Weapons — February 05, 2021
+slug: 210205-three-weapons
+order: 29
+date: February 05, 2021
+mp3: https://www.dhammatalks.org/Archive/y2021/210205_Three_Weapons.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/210205_Three_Weapons.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2021/210205-three-weapons.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+As meditators, we have three weapons to protect ourselves. Of course, the major protection is against our own defilements, but it’s also good protection against crazy ideas we could pick up from other people. The weapons the Buddha lists are learning, seclusion, and discernment.
+
+Learning here of course means learning the Dhamma. It’s good to have a fund of Dhamma knowledge that you can draw on. When something comes up in meditation, you can stop and think: “What would the Buddha say about this?” The more you know what about he actually said, then the more likely you are to come up with something appropriate.
+
+As for seclusion, there are two kinds: The first is physical seclusion. when you get away from other people. You’re by yourself, and that’s a temporary weapon to use so at the very least you’re not being incited by other people’s defilements. You don’t pick up their germs, so to speak. Then there’s mental seclusion. You get the mind really quiet. You’re secluded from unskillful qualities, secluded from sensuality, from your fascination with thinking about what kind of food you’d like to eat, what kind of things you’d like to see, what kind of sounds you’d like to hear. You can seclude your mind from those things by giving it a better pleasure, because the reason we go for sensory pleasures as the Buddha said, is that we don’t see any other escape from pain. We may know the drawbacks of sensual pleasures and the drawbacks of sensual thinking, but without an alternative source of pleasure, where we are going to go? We practice concentration to find a non-sensual pleasure there. That gives us that alternative. Instead of directing your thoughts to sensuality and evaluating different sensual plans, you direct your thoughts to your breath, you evaluate the breath, and you take an interest in what’s going on inside here. The more you can take an interest here, the more you _see_.
+
+It is like physicists. They look at light and they can study light for their whole lives and still not come to the end of it. You can study the breath and the mind’s relationship to the breath, and fortunately you _can_ come to an end of your problems this way. But still, there’s a lot to see here in terms of all the fabrication that goes on in the present moment. And learning how to get fascinated _here_ is your protection. It’s your weapon against the defilments who would like to go out and have a little more sensual thinking and say, “It’s just a little bit, it’s not too much. After all you’ve been meditating all day, give yourself a little reward”—as if sensuality were a reward.
+
+The final weapon is discernment, where you understand more and more about what’s going on in the mind through what you’ve learned through concentration. Getting the mind to settle down, you can see more clearly where the mind creates its problems—problems that it doesn’t have to create at all—and you can learn how to undo them, untangle them, get past them.
+
+So those are your weapons: learning, seclusion, discernment. And as with any weapons. they can be very helpful, but if you misuse them you can harm yourself.
+
+With learning, people spend a lot of time arguing over their learning. As the Buddha said, a lot of those arguments have as their purpose nothing more than just winning out. Remember the Dhamma is _medicine_. That’s shown by the way that the Buddha would teach it. As he said, he would say things that were true, beneficial, and timely. Those are the qualities you look for in medicine. You want genuine medicine, you want medicine that’s good for what it ails you, and if there’s a course of treatment, you want to make sure you take things in the right order.
+
+When the Budhha is talking about “timely” in terms of his words, sometimes they’d be pleasing, sometimes they’d be displacing. In the same way, sometimes you have to take medicine that you like and other times you have to take medicine that you don’t like. But that’s the nature of the Dhamma. It’s medicine—and you don’t use medicine to throw at other people or to exalt yourself. You use it to cure your own illnesses. So always keep that in mind.
+
+As for seclusion, people can drive themselves crazy if they don’t know how to handle physical seclusion. A lot of people have complained to me that with a pandemic they find themselves spending a lot more time by themselves. The future looks bleak, and so what happens when the future looks bleak? You start ruminating about the past. You think of all the stupid things you did and all the harsh things that other people did to you and you can get yourself really worked up.
+
+When I first went to Thailand and stayed with Ajaan Fuang up on the hillside at Wat Dhammasathit, I had hours and hours of time by myself. And for the first couple months, a lot of issues from my days in grade school, high school, issues from college. Issues in the family came up. I’d find myself getting worked up over things that it hadn’t happened for ten, fifteen years. Fortunately, Ajaan Fuang steered me around. He said, “Look, the fact that you made mistakes back then, or other people did horrible things to you: The mistakes you made came from your own lack of skill, and if you don’t work on those skills right now, you’re going to keep on making those same mistakes.”
+
+So the solution to dealing with issues in the past is to focus on your lack of skill in the present moment: the way the mind talks to itself, the way the mind treats itself. Look _here_ for the solution to the problems back _then_. Of course, you can’t go back and solve those problems back then. You can’t do anything about them. But, you can change your attitude and you can reflect on the fact that this is what happens when you don’t have skill. These are the mistakes you make.
+
+As for the things that other people did to you, Ajaan Fuang told me, that’s an issue of karma. So it comes back again to the mistakes you make. So the proper use of seclusion is to focus right here, unpeeling all the levels of fabrication that go on right here. When you uncover the problem here, then you can face the future with a lot more confidence that you won’t make the same mistakes again.
+
+As for discernment, when you come up with insights, you have to remember the Buddha’s search was for what is skillful. That was the question he always asked. If anything happened in his meditation, “What’s the skillful use of this?” All too many people gain an insight and get really proud about it. They really attach to it. The really serious cases think they’ve gained awakening, one way or another. Or at least not full awakening, but they say, “Okay, maybe just stream entry, maybe just once returning.” But they’re crazy.
+
+I knew a group of students that Ajaan Fuang had. They came to see him as a group and when he wasn’t in Bangkok they’d go off and meditate as a group—and they began to assume themselves. One guy was a stream enterer, one guy was a once-returner, this woman was a stream enterer, that woman was a non-returner: total fabrication based on some pretty meager insights. Of course, the problem there is the pride that steps in: “I saw something I didn’t see before and that most other people haven’t seen.”
+
+Upasika Kee has a good way of dealing with that. She says when an insight arises, ask yourself, “What happens next?” Or think of the Buddha’s question: “What’s the skillful use of having had that insight?” If it’s not the kind of insight you can use to apply to a problem you have in your mind right now, then it’s a distraction, no matter how profound it may seem. If it’s not useful, it’s not what we want because the insights the Buddha recommends are all things that you can use. After all, we don’t practice to arrive at an insight. We use the insight to gain release.
+
+So remember your weapons. The NRA would have us use other things as weapons, but we’re taking the Buddha’s advice: weapons that really give us protection—learning, seclusion, discernment. Keep them in good shape and learn how to use them well. Make sure you don’t abuse them, make sure that you don’t leave them lying around where the defilements can pick them up. Because then they’ll use the weapons to shoot you, to stab you. Keep them at hand at all times so that when the defilements show up, you’re the one with a weapon in your hand and, instead of stabbing yourself or shooting yourself, you can shoot the defilements down.
+

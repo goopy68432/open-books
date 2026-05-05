@@ -1,0 +1,44 @@
+---
+title: Looking for Trouble — August 30, 2006
+slug: 060830-looking-for-trouble
+order: 9
+date: August 30, 2006
+mp3: https://www.dhammatalks.org/Archive/y2006/060830 Looking for Trouble.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/060830_Looking_for_Trouble.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2006/060830-looking-for-trouble.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+We meditate with our eyes closed so as to cut down on distractions, so that you can focus all of your attention at the work in hand, which is being with the breath, being sensitive to the breath in the body. When the breath comes in, know it’s coming in. When it goes out, know how it feels when it’s going out. Where do you sense the breath? What sensations tell you that now the breath is coming in, now the breath is going out? Which of those sensations are comfortable? Focus on the comfortable ones. Get to know them.
+
+This takes a lot of attention not only because the breath is subtle, but also because it’s an area of our awareness that we tend to block out. We have to unlearn a lot of deeply ingrained habits, which requires focused attention. Intentness is the quality they call _citta_ in the texts. You’re really intent on what you’re doing. You pay a lot of attention to how this area of your awareness feels. The more fully intent you are, the more you notice; the more you notice, the better the results of your meditation.
+
+You find that you can develop a whole world inside here, and you can explore the whole world inside here as you meditate. You develop different potentials that are there in the body, potentials you may not have noticed before. There’s the potential for ease, the potential for pleasure, the potential for rapture They’re all here in the body. If you give them enough attention, give them enough time and space, they’ll start showing what they’ve got.
+
+But the fact we do this with our eyes closed doesn’t mean that it’s meant to be done _only_ with your eyes closed. There’s also meditation with your eyes open. It’s called restraint of the senses. In most of the standard texts, it’s listed as a prerequisite for gaining concentration. You learn how to create a space in your mind even when your eyes are not closed and there are other things coming in through your eyes, your ears, your nose, your tongue, sensations coming in from the body. You want to learn that when these things are coming in, it’s not just stuff coming in, there’s also stuff going out of the mind as well. It’s possible for us to go out and look for trouble in the way we look and listen and smell and taste things, touch things. What’s going out can really destroy our concentration. It can destroy this world we’re developing inside.
+
+So restraint of the senses is an important part of the practice as well. When you leave meditation, as you get up and walk around, remember this area of your awareness. The breath sensations in the body are still there. You have to learn how to make space for them even though other issues may start impinging on you.
+
+But as I said, the big issues are not the things coming in from outside, they lie in the mind’s anticipation of what it’s going to see, what it’s going to hear, how it’s going to react. The way you look at something or listen to something makes all the difference in the world. You can look in a way that gives rise to lust. You can look in a way that gives rise to anger, fear, greed, anxiety. The outside stimuli don’t create these things, it’s the _mind_ that creates these things. Often it creates them even before the stimulus comes in. That’s what you’ve got to watch for.
+
+So when you leave formal meditation, remind yourself you’ve got this inner world to protect. It’s like a little bubble you want carry around with you. Make sure it doesn’t pop. And be aware of the fact that the bubble can pop from impulses coming from inside.
+
+If you’re determined to protect it, you start noticing the ways the mind flows out. As Ajaan Lee said, this is the real meaning of _asava,_ which is a very mysterious term in the texts—translated as outflows, influxes, effluents, or fermentations. It comes down to this sense of how the mind flows out your eyes, your ears, your nose, your tongue, your body to get in touch with the world you’re so familiar with outside, and all the reactions, all the attitudes that you’ve carried around with regard to that world, to the point where you forget that you’re the one who created these reactions, created these associations.
+
+They tell of people who have been blind from birth who in a few cases can be given their sight back, but who then find it confusing. They haven’t developed the part of the brain that’s needed to interpret the forms they see. A lot of our life has been spent in developing that part of the brain, the part that goes out and creates a three-dimensional world out of these flashes blue and green and red and black and white and gray that the brain picks up from the eyes. This is just one example of how much our world is the creation of the mind.
+
+We may all be sitting in the same room here, but each of us lives in a different world. In fact, the Buddha’s definition of “world” is eyes and sights, nose and smells, ears and sounds, and so on down through the senses. That’s all it is. It’s just that, just what you create out of these sensory impressions.
+
+So remind yourself, it’s not so much things coming in from outside that are going to be a problem in destroying your concentration and mindfulness. It’s the attitudes that you carry out to these things. Now, the Buddha’s not saying not to look at things or not to listen, he’s just saying to look with wisdom, listen with wisdom. When you see something that would ordinarily give rise to fear, try look at it in a way that doesn’t give rise to fear; something that would give rise to anxiety, learn to look in a way that doesn’t. The same with lust, the same with anger, greed, all of the emotions. You know the things that tend to trigger you, so watch out for them. Make sure the trigger isn’t pulled—because you’re the one who’s pulling the trigger.
+
+So the skills we learn here as we sit here with our eyes closed, focusing on the breath, are not meant just for the monastery or just for the meditation hall or just for the time of formal meditation. They’re meant to be used all the time. You can be in touch with the breath, you can learn how to feel a sense of ease in the breathing, anywhere at all. It’s possible. You can give a sense of fullness to different parts the body as you need it, even with your eyes open and all kinds of blaring sounds coming in. Try to think of yourself as totally porous: Whatever comes in, it can go right through. It doesn’t have to hang on inside. Like a big window screen: The breeze flows freely through the screen, and the screen isn’t disturbed by the breeze because it doesn’t catch it.
+
+That way, you can maintain this inner world even though the outer world seems to be all over the place, everywhere, inhabiting all your awareness. This inner world is still here all the time, and you can maintain contact with it, learn to value it, learn to treasure it. Don’t be quick to throw it away. After all, the habits we learn here are not habits just for this place. They’re meant to be habits that you take with you all the time.
+
+So make sure your priorities are straight. Anytime you go out in the world, you’ve got to deal with this, deal with that. “This is more important, so to hell with the breath, I’ve got to work on this”: Those attitudes are totally unnecessary and unwise. You can be with the breath and deal with the issues the world outside at the same time. In fact, you end up dealing with them with a lot more poise, a lot more clarity, if you can maintain this inner sense of the breath energy in the body.
+
+A lot of this has to do with understanding that it’s not so much that the world outside is barging in to destroy the meditation, you’re the one that goes flowing out to destroy it. So watch for those currents coming from within. Learn to settle in a place where you can watch a current go out and not get swept along by it. You’ll notice that if you’re not riding along the current, it goes only so far and then just dies away.
+
+This is probably why the Buddha used the image of the island. You’re still in the river, but once you’re on the island, you’ve got a space, you’ve got your foundation for mindfulness, your foundation for concentration right here at the breath. When it gets comfortable, you can think of spreading it all through the body, so that you have a whole-body awareness in the midst of everything else that’s going on. The river may flow, its flow may even be strong, but you’re safe on your island. So don’t be the one who destroys the island. If you don’t destroy it, nothing else can.
+

@@ -1,0 +1,47 @@
+---
+title: Sirimanda
+slug: thag-06-13-than
+order: 29
+author: Thanissaro Bhikkhu
+nikaya: KN
+year: '2002'
+source_url: https://www.accesstoinsight.org/tipitaka/kn/thag/thag.06.13.than.html
+license: CC-BY-NC
+---
+
+Rain soddens what's covered
+    & doesn't sodden what's exposed.
+    So open up what's covered up,
+    so that it won't get soddened by the rain.
+    
+    Attacked by death
+    	is the world,
+    surrounded by aging,
+    beset by the arrow of craving,
+    always obscured by desire.
+    
+    Attacked by death
+    	is the world,
+    & encircled by aging,
+    constantly beaten, with no shelter,
+    	like a thief
+    sentenced to punishment.
+    
+    They encroach like masses of flame,
+    	these three:
+    	death, aging, & illness.
+    There's no strength to confront them,
+    no speed to run away.
+    
+    Make the day not-in-vain,
+    	a little or a lot.
+    However much
+    the day passes,
+    that's how much less
+    	is life.
+    Your last day approaches.
+    	This isn't your time
+    	to be heedless.
+    
+  *[MLS]: Middle Length Sayings (I.B.Horner, tr.; PTS)
+  *[MLDB]: Middle Length Dsicourses of the Buddha (Bh. Bodhi, tr.; Wisdom Publications)

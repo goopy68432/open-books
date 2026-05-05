@@ -1,0 +1,49 @@
+---
+title: Give It Your All — August 24, 2005
+slug: 050824-give-it-your-all
+order: 25
+date: August 24, 2005
+mp3: https://www.dhammatalks.org/Archive/y2005/050824 Give It Your All.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/050824 Give
+  It Your All.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2005/050824-give-it-your-all.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Some passages in the Canon describe what’s translated as the graduated discourse, or the gradual discourse, or the progressive discourse. It’s a series of topics that the Buddha used to bring his listeners to the four noble truths. What’s strange is that we don’t have a complete record of any example of that discourse. It’s described simply by saying that the Buddha taught about this, he taught about that, and finally when the person was ready, he taught the four noble truths. But we don’t have any example of how he went from one topic to the other. Still, it’s useful to see the general outline, to see where the Buddha started when he was going to introduce his teachings.
+
+He didn’t start with a description of the universe or what we might think of, say, a philosopher’s first principles. He started with generosity. He started with something you _do._ And he wanted to hook into his listener’s experience of what it’s like to have been generous: what was your experience of generosity in the past. Then from that point, he leads you into the Dhamma.
+
+So, what _is_ your experience of generosity? On the one hand, there’s the generosity you’ve received from other people, starting with your parents. If they hadn’t been generous with you, you’d be dead from the very beginning. If you’ve been a parent yourself, you realize exactly how much work goes into raising a child, how much sleep you have to be deprived of, and all the other hardships and sacrifices that go into raising a child.
+
+As the Buddha expresses it in what he calls the mundane level of right view, the very first thing he says is, “There is what is given.” In other words, gifts are real. They’re not something that magically appears on its own or is simply the result of predetermined causes. Your parents had to make that decision to give, and they really did sacrifice.
+
+From there you can think of generosity of other people: your teachers, anybody who’s helped you out of the goodness of their hearts. The more you think about it, the more you realize how much of the goodness of other people you’ve been depending on. And you can think about the gift of the Buddha gave, all those lifetimes devoted to discovering the Dhamma so that he could teach it to other people, all the hardships he went through, both in trying to find the Dhamma and then in those 45 years of teaching it: That’s a gift that keeps giving results up to now.
+
+So on the one hand, you’re familiar with generosity from having been on the receiving end.
+
+Then, of course, there’s the other side of generosity as well: the generosity you’ve given. One of the hardest lessons to learn as a child is that by giving something away, you’re going to get something even better in return. But it’s basically where your spiritual life begins, realizing that there’s something more important than clinching on to that little toy or that little piece of food. You notice when Thai parents come here with their tiny children, the first thing they teach them to do is how to place their hands in respect. The second thing is how to grab a spoon and put some rice into the monks’ bowls. In the beginning, it’s mechanical, but after a while, the child gets the message: It’s good to be generous. In fact, you’re not going to get anything in life that’s really important unless you learn to be generous.
+
+So the Buddha takes these experiences as the beginning of his teaching. You’ve received a lot of generosity and you’ve learned from being generous. That’s how the practice begins.
+
+His comment on how wisdom begins is directly related to this. Wisdom, he says, comes from going to a contemplative and asking him, “What when I do it will lead to my long-term welfare and happiness?” This question grows out of having been generous. You’ve learned that by giving up certain things, you’ll get greater happiness in return, and you want to follow that principle through to see how far it goes.
+
+So think about these things as you’re meditating and as you follow all the other aspects of the practice. On the one hand, you have to remind yourself that you’re here because of the generosity of other people, especially here at the monastery. Everything we’ve got is the result of somebody’s generosity, so you should behave in a way that’s in line with that fact. When you’re feeling lazy, when you’re feeling discouraged, think of all the help you’ve gotten along the way. And one of the ways of repaying that help is to practice.
+
+The second thing to reflect on is that if you don’t give yourself to the practice, you’re not going to get anywhere. If you don’t give your time, your energy, if you don’t put some effort into the practice when it’s especially hard, you’ll never get any special results. In our society of entitlement, a lot of people feel they can just take it easy and things should come their way. Then when things don’t come their way, they start complaining. But that’s not Dhamma practice. Dhamma practice is the realization that you’ve got to prove yourself. You’ve still got a lot of work to do with your mind, still a lot of areas where you could be kind to yourself and to other people, provide more happiness for yourself and for other people, but you’ve got to give up some of the things you have.
+
+And what have you got here? You’ve got your body. You’ve got your speech. You’ve got your mind. So give your body and mind to the practice. Sit and meditate longer than you might want to. See what that does for you. Walk in meditation longer than you might want to. Be more careful about your speech than you ordinarily might be. Learn how to ride herd on your mind, how to observe when to encourage it, when to rein it in. In other words, give yourself fully to the practice. If you hold a lot back, then the results are not going to come. If you give of yourself, the results do come.
+
+This principle of looking at the practice as, on the one hand, being the result of gifts you received from others and, on the other hand, as a gift you give of yourself is an important perspective to maintain at all times. Remember that as you practice here, you’re providing example for other people as well. You don’t have to look very far. Just look at the way we bow. Someone comes here and is sloppy in his or her bowing, then the next guest comes along and picks up the sloppy bowing from the first person, and it just goes on down the line.
+
+The same with the senior monks—and by “senior,” I mean those who’ve been here longer than the very last person at the end of row. People further on down the line pick up habits from people who are further up the line, both good and bad. That’s an immediate impact that you can see. And the impact goes further on.
+
+So try to look at the practice as a part of network of gifts, the gifts you receive and the gifts that you can give to others. There has been so much Mahayana propaganda on how Theravada is selfish and narrow-hearted, but you can’t find any of that in the teachings or in the practice. One of the motivations for monks to keep on practicing to become arahants is so that the gifts they’ve received from people—in terms of food, clothing, shelter, and medicine—will give great results to the people who gave them. So part of the motivation is not only for yourself, but also for the people around you.
+
+When you go visit Mahayana countries and you go visit Theravada countries, it’s not the case that the people in the Mahayana countries are any kinder or more generous than the ones in Theravada countries. And you notice that if you come to the practice with the idea that you’re doing this just for yourself, it tends to grind to a halt pretty fast. But if you look at it as part of a network of gifts, you realize that you’ve received gifts and so you want to pass some on. You realize that to get results in the practice, you’ve got to give yourself, to try things out.
+
+That’s another thing that it’s notable about the way the Buddha introduces his teachings to people. He starts with recommendations for how to do something. He doesn’t lay out a picture of the universe and say, “This is the way the universe is, therefore _x, y, z.”_ The truths he teaches are a different kind of truth: They’re truths of actions—pragmatic truths—and they’re tested by putting them into practice. Try giving and see what happens. Try being virtuous and see what happens. Try meditating and see what happens. That’s the only way you can really test the Buddha’s teachings: by putting them into practice and seeing what results you get. Everything he taught about levels of being, samsara, and the bigger picture of kamma and rebirth actually comes out of this framework of seeing those beliefs as actions. Believing, say, in rebirth, believing in the principle of karma, having conviction in these things: That’s a kind of action. What comes about as a result? You put the teachings into practice; you give of yourself by taking them on as working hypotheses. Until you give yourself to them, you won’t be able to judge whether they work or not.
+
+So remember: the practice is an affair of giving. The Dhamma is an affair of doing. The only way you know whether it’s true or not is if you really give yourself to the practice, if you really do the things the Buddha recommends and see what results you get. At the very least, if you’re true in giving yourself, then you can know that your test of the teachings will give you true results as well.
+

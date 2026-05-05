@@ -1,0 +1,36 @@
+---
+title: Getting Out of Karmic Debt — November 12, 2018
+slug: 181112-getting-out-of-karmic-debt
+order: 27
+date: November 12, 2018
+mp3: https://www.dhammatalks.org/Archive/y2018/181112_Getting_Out_of_Karmic_Debt.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/181112_Getting_Out_of_Karmic_Debt.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2018/181112-getting-out-of-karmic-debt.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+One of the adjectives describing arahants is that they’re debt-free. Of course, this doesn’t refer to monetary debts, it refers more to karmic debts: the debts we have to the animals that gave the food that we eat, to the people who have been generous with us—and also to the people we’ve abused in the past. We don’t like to think about that. We like to think that we’ve gone through life—our many lifetimes—perfectly harmless. But the fact that we’re human beings means that we have some bad karma back there. If we had nothing but good karma, we wouldn’t be on this level. We’d be someplace else.
+
+And so this can be one of our motivations for practicing: realizing that we have debts and the only way we really pay them off is by practicing. Part of the repayment is that we become less of a burden on the world.
+
+Think about the customs of the noble ones. This was one of Ajaan Mun’s favorite Dhamma topics. The Buddha describes them as four. The first three have to do with contentment: You’re content with whatever food, clothing, or shelter you have. At the same time, you don’t exalt yourself and disparage others over the fact that you’re contented and they’re not. But you’re happy with the physical circumstances you have that allow you to practice. Because the more you go out of your way to make them really special, the more you’re indebted to others. So we try to develop the attitude that whatever food we get is good enough, whatever we get in terms of clothing and shelter, that’s good enough, so that we can focus on the real work, which is being not content with the quality of our minds.
+
+The Buddha identified that as the secret to his awakening: that however skillful he was, if it wasn’t to the level of putting an end to suffering, he wouldn’t rest content. There was always more work to be done. And this relates to that fourth aspect of the customs of the noble ones, which is to delight in developing and to delight in abandoning. Of course, this means to delight in developing skillful qualities and to delight in abandoning unskillful ones. That’s where the work needs to be done.
+
+So this is why we’re meditating. One of the reasons is that we’re paying off our debts. We’ve got this body which we have in dependence on others. We tend to think of this is really our body. When you draw the line between yourself and the world, it often starts right there at the skin. Everything inside the body is yours and you have every right to do what you want to with your body. That’s what we tend to think. But when you look inside, you see that it’s not really yours. Think of all the germs in there. They say a good part of your body mass is not you anyhow, it’s all the germs and bacteria and what-not that are living inside there. And even the parts you can say that are part of you as a human being, again, you got them from food.
+
+Ajaan Lee has a nice image. He says, think of all the things that have gone into you, all the animals that keep going in, going in. They form parts of your body right now. Your muscles came from the muscles of pigs and cows; your skin, from the skin of fish. In fact, in one of his early writings he said that this was the contemplation that got him to practice: the realization that his body was basically made up of the food he’d been eating, and so he had debts to pay off. He focused, of course, on the animals he’d eaten. But even people who are vegetarian have debts to the farmers and other people involved in the food chain.
+
+When you do something good with the body, that’s how you pay back the debts. In the Canon they talk about how one of the motivations for wanting to gain awakening is that the people who’ve helped you will then gain a lot of merit from the help they’ve given. So this is a good way of thinking about how the fact the body’s not really yours means that you’re using something that’s not yours: You’ll have to give it back. And the way you give it back, of course, is not just by dying. You give back in terms of the goodness you put into the world. This again comes from the meditation: the more mindful you are, the more alert you are, the more ardent you are in the practice, the more those qualities function as an expression of goodwill. This is your gift to yourself and to the people around you.
+
+All too often, people who practice Theravada get accused of being selfish, that they’re not out there awakening everybody else. But you can’t really awaken other people. We suffer because we have a lack of skill, and you can’t make somebody else skillful. Skill is something you have to develop through your own powers of observation, doing things and looking at the results and then adjusting your actions in line with what you’ve learned from the results. This is something each person has to do for him or herself.
+
+However, we’re not totally self-centered. After all, generosity can’t be accused of being selfish, and that _is_ part of the path. Virtue, harmlessness, is also part of the path. The good qualities you develop in your mind send a good influence out and they pay off all your debts.
+
+So the Buddha’s attitude toward people who come to the practice is not that they’re entitled. They’re in debt. It’s the exact opposite of the attitude in this society we live in, in which everybody seems to be entitled to everything. We should all have a very strong sense that we’re indebted, and here’s our opportunity to pay off the debts. That helps you develop the right attitude to the body, that you don’t just use it for your own pleasure. You try to use it in a way that acknowledges the fact that you’ve borrowed it, so you’ve got to have something good to give back. The things you use: You’re borrowing them for the time being. And you want the people who’ve given those things to you, willingly or not, to receive a lot of merit coming from their gift. You do that through the practice.
+
+So this simple exercise of training the mind to come back again and again and again, and to learn how to develop a liking for doing this, has a lot of ramifications. The liking is what makes it flow, makes the practice develop. When you start looking for ways in which you can undercut your lust, undercut your greed, undercut your aversion, undercut your fear, jealousy, all these things, try to see that as a game, as a sport. That’s what will carry you through.
+
+So even though you recognize your debts, it doesn’t mean you have to be grim about them. In fact, grimness is something that can cut your enthusiasm for the path, can cut the energy you have to put into the path. The right attitude is that you’re trying to master a sport, so you really want to be good at it. But you also want to enjoy it, so that in paying off your debts you’re spreading some joy around.
+

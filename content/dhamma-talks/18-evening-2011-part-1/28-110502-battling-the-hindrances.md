@@ -1,0 +1,58 @@
+---
+title: Battling the Hindrances — May 02, 2011
+slug: 110502-battling-the-hindrances
+order: 28
+date: May 02, 2011
+mp3: https://www.dhammatalks.org/Archive/y2011/110502 Battling the Hindrances.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/110502_Battling_the_Hindrances.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2011/110502-battling-the-hindrances.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+It’s important as you meditate that you get a sense of how different ways of breathing affect the body: which ways of breathing are helpful, which ones are not. The body can get out of balance very easily, and it’s good to know how to breathe in a way that brings it back into balance. When the energy is too sluggish, how do you breathe in a way that brings it back up? When you’re feeling wired, how do you breathe in a way that calms you down?
+
+You’re going to need the body as your friend here as you meditate, as your ally. You want to be able to develop a sense of well-being immediately. You’re trying to get quicker and quicker at noticing how to read the body and bring it back into balance as quickly as possible in order to have a sense of pleasure, a sense of ease, refreshment, well-being that you can tap into at any time. Otherwise, when you’re feeling strung out, it’s very easy to side with an emotion that promises to find a different way of calming you down.
+
+This is one of the main strategies of the hindrances. They take over the body. When sensual desire comes on, it has ways of triggering reactions in the body. When anger comes on, it has ways of triggering reactions in the body. The same with sloth and torpor, restlessness and anxiety, and uncertainty: They can hijack the body. You feel it’s not only your mind but also your body deep down inside, telling you that you need to go with this particular hindrance.
+
+And you don’t see it as a hindrance. That’s a large part of the problem. You start seeing things in line with it. When there’s desire, the things that you desire really are worth desiring. Or the things making you angry really are outrageous. When you feel sleepy, you can tell yourself, “Ah, it’s a sign the body needs to rest. Can’t meditate so late tonight.” When you’re worried, the things that have you worried really are worthy of worry, even though five minutes ago you hadn’t even thought about them, and ten minutes from now you may not again. But right now, these hindrances seem so convincing that you don’t even see them as hindrances.
+
+So you have to learn how to do battle with them. And this is why you need the body as your ally. It makes it a lot easier to part ways with the hindrances when you’re feeling balanced: alert but at ease. These things don’t have so much power over you.
+
+One thing that all desires have in common, whether they’re skillful or unskillful, is that they’re aiming at happiness. They just have different ideas of what happiness would be and how you can find it. So if you have a sense of ease and well-being that you can point to in the present moment—it’s right here, feels good breathing in deep down into the heart, into the core of your body—why would you want to run off and get worked up about something that would destroy that sense of well-being? That’s your first line of defense: learning how to get the body on your side.
+
+Then you’re going to need a long string of arguments to use against these hindrances, because they have their long string of arguments as well. They can be very insistent, very persistent, so you have to be even more insistent and more persistent yourself. If they come up with one demand or another, learn how to counteract it.
+
+Sensual desire comes up and you may think, “This is a need for the body.” But the body doesn’t need anything. The body, the elements of the body, would be perfectly content to die. _You’re_ the one who’s decided you want them to live and feel a certain way.
+
+So it’s not the body speaking, it’s the mind. You have to probe around in there for a while to see: What is it that wants to go in that direction? You’ll find some very ingrained habits, but the fact that they’re ingrained doesn’t mean that they’re part of your innate nature. They’re just habits, so you want to learn to question them. Even if you can’t think up good arguments to use against them, just keep reminding yourself that the Buddha says not to go there. Maybe he knows something.
+
+We’ve been following our hindrances for who-knows-how-long and look where they’ve gotten us. Maybe it’s time to try something else, to look for a different kind of well-being, a different kind of pleasure, a different kind of happiness. And even though the particular hindrance may be wearing you out, insisting that you give in and promising that you’ll feel better after you’ve given in, actually it doesn’t happen that way. If you’ve done battle with the hindrance and come out the other side having won, you have a lot more energy. So remember that, the next time a particular hindrance seems to be getting you down or overcoming you: You really do benefit from holding out against it.
+
+For example, when sloth or torpor comes, there is the possibility, of course, that you really do need to rest the body. But before you do that, test it. Try changing your meditation. If the breath is too soothing, try to breathe in a way that’s more energizing. Or you might use a contemplation that helps wake you up. You can start thinking about the bones in the body. Where are your finger bones right now? Where are your hand bones? Wrist bones? Work your way up the arms to the shoulders. Then start with the toes and work your way up the body: through the leg bones and the hip bones and the bones of the spine, the ribcage, all the way up to the skull. Sometimes sloth and torpor come from boredom, so change the topic. Probe around in something that’s a little more active, has more parts to think about. You can visualize each of the bones and try to get a sense of where each bone lies in the body. If you notice any tension in that part of the body, allow it to relax. In that way, the meditation develops a sense of well-being that’s wide awake.
+
+If restlessness arises, remind yourself that whatever it is you’re worried about, you don’t know what’s going to happen, but you do know that regardless of what’s going to happen, you’ll need mindfulness, you’ll need alertness, you’ll need discernment in order to deal with the problem. So regardless of the problem, you can develop the qualities you’re going to need by meditating right now. That gives you a narrative that focuses you back.
+
+So each of the hindrances has a series of techniques that you can use against it. But the important thing is that you really do want, deep down inside, to overcome the influence of the hindrances. And that requires that you develop the right attitude as you meditate. Sometimes we think of meditation as a particular technique: All you have to do is stick the mind in the slot and the machine will take care of it. But it doesn’t happen that way. You have to _want_ to do this.
+
+This is why the Buddha said that the first factor in right effort is, as we chanted just now, _chandam janeti,_ generating desire. You have to sit down with yourself and remind yourself why you’re practicing, what you hope to get out of this. Think about all the promises that come: a total end of suffering. The path is something that has an end. Your desires, your anger: They never have an end. You satisfy one desire and something in the mind will say, “Well, how about over here? Make this little change here and try that,” and you go for that one. And then you say, “How about this one over here? That’ll satisfy you.” But no, you’ve had that and it doesn’t really satisfy you. So you say, “How about this one?” You keep going, going, going, and there’s never an end to this.
+
+The same with anger: You could get worked up about all the different injustices in the world. You solve one, well, there’s another one. You solve another one, there’s still another one. There’s no end to these things.
+
+It’s like the hungry ghost up in the rafters in that story they tell in Thailand. There’s a belief that hungry ghosts hang around monasteries because that’s where merit is being shared. In this story, a hungry ghost was staying up in the rafters of a meditation hall. A group of people had come to visit the monastery and to spend the night, so they all slept in a line in the meditation hall. The hungry ghost looked down and saw that their heads weren’t even. So he went down and pulled them so all the heads were lined up in a nice row. Then he went back up in the rafters, looked down, and saw that the heads looked nice. But then he noticed that the feet were not in line. So he went down and pulled them all so that their feet were in line. And he got back up in the rafters, “Ah, the heads are not in line.” So he went and pulled the heads back. Back and forth, back and forth, all night long. Nobody got a chance to sleep.
+
+That’s the way we are in the world. You fix things on one side and something else goes wrong on another side. So you keep running around, running around. You don’t get any rest; everybody else gets disturbed. There’s no end to straightening out the world, there’s no end to your desires, no end to your anger, no end to your sloth, to your worries, to your uncertainty—unless you decide you want to put an end to these things. So think about it. Would you like to put an end to suffering? Or do you want to just keep following all the various ins and outs of suffering?
+
+It’s like all the ins and outs of the Mandelbrot set. If you want to discover, explore every little curve, every little line in that set, you’re never going to come to the end—and you never really accomplish anything.
+
+So remind yourself, you do have the choice and you have to _make_ the choice. It’s not going to happen on its own. It’s not the case that the mind, once it gets still, will just naturally drop all of its defilements. Often the still mind contains the seeds of a lot more defilements.
+
+That’s why we can’t just do concentration. Discernment has to come in as well. Sometimes discernment is simply a matter of noticing things and feeling a sense of immediate disenchantment or immediate dispassion. But sometimes it doesn’t work that way. You have to exert, as the texts say, a fabrication, which means you have to think about things in a new way, breathe in a new way, change your perceptions, until you can finally get past that particular defilement.
+
+So it takes work, and as with all work it requires desire. So _chandam janeti,_ try to generate that desire that you really do want to put an end to suffering. You’ve had enough of the sufferings of the world. How much more do you want to suffer? Ask yourself. It’s when you ask yourself that question that you start getting good answers.
+
+Then use whatever technique you can think of to hold out against the hindrances. There are ideas listed in the texts for counteracting the hindrances, but often you have to create your own arguments, your own approaches. That’s what discernment is for. We’re not just trying to clone the Buddha’s discernment. We’re trying to develop our own, to learn how to be more strategic, how to think with more ingenuity in this direction. We’ve used a lot of ingenuity to foster our hindrances, well, now it’s time to turn the ingenuity around and work back in the other direction.
+
+And try to stick deep down with that desire that you really do want to put an end to suffering. You really do want to give the Buddha’s teachings a try.
+

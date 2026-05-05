@@ -1,0 +1,64 @@
+---
+title: Perfection in an Imperfect World — May 21, 2022
+slug: 220521-perfection-in-an-imperfect-world
+order: 87
+date: May 21, 2022
+mp3: https://www.dhammatalks.org/Archive/y2022/220521_Perfection_in_an_Imperfect_World.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/220521_Perfection_in_an_Imperfect_World.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2022/220521-perfection-in-an-imperfect-world.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+We live in an imperfect world. As long as there are people, it’s going to be imperfect. As the Buddha said, if you gave one person the amount of gold equal to twice the Himalayan range, it still wouldn’t be enough for that person’s desires.
+
+I remember in Thailand there was a time when a very wealthy millionaire was running for prime minister, and people figured, well, he’s super-wealthy already, so he’s probably not going to be corrupt. But it turned out that his thirst for wealth was more than anyone else could imagine. As you get wealthier, you start thinking about more and more and more. There’s never enough. And when you have a world full of people who have nowhere near enough, there’s going to be conflict. So if you’re going to look for perfection, you can’t look to the world outside. You’ve got to look inside.
+
+We start out with very imperfect minds, but the Buddha himself started out imperfect, too. He started out with greed, aversion, and delusion just like ours. But he was able to find qualities in his mind that he could develop: the resolution, ardency, and heedfulness that allowed him to get past those defilements.
+
+Now, we have those qualities in ourselves to some extent.
+
+Heedfulness is when you see the dangers that can come when you act in unskillful ways, but you realize that if you avoid those unskillful ways of acting, you can avoid the dangers. If there were just dangers all around that we couldn’t prevent, then heedfulness wouldn’t be of much use. But it’s because we can avoid those dangers through our actions that we should be heedful.
+
+Ardency is trying our best. In the context of mindfulness practice, it’s one of the three qualities the Buddha said that you bring to mindfulness. There’s mindfulness itself: the ability to keep something in mind, as we’re doing with the breath right now—keeping the breath in mind, and keeping in mind all the tricks we’ve learned about how to deal with the breath. You don’t have to run them through your mind all the time, but have them at your fingertips so that when you recognize a certain problem coming up with the breath or coming up with the mind trying to stay with the breath, you can remember that you dealt with this problem before. How did you deal with it then? Give that a try. And then you’re alert, watching to see what’s actually going on, particularly what’s actually happening in your actions and the results of your actions. Alertness on the path is not a generalized awareness of the present moment. It’s more specific: What are you doing? What’s coming about as a result?
+
+Ardency is the discernment factor among these three: realizing after all your actions will make a difference, so do your best to act in ways that are really skillful. That’s wise.
+
+So those are qualities the Buddha developed as well.
+
+Then there’s resolution, making up your mind you’re going to stick with something and see it through. This, the Buddha said, was one of the two secrets to his awakening. And as long as he hadn’t found true awakening, he was not going to give up on his efforts. To be resolute like that, you have to have inner resources to draw on. A lot of that has to do with your perception of what resources you have.
+
+There was that time when Ajaan Fuang announced out of nowhere one day that we were going to be sitting up all night. We’d been working pretty hard that day, so I said to him, “I don’t think I’ll be able to do that.” He looked at me and said, “Is it going to kill you?” “Well, no.” “Then you can do it.” So I was able to do it. I found resources inside that I hadn’t suspected that enabled me to stick with it. This is what happens when you push yourself a little bit more than you would feel comfortable with. You stick with it, stick with it, stick with it, and if you look for it, you’re going to find something in there—a resource you didn’t realize you had.
+
+So learn to perceive the fact that you have more inside of you than you think. You can think of those images the Buddha gives for patience and goodwill. Your goodwill is as large as the earth. Someone comes along with a little basket and hoe and he tries to make the earth be without earth. He digs here and there, and he spits here and there, and he urinates here and there, saying, “Be without earth, be without earth.” His efforts are comical because the earth is so much bigger.
+
+Now, you can have that perception of your goodwill. People can come and do things to you and you don’t see them as big and horrible and overwhelming you, or that you’re a little, tiny victim. Instead, imagine yourself as the earth and they’re just that man with his basket and his hoe. And it’s amazing how much having that perception in mind allows you to find the resources that would correspond to it—that, yes, you can take this. Yes, you can stick with this.
+
+Or think of your goodwill as being like the river Ganges. Someone comes with a torch to try to burn up the river, and, of course, the river can’t be burned up. It’s water. In the same way, people can come and try to make you angry, but you try to make your mind like water. They can insult you but you can think of the quality of your goodwill as being like space. People can try to write words in space, but there’s no place for the words to stick. If people say things to you with the intention of harming you or hurting you, don’t let them stick. Let the words just fall away. When you think in these ways you’re using mental fabrication to shape your experience, right here, right now. You find you have resources inside that you hadn’t imagined before. That’s what allows your resolution to grow.
+
+The other quality the Buddha said was important for his awakening was not being content with skillful qualities. It sounds strange. Of course, it means that you would definitely not be content with _un_ skillful qualities. The images in the Canon are always trying to get rid of them like a man whose head is on fire. You’d be resolute, mindful to put that fire out—focused on putting the fire out.
+
+In the same way, when passion, aversion, delusion come into the mind—when any unskillful quality comes in the mind—you’ve got to figure out, “How do I get past this?” You can’t just sit there and wallow in it, enjoy it, or participate in it. You have to realize, “This is going to burn me up. This is going to cause problems. I’ve got to put out the fire.” And that’s with unskillful qualities.
+
+But even with skillful qualities, the Buddha said, he would not rest content. What he meant was that he was looking for the ultimate skill, the skill of the noble eightfold path that would lead to the deathless. And with anything that wasn’t up to that standard, he wouldn’t rest content.
+
+That’s how the Buddha gained awakening. And the message of his awakening, of course, is that we can all do this, too. After all, he was a human being starting out imperfect, but he was able to find the qualities inside that led to the perfection of awakening—and they’re all human qualities.
+
+There’s that passage in Richard Feynman where he talks about how when he’d gone down to teach in Brazil, he learned the bongo drums. A person had written to him some time later, saying, “I really liked learning the fact that you learned the bongo drums. It makes you human.” Feynman was really offended. Here he was a great physicist, and somehow being a physicist was not part of being human. So he wrote a blistering letter back to the person, saying, “Being a physicist is just as human as playing the bongo drums.” In the same way, being a Buddha is just as human as being whoever you are—just that it’s extraordinary.
+
+Our problem, of course, is that we want the world to be perfect but we want to be let off the hook. We don’t want to have to be held to a standard where we’re perfect. It’s only natural that we get angry at things we don’t like; it’s only natural that we have lust and greed for things that we want. Listen to that phrase: “only natural”: That’s all it is. We tend to use “only natural” as an excuse, but it’s more of a put down when you really think about it. What the Buddha did was very human but it was _more_ than natural. The natural way is just to get born and, as he said in his memories of previous lifetimes, have a certain appearance, have certain food, have certain experiences of pleasure and pain, and then die. And then you come back for more, and then still more.
+
+It’s like that penguin in the story of Charcot’s trips down to the Antarctic. They were setting up camp near a penguin colony, and the plan was to use the penguin colony as a source of food. Of course, the penguins didn’t know this. They were curious. They came to watch the sailors as they were setting up camp. One of the penguins got very close, so one of the sailors took off his glove and put it on the penguin’s head. The penguin went running around, running around, running around, trying to shake the glove off its head. Finally, it got it off. Then it came back for more. This time they put a sailor’s hat on him. He went running around, running around with the sailor’s hat, trying to shake it off. Finally, he shook it off. He kept coming back for more, not realizing that their ultimate plan was to eat it. All the penguin could see was the fun.
+
+That’s us. All we can keep in mind is the fun. We tend to forget all the suffering—or if we see the suffering, we say, “Well, that’s part of life. You have to put up with it.” But the Buddha is saying No, you don’t have to put up with that. There’s something better.
+
+I know there are people who don’t like being held to this standard. They’d rather be told that there’s nothing to do, just accept what you’ve got—be perfectly fine with that, and that’s the best anybody can do. But that’s really defeatist. The Buddha wasn’t a defeatist. He was a victor. As he said, the noble eightfold path is the path to victory. He establishes a high standard for us, that this can be done, because he has compassion for us. He doesn’t want us to rest content with our continued suffering.
+
+So even though the world isn’t perfect, it is possible to find perfection inside. And in the course of finding it inside, it’s not as if you’re abandoning the world. After all, a part of developing perfections, of course, is developing the perfection of generosity and the perfection of virtue. These are the perfections with which you help the world as you’re helping yourself.
+
+With the perfection of renunciation, the Buddha is basically not talking simply about doing without. For him, renunciation means looking for your pleasures in places besides sensuality. That includes right mindfulness and right concentration. As he notes, as you develop the mind in those directions, you’re helping the people around you.
+
+So the path is not a selfish path. It’s simply focused. You realize that what you can do for the world, the success with which you try to help the world, depends on a lot of things besides your intention, besides your actions. When there’s a war, there’s a real limitation on how far the goodness you do can go. When there’s famine, when there are pandemics—there are lots of things that happen to the human race that put limitations on how long things will last and how long our impact on the human race will last. But that doesn’t defeat us. We still do our best. And in doing our best, we leave behind traces. Think of the Buddha: 2,600 years ago. Tomorrow will be the anniversary of his cremation. With how many other people do we remember the date of their cremation, the date of their burial? Very few. We remember his because he left behind his excellent example, one full of hope. He was able to take his human nature and develop to the perfection of awakening. And we’ve got that potential within us as well.
+
+So don’t see that as one more burden being placed on you, one more impossible measuring stick against which you’re supposed to measure yourself. Think of it as an opening to total satisfaction, an opportunity for total satisfaction. Those two Himalayan ranges of gold will never satisfy you, but nibbana is more than satisfying. That’s what the Buddha and all the great arahants have said. It’s up to us to decide whether we’re interested in what they say or not, whether we’re tantalized by what they say or not. But only a fool wouldn’t be interested in a possibility that good.
+

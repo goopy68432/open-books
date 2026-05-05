@@ -1,0 +1,42 @@
+---
+title: The Problem of Suffering — March 01, 2005
+slug: 050301-problem-of-suffering-the
+order: 23
+date: March 01, 2005
+mp3: https://www.dhammatalks.org/Archive/y2005/050301 Problem of Suffering, The.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/050301_Problem_of_Suffering,_The.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2005/050301-problem-of-suffering-the.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+The Buddha once said that all he taught was suffering and the end of suffering, or stress and the end of stress. A problem and its solution, that’s all. All the teachings in the Canon, all 84,000 sections of the Dhamma, focus on this one problem and its solution. You don’t have to _do_ the problem. The problem is already there, already happening. The solution, though is something you have to do. As the phrase in the chant just now said, _antakiriya,_ to make an end: It’s to make an end of suffering, make an end of stress. So all his teachings are directions on how to do that, they’re part of a training on what to do to bring about an end to suffering.
+
+We tend to forget that. We sometimes take the teachings out of context. They become part of a philosophy, a worldview, something people can argue and discuss. But that wasn’t the Buddha’s intention. Each of the teachings has its place as something you do or directions on what to do. Even when it’s a matter simply of analyzing suffering, analyzing its cause, you analyze it so that you can understand it, and then you act on the understanding. So the teachings have their value in the context of their purpose, which is in training the mind to act skillfully.
+
+A lot is said about Buddhist wisdom: three characteristics, teachings on emptiness or dependent co-arising. But when the Buddha himself defined wisdom, it was the wisdom of how you do something, taking that knowledge and putting it to use for its intended purpose. That wisdom begins, he says, with the question, “What, when I do it, will lead to my long-term welfare and happiness?” That one question forms the framework for everything else. He also said that the measure of a person’s wisdom, whether you’re to be a wise person or a fool, comes down to two situations: One, there’s something that you like to do it but it’s going to lead to suffering, and you have the wisdom to be able to convince yourself not to do it. Two, if there’s something you don’t like to do but it’s going to lead to happiness, you have the wisdom to be able to convince yourself to go ahead and do it. To _want_ to do it. This is wisdom in action. That’s the kind of wisdom the Buddha was interested in: wisdom that acts.
+
+So when you think about his teachings, always think about how they function in training your mind to undercut the cause of suffering so you can bring about the end of suffering.
+
+For instance, we’re working with the breath now. You’re focusing on the breath coming in, going out. The teachings on the four noble truths, all the various ways of expressing the path, relate to what you’re doing right now.
+
+The important thing is what you’re doing. You pick up the Buddha’s teachings as they become necessary, as they become useful.
+
+But the first thing is to get the mind to settle down. As the Buddha once said, right concentration is the heart of the path. And his most detailed instructions on meditation are those on breath meditation. Watch the breath, he says, as it comes in, goes out. Be mindful and alert. When it comes in and out long, know it’s coming in and out long. When it comes in and out short, know it’s coming in and out short. And that’s a shorthand for all the other things the breath can do: It can be fast or slow, heavy or light, deep or shallow, comfortable or not. If it’s not comfortable, you can change. Nobody’s forcing you to breathe in any particular way, so you might as well breathe in a way that feels good. If you want the mind to settle down and to train it in the direction the Buddha points you to, there’s a sense of ease and refreshment. So you can start right away by making the breath easy, refreshing. It feels good coming in, feels good going out.
+
+And the next step, he says, is to train yourself to breathe in and out aware of the whole body. You can do this section by section first if you like. In other words, be aware of the abdomen for a while, then be aware of the chest, and then the head and the back; the thighs, the shins, the feet; the shoulders, the arms, the hands. Make a survey of the body to make sure that it’s comfortable, that the energy flow in the body is unobstructed. You can go through this body survey several times, as many times as you like until you’re ready to settle down. You focus your awareness in one spot and then think of it spreading out to fill the whole body. That way, you’re aware of the whole body breathing in, aware of the whole body breathing out.
+
+Then you can allow the breath to grow calm. After a while, the sense of energy in the body feels just right. You don’t have to breathe all that much. The quieter the mind becomes, the less oxygen it uses and the less in-and-out breathing you’re going to need. Think of all the pores in your skin opening up. The oxygen exchange at the skin is enough to keep you going.
+
+These are the first steps in getting the mind to settle down, to put it in a place where it can start using the Buddha’s different teachings, say, on the three characteristics. Suppose something comes up to distract you, anything that creates a burden on the mind, and no matter how much you bring your mind back to the breath, that particular distraction keeps gnawing away. The Buddha said to focus on its drawbacks, the drawbacks of thinking about that kind of thing, of identifying that as a thought you want to get involved with. That’s where you can begin to use the three characteristics. In other words, notice how that thought comes and goes. Or if it’s a pain, notice how the pain comes and goes. Once you’ve created a good, steady foundation for the mind, you can look at pain and not feel so much threatened by it. Then you can watch it coming, going, and realizing it’s not the solid torment that you might have thought it was. It moves around. The same for those distracting thoughts: They come, they go, they change. That means they’re inconstant and unreliable.
+
+So watch the change. And then make a comparison: the mind when it’s still and at ease with the breath, and then the mind when it gets involved with the pain, when it gets involved with the distraction. And you see that the pain and the distraction are stressful. If they change and they’re stressful, why claim them as yours?
+
+That’s one of the ways in which you use the teachings on the three characteristics. The Buddha taught them not as a treatise on the nature of reality but as a tool for prying loose any kind of clinging you may have. You start with blatant things that are really distractions. Anything that comes up in the meditation that disturbs your concentration, that disturbs your stillness, you can apply those teachings to pry the mind loose from its attachments to those things. And it gets easier: If the thought happens to come back, you can really ignore it, you don’t have to get involved. And you find that by not getting involved, you begin to starve it. It has less and less energy.
+
+Then, as your concentration gets deeper and more solid, you begin to see subtler distractions, subtler disturbances in the mind, even in the concentration itself. When the mind is really still, it can use those same three characteristics as tools for prying loose more refined attachments. That’s why the teachings are there.
+
+So keep this in mind. The Buddha’s teachings are best understood from this perspective, from this perspective of a still mind: Alert. Mindful. Inquisitive. In other words, when a disturbance comes up, you want to look into it to try to understand it, just enough so you can let it go.
+
+In this way, you’re using the Buddha’s teachings for their intended purpose, so that you’re capable of making an end to suffering. It’s just one problem that the Buddha focused on: that’s it, the problem of suffering. But it’s a big one. This is the problem that makes everything else a problem. Whatever other problems there are in the world, they’re problems because you create suffering around them. So if you can train the mind not to create suffering, that takes care of every other problem there is.
+

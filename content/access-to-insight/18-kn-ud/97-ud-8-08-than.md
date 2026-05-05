@@ -1,0 +1,36 @@
+---
+title: Vis&#257;kh&#257; Sutta — Vis&#257;kh&#257;
+slug: ud-8-08-than
+order: 97
+author: Thanissaro Bhikkhu
+nikaya: KN
+year: '2012'
+source_url: https://www.accesstoinsight.org/tipitaka/kn/ud/ud.8.08.than.html
+license: CC-BY-NC
+---
+
+I have heard that on one occasion the Blessed One was staying near Sāvatthī at the Eastern Monastery, the palace of Migāra's mother. And on that occasion a dear and beloved grandson of Visākhā, Migāra's mother, had died. So Visākhā, Migāra's mother — her clothes wet, her hair wet — went to the Blessed One in the middle of the day and, on arrival, having bowed down to him, sat to one side. As she was sitting there the Blessed One said to her: "Why have you come here, Visākhā — your clothes wet, your hair wet — in the middle of the day?"
+
+When this was said, she said to the Blessed One, "My dear and beloved grandson has died. This is why I have come here — my clothes wet, my hair wet — in the middle of the day."
+
+"Visākhā, would you like to have as many children & grandchildren as there are people in Sāvatthī?"
+
+"Yes, lord, I would like to have as many children & grandchildren as there are people in Sāvatthī."
+
+"But how many people in Sāvatthī die in the course of a day?"
+
+"Sometimes ten people die in Sāvatthī in the course of a day, sometimes nine... eight... seven... six... five... four... three... two... Sometimes one person dies in Sāvatthī in the course of a day. Sāvatthī is never free from people dying."
+
+"So what do you think, Visākhā? Would you ever be free of wet clothes & wet hair?"
+
+"No, lord. Enough of my having so many children & grandchildren."
+
+"Visākhā, those who have a hundred dear ones have a hundred sufferings. Those who have ninety dear ones have ninety sufferings. Those who have eighty... seventy... sixty... fifty... forty... thirty... twenty... ten... nine... eight... seven... six... five... four... three... two... Those who have one dear one have one suffering. Those who have no dear ones have no sufferings. They are free from sorrow, free from stain, free from lamentation, I tell you."
+
+Then, on realizing the significance of that, the Blessed One on that occasion exclaimed:
+
+The sorrows, lamentations, the many kinds of suffering in the world, exist dependent on something dear. They don't exist when there's nothing dear. And thus blissful & sorrowless are those for whom nothing in the world is anywhere dear. So one who aspires to the stainless & sorrowless shouldn't make anything dear in the world anywhere. 
+
+See also: [MN 87](<../../mn/mn.087.than.html>); [Thig 3.5](<../thig/thig.03.05.than.html>); [Thig 6.1](<../thig/thig.06.01.than.html>). 
+  *[MLS]: Middle Length Sayings (I.B.Horner, tr.; PTS)
+  *[MLDB]: Middle Length Dsicourses of the Buddha (Bh. Bodhi, tr.; Wisdom Publications)

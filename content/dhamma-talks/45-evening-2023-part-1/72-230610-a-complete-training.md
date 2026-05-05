@@ -1,0 +1,54 @@
+---
+title: A Complete Training — June 10, 2023
+slug: 230610-a-complete-training
+order: 72
+date: June 10, 2023
+mp3: https://www.dhammatalks.org/Archive/y2023/230610_A_Complete_Training.mp3
+pdf_transcript: ''
+source_url: https://www.dhammatalks.org/audio/evening/2023/230610-a-complete-training.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Years back, I read a book that posited two kinds of Buddhism. One was called the Buddhism aimed at merit, and the other was the Buddhism aimed at nibbana. The author presented them as two very different kinds of Buddhism. The first was all about the pleasures of samsara, and the other was focused on the drawbacks of samsara. They seemed to be heading in different directions.
+
+But as you start actually practicing the Dhamma, you find that the two go together. You’re trying to understand your mind. The best way to understand the mind is to realize it’s not just mind, it’s heart as well. The functions that we assign to the heart in English and the functions that we assign to mind all come under the one word _citta_ in Pali. You find this also in many other languages in Asia that have been influenced by Buddhism. After all, your desires, your intentions have their reasons, and your reasons have their desires. There’s no clear line between them.
+
+As we develop merit—or goodness, basically—through generosity, virtue, and the development of goodwill, we’re learning about how to construct good states of heart and mind, and to have a good influence on the world around us. After all, this is the world in which we’ll be practicing, so you want to create a good environment. At the same time, if you’re going to be watching your mind, which is what you have to do in order to get beyond the constructs of the mind, it’s easiest to watch when you’re doing good things, as when you’re developing good habits in the heart.
+
+Years back, I was co-teaching a retreat, and one day, in the middle of the afternoon, one of the retreatants started sobbing intensely. Nobody else in the room seemed to be paying any attention. I found it very strange. But I was told later that this was a common occurrence in what you might call walk-in meditation retreats, where people come in off the street with no background in the precepts, no background in generosity, and they start looking at their minds and they don’t like what they see. This particular person had been a drug dealer, and at that point, we found out later, it suddenly hit him how many lives he had destroyed by selling drugs to people.
+
+Usually, when something like that opens up, there’s a part of the mind that wants to close it back up as quickly as possible, because it’s so painful. So to avoid that kind of experience and avoid that inability to watch your own mind, you want to develop good habits, good habits of the heart. When you’re being generous, when you hold to the precepts, you realize that you’re not harming anybody, you’re actually helping others. You’re learning to respond to the part of the heart and mind that likes to share, that feels inspired to share, not because you’re supposed to, not because it’s Christmas or a birthday or whatever, but simply because you want to share something you’ve got. You should try to nourish that side of the heart, because as it gets stronger, it’s a lot easier to watch your mind. It gives you the right attitude. You’ve come to the meditation not so much for what you can get out of it, but what you can give.
+
+This is why here at the monastery we don’t have too many assigned jobs. The giving is supposed to be voluntary. If you see that something needs to be done, that can be your gift. You begin to realize how you create good states of mind.
+
+This is especially true when you’re developing thoughts of goodwill. You have to learn how to talk to yourself in ways that make you want to extend goodwill to people you don’t like or to those you feel have been really behaving in horrible ways. Yet you have to have goodwill for them. So you have to talk to yourself in terms of the principle of karma, say. If you have ill will for people like that—and it’s so easy to have ill will for them—you can’t trust yourself around them. And if you want to have some influence over them, but if you have ill will for them, they’re going to sense that ill will and they won’t want to respond.
+
+Your basic attitude needs to be that if people are misbehaving, may they see the error of their ways, because they’re harming themselves. May they be willing and able to change. When you’re thinking about trying to influence them so that they _will_ change, you want to do it with an attitude of goodwill.
+
+Then you realize that to keep this attitude going, it helps to breathe in a comfortable way, to talk to yourself in a comfortable way, and to have perceptions and feelings that will help induce those pleasant feelings of goodwill.
+
+This means you’re beginning to see the process of fabrication. Then as you get more into developing the meditation—working with the breath, trying to get states of concentration, develop states of tranquility that can allow you to give rise to insight—you want to focus on the positive nature of concentration first, that it’s a restful place for the mind. You can sit around and think thoughts of goodwill all day, and some people can get into strong concentration that way. Other people find the thinking a disturbance. It’s better just to be very still, and you can do that with the breath.
+
+In the beginning, of course, you have to talk to yourself about the breath. What kind of breathing feels good? How about long breathing? Try it for a while. How about short breathing? Try it for a while. See which feels better. When there’s a sense of well-being, think of it spreading through the body. Here the operative word is _allow_. Allow those comfortable sensations to spread. Don’t force them through. It’s like going to an area where the roads have been blocked, so you remove the blockages. As for the traffic that’s going to travel along the roads, you don’t have to push the cars down the road. The people who want to use the road will use it. In the same way, when things are relaxed in the body, the breath will flow. The sense of ease will flow.
+
+Here again, you see the processes of fabrication. You become more and more a connoisseur of what really feels good inside, and how you should relate to the breath energies inside—or how you can learn how to recognize them to begin with. They’re there all the time. Most of us haven’t learned how to recognize them as such. When you realize your whole sense of feeling in the body depends on the flow of energy, you begin to get more and more sensitive to how it feels, even in unlikely parts of the body. Your tastes get more refined and more demanding. Other activities that used to give you pleasure don’t give you so much pleasure anymore, because you see you’ve got something better here.
+
+What the Buddha’s doing, basically, is getting you cornered, because your sensitivity’s gotten greater and greater. You begin to realize that things that are fabricated, no matter how well you fabricate them, are going to fall apart. As you get attached to them, you realize you’re getting attached to very subtle levels of stress. You want something better.
+
+And we’re fortunate that we have the Buddha’s teachings on the four noble truths to remind us that when you let go, it can bring the end of suffering. That way, you’re more willing to let go. This is why the Buddha has you contemplate not only things outside—things that would have pulled you away from your concentration—in terms of the perceptions of inconstancy, stress, and not-self, but also the concentration itself.
+
+You can think of the five brethren when they listened to that sermon we chanted last night. Here they had already gained some measure of concentration. Now they were asked to look at even that state, as refined as it was, to see that it, too, had its drawbacks. Then the Buddha told them to reflect on the fact that everything you would experience, past or future, everything that you could fabricate, no matter how well you fabricate it, no matter what level of being you go to, is going to be made of these same fabrications. They’re all going to fall apart at some point. And even before they fall apart, they’re erratic, they’re inconstant.
+
+So after learning how to construct good mental states, the Buddha has you take them apart to the point where you don’t want to get involved in constructing them anymore.
+
+Now, as you get the mind in concentration, one of the things you’re doing is learning how to step back from your distractions. You have to understand them, too, in terms of the process of fabrication. So you’re learning how to disidentify with a lot of things as you practice, as you hold on to the path. Finally, though, you learn how to disidentify with the path itself, even with the discernment that leads you there. This is why when the Buddha teaches that all fabrications are inconstant, all fabrications are stressful, he doesn’t end up by saying, well, all fabrications are not-self. He says, all dhammas are not-self. Even the dhamma of seeing this, the dhamma that would be the discernment of seeing the drawbacks of these things: That, too, is something you have to let go.
+
+Ajaan Maha Boowa’s image is of climbing a stairway up to a house. You climb the stairway that’s composed of developing skillful senses of a self and also learning how to use not-self. But as long as you stay on the stairway, you’re not in the house. When you get into the house, you don’t carry the stairway in with you. You leave it there. That’s when you’re really free.
+
+So all along you’ve been training both the heart and the mind, learning how to construct good states of heart, good states of mind, because the things you know best are the things to do, and you should be getting better and better at this process of construction. The result is that you understand how constructed it is. You understand its potentials, but you also understand its drawbacks. That’s how you can take it apart. And when you take it apart, that’s when you’re free.
+
+So the practice of merit—or as I prefer to translate it, goodness—is an integral part of the practice that takes you to freedom. These practices are not taking you two different ways. They’re just different aspects of the same practice. It is possible to stop with just goodwill and virtue and generosity, but the practice that takes you to nibbana can’t do without those qualities.
+
+So make sure that your practice is all around. You’re not just training the head or your mind. You’re training the whole heart-mind complex. And when the whole thing is well-trained, then the whole thing can gain release.
+

@@ -1,0 +1,58 @@
+---
+title: Knowledge over Fear — April 04, 2018
+slug: 180404-knowledge-over-fear
+order: 28
+date: April 04, 2018
+mp3: https://www.dhammatalks.org/Archive/y2018/180404_Knowledge_over_Fear.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/180404_Knowledge_over_Fear.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2018/180404-knowledge-over-fear.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+I know a woman who’s more comfortable around wolves than she is around human beings. It’s because she knows wolves, she’s studied them, she’s been with them, she’s become familiar with them. She _is_ careful around them: She knows when to leave them alone, when to keep her distance. But it’s because she can read them that she feels comfortable with them. She has trouble reading human beings.
+
+This just goes to show that people’s fears can be very different, but a lot of them have to do with what you don’t know.
+
+We had someone here years back who was afraid to stay in the tent out in the grove because he had no idea what might happen in the grove at night. He was from a rough part of New York City. I told him, “Look, I’d be much more afraid to go through the streets that you go through every night, whereas here in the orchard what do we have? The most dangerous animals are snakes, and snakes are pretty simple. You leave them alone, they’ll leave you alone. You stand still, they can’t see you. Human beings are a lot more complex, and a lot harder to read.”
+
+So again, it’s a matter of what you’re familiar with. One of the best ways of overcoming fears about things is to learn about them. Stock up on your knowledge so that you know exactly where they are dangerous and where they’re not, and then you just move into the area where they’re not dangerous. There are tribes in Africa who live with wild animals all around—dangerous ones: lions, tigers, elephants—and yet they’ve learned how to read them.
+
+So when you’re dealing with fears, the first thing to remember is that there may be good reason for fear but you can gain a lot of security from learning about the things you’re afraid of. Try to know precisely where the dangers are. The less you know where the dangers are, the more you see them everywhere.
+
+The second thing to think about, of course, is that your own mind is a lot scarier than the world outside. The real dangers lie in here. I’ve known therapists who’ve come and asked why the Buddha didn’t list fear among the unskillful mind states. We have greed, aversion, and delusion in the basic list, but not fear. The Buddha does list fear as one of the causes for behaving in an unskillful way, but he doesn’t list it as a necessarily unskillful state in and of itself. Why? Because there are things that are worth being afraid of. Being unskillful, acting in a harmful way, the fact that your mind could change so easily: Those are things to be afraid of. You learn the Dhamma, you practice the Dhamma, and it’s possible—as long as you haven’t tasted the first taste of awakening—that your mind could suddenly turn around and throw it all away. That’s something to be afraid of.
+
+Now, that kind of fear comes under what the Buddha calls heedfulness, realizing that there are dangers in the mind. But again, learning about your mind so that you know exactly where the dangers are is a big help. Because the whole point of heedfulness is that you realize that there are dangers but you can do something about them. If you couldn’t do anything about them, heedfulness wouldn’t serve any purpose.
+
+And although we live in a world where there is aging, illness, and death, and there are people doing unskillful things, still you can prepare yourself so that you can deal with those things and not have to suffer. You can age but not suffer from aging. You can grow ill not suffer from the illness. You can even die and not suffer from dying. That’s possible. There’s a way to deal with the dangers and minimize the ravages they make on your heart. And that’s the knowledge that the Buddha gives us.
+
+First he warns us about the big dangers: greed, aversion, delusion—and craving in particular. And he tells us specifically which kinds of cravings are bad, because not all desires are bad. Craving for sensuality, craving for becoming, craving for non-becoming, these are the big bad ones. Sensuality doesn’t mean pleasant sensual objects, it’s more our fascination with thinking sensual thoughts: planning for this sensual pleasure, planning for that one, saying “Boy, wouldn’t it be nice if I had this or had that or experienced this or experienced that.” The mind can eat itself up with those thoughts. And there are times when they seem really, really attractive. Which is why the Buddha has us contemplate the unattractiveness of the body, the dangers of sensuality. Because when you’re away from these things, you forget that they do have their downside, and all you can think about is how much you like them, how much you want them, how much you miss them. And that can eat away at a lot of the skillful qualities of the mind right there.
+
+Craving for becoming: That means is wanting to take on a particular identity in a particular world of experience. And again, some becomings are okay. The becoming that you would like to become a meditator, you would like to be skillful in the meditation, you’d like to live in an environment where you can meditate: These are skillful becomings. The unskillful ones are built around unskillful desires, because the desire is what shapes your sense of who you are and your sense of the world around you. The world looks very different to an alcoholic than it does to someone who’s not an alcoholic. Even though the outside appearances may be the same, the things you notice, the things you look for are really driven by the desire. So it comes back to that original craving. Because there are some cravings for power, cravings for status, that can make people do _really_ stupid things.
+
+And there’s craving for non-becoming: You’ve got a becoming that you’ve developed and you want to destroy it. Yet often in destroying it, you take on another kind of becoming, the destroyer. Again, you can destroy a lot of good things that you’ve accomplished, and the destruction can often spread around to harm other people. So it’s good to be warned that these are the areas you have to watch out for.
+
+Then more specifically as you’re meditating, there are two big dangers here. There are lots of people I know in Asia who are afraid to meditate because they’re heard stories of people going crazy or being visited by visions of things that scare them. I know a lot of Ajaan Fuang’s students whose parents were upset that they were meditating because of this very fear. But again, it’s fear of the unknown. The big things you have to watch out for are, one, visions: Don’t believe them, don’t get involved with them. And if they do come and you don’t like them, you can breathe deep into your heart three or four times and they’ll go away. Because what allows the vision to come is a lapse of mindfulness. The mind gets into a state of concentration where it’s settling down but not fully there with its object. It’s kind of a dreamy state, and that’s where these visions can come in. So as you breathe into the heart, you’re reestablishing mindfulness, reestablishing alertness, and they’ll go away.
+
+As for cases of being visited by outside beings, you fill your body with good breath energy, you fill your body with your awareness, and you spread goodwill, because goodwill is your best protection. Just make sure that nobody invades your space. And you can do that a lot better actually when you’re meditating than when you’re not. So instead of leaving you open to danger, the meditation is actually a protection.
+
+Then finally, the most dangerous part of the meditation is when you start having assumptions that you’ve gained this or that level of awakening and you assume that, well, whatever defilements are left in the mind are okay, because after all, you’re awakened! And you can end up doing a _lot_ of damage to yourself and to the people around you.
+
+So those are the big dangers. As long as you stay with the breath, work with the breath energy in the way that Ajaan Lee recommended, and watch out for these two dangers, you’re safe.
+
+Here again, it’s an issue of gaining knowledge: knowing what there is that you really should be afraid of and knowing how to work around those things. So you respect the dangers but you don’t let yourself get overwhelmed by them. You have a sense of confidence in your skill, and that confidence will grow as you find that you actually do get past dangerous things in the meditation. And particularly when a defilement comes up and you realize that you can outmaneuver it, you begin to realize these meditative skills _really_ are useful. But all too often, we develop them but then we don’t use them.
+
+Ajaan Lee’s analogy is of a medicine. You’ve got the medicine, but you never use it to treat an illness, so you have no sense that the medicine is really worth anything. That kind of medicine is easy to throw away, not because there’s anything wrong with the medicine, but simply that you haven’t put it to use.
+
+It’s the same with the meditation: You can develop your powers of mindfulness and alertness and concentration while you’re sitting here, and then throw them away as you go through the day, and then complain, “I don’t see how my mind is getting any better.” There’s nothing wrong with the meditation, it’s simply that you haven’t applied it and gained a sense that it really can protect you.
+
+So the best defense against fear is knowledge: learning about what there is out there to be afraid of, learning about what there is _in here_ to be afraid of, and then mastering the skills that help you avoid the dangers, so you don’t give in to unskillful states and you don’t get apathetic.
+
+That relates to another form of fear that the Buddha recommended, which he calls _ottappa._ It’s the opposite of apathy. It’s the fear of the consequences of doing something bad, something unskillful. The danger it avoids, of course, is the mind state that says, “I don’t care. I’m going to do what I want right now and I’ll let the chips fall where they may. I don’t care about the future, all I care about is the present moment.” _That’s dangerous_. It’s a mind state you’ve got to watch out for. You counteract it by saying, “Look, I really do want to create the causes for happiness so I’m not weighing myself down in the future with unnecessary and pointless pain.”
+
+Because that was the Buddha’s main discovery: The pain that we cause ourselves is pointless, serves no purpose at all. There are philosophies and religions out there that say, “Well, the fact that you’re suffering is serving some higher purpose, so put up with it.” But the Buddha realized that in the universe there is no purpose, so you get to choose your purpose. Which means that you can choose not to suffer.
+
+And when you reach that state where you’ve mastered the skills of meditation and you don’t have to suffer anymore, then you realize there’s no danger in the mind at all. And when there’s no danger in the mind, outside dangers get very small. They’re there, you’re careful, but fear is gone.
+
+That’s what the ajaans tell us, that’s what the Buddha tells us. There’s a lot of good evidence. So it’s up to us to give it a try. As long as there’s fear and there’s skillful fear, use that skillful fear. It will take you, as the Buddha said, to the place where there’s no longer any need for fear at all.
+

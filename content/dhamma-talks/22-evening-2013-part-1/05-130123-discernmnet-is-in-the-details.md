@@ -1,0 +1,40 @@
+---
+title: Discernment Is in the Details — January 23, 2013
+slug: 130123-discernmnet-is-in-the-details
+order: 5
+date: January 23, 2013
+mp3: https://www.dhammatalks.org/Archive/y2013/130123_Discernmnet_Is_in_the_Details.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/130123_Discernment_Is_in_the_Details.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2013/130123-discernmnet-is-in-the-details.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+When you focus on the breath, there are quite a few activities going on in the mind. But the two most important in getting you to be with the breath and stay with the breath are directed thought and evaluation. Directed thought is when you keep reminding yourself to keep coming back to the breath: “Breath, breath”—this is what you’re going to be thinking about. And evaluation is where you develop your discernment around the breath.
+
+You start out with simple things like: Does the breath feel comfortable? Where does it feel comfortable? If it doesn’t feel comfortable, what can you do to change? Do you change the rhythm of the breathing, the depth, the heaviness of the breath? Do you change your concept or perception of the breath? If you feel that you have to pull the breath in through some tiny nasal passages that are feeling a little blocked, there’s going to be a lot of pushing and pulling. How about thinking about the body’s being a huge sponge with holes all over? The breath can come in and go out from any direction with no obstruction at all. What does that perception do?
+
+Then there are the various breath instructions. You have to figure out which ones work for you. Ajaan Lee has you survey the body first and then settle down to one spot. When that spot is comfortable, think of the breath beginning to spread through the whole body. Some people find that works; other people find they have to do it in a different order. You find the one spot first, and you stay there for quite a while.
+
+He takes that into consideration. In one of his Dhamma talks, he says that some people have to start out with just one little corner—like being a person with a huge piece of land where you want to start an orchard. You can’t plant all the trees throughout the whole orchard all at once. You take one little corner where you plant your trees, and you look after those. Make sure those get established. Then you very gradually take the seeds from those first trees and use them to plant the rest of the orchard—bit by bit by bit.
+
+Other people find that the breath doesn’t really get comfortable until they’re fully aware of the whole body all at once. If they focus on one spot or another spot, they tend to tense up around that spot. If that’s your case, you have to think, “Whole body, whole body.” Think of the breath coming in and out through the whole body. And gradually, you can settle down into one spot without putting too much pressure on it.
+
+So here again, you’re using your powers of evaluation to figure out what works for you. And it’s always an issue of “just right”: What’s just right for you?
+
+This is why the “middleness” of the middle way is primarily a function of your discernment. You start out by evaluating what works for you and what doesn’t work, when something’s too much, when something’s too little. Sometimes we hear about the middle way being halfway between pleasure and pain, but that’s not the case. Sometimes you have to practice with pain. Either it’s forced on you when the body’s not feeling well, or you’ve got a really bad emotion coming through the mind. You have to work with that. Other times, you find when you’re living very pleasantly and comfortably, you start getting lazy, and you have to be willing to push yourself some more.
+
+So there are times when painful practice is useful: contemplation of the different parts of the body, say, when you’ve got a heavy problem with lust or with identifying with your body. The Buddha counts body-contemplation as a painful practice because it’s not nearly as pleasant as just sitting here and being comfortable with the breath. So you have to figure out when it’s wise to practice with a little bit more pain—or a fair amount of pain—and when you need some pleasure to keep you going. Now, the pleasure here can be the pleasure of concentration. But if there’s no pleasure in concentration, you have to be very careful about your physical pleasures.
+
+One of the things that always fascinates me about the Pali Canon is the fact that it’s got wilderness poetry. And it’s ascribed to Maha Kassapa, of all people, who was probably the sternest of the Buddha’s students. He has a long poem attributed to him, talking about the beauties of wild nature. This was unusual back in those times. After human society started settling down and being agrarian, people tended to view wild nature as a very negative thing. The phrase “howling wilderness” is something that you hear over and over again in passages written by agrarian people. It wasn’t until the industrial revolution that people began to think that wilderness was actually a beautiful place, something worth preserving rather than something you had to tame or run away from.
+
+Yet you read in the Pali Canon people like Maha Kassapa talking about the beauties of nature: wild cataracts of water flowing over granite mountains, all the animals of the jungle, the trees in the forests, the plants in the jungle. It’s a sensory pleasure used in the purpose of finding the right atmosphere where the mind can settle down.
+
+It’s the same with that contemplation we have about food, clothing, and shelter every day. It doesn’t tell you how much or how little to eat, but it keeps reminding you of your _purpose_ in using these pleasant things, and of how much pleasure you should look for from them. Try to get rid of feelings of hunger, but don’t replace them with feelings of being over-stuffed. Always, it’s the purpose: Why are you using clothing? Why are you using food? Why shelter? Why the medicine? This contemplation is to give you an idea of how to tell when you’re going too far and you’re accustomed to these things, using too much or getting too carried away with finding the “right” this or the “right” that.
+
+In other words, this is how you approach issues of pleasures and pain with discernment: You look at how you can use these things as tools. It’s your _purpose_ in using them that makes all the difference. If you pursue pain as a good in and of itself, or pleasure as a good in and of itself, then you’re off the path. But to be on the path you don’t regard them as evils in and of themselves, either; they’re tools, and you want to learn how to use them for the right purpose. That’s when the discernment comes in, reminding you that they _are_ tools and that you should try to appreciate the principle of moderation and actually master it.
+
+So these are all areas where you exercise your powers of evaluation so they can become powers of discernment, figuring out what works for you, what’s just right for you. There are lot of teachings there in the Canon and in the books and tapes of the ajaans, but it’s abstract: principles, ideas, pointers. But you actually exercise your own discernment each time you breathe in, each time you breathe out, figuring out where to place your attention, how long the breath is going to be, how deep it’s going to be—and all the other elements in the meditation that require balance. Whether this is a time to stay with one spot, whether it works better to expand your awareness or to go through the body section by section: All of these are areas where you have to use your own discernment. Exercise your discernment; it’s in the _details_ of these things that your discernment gets sharpened.
+
+It’s only through exercising your powers of discernment, your powers of evaluation, that you gain a sense of when you can trust them. So don’t be too quick to rush through the details or rush through the little preliminary steps of the meditaiton, because the discernment is in the details.
+

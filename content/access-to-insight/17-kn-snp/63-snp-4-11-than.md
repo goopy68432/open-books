@@ -1,0 +1,29 @@
+---
+title: Kalaha-vivada Sutta — Quarrels &amp; Disputes
+slug: snp-4-11-than
+order: 63
+author: Thanissaro Bhikkhu
+nikaya: KN
+year: '1994'
+source_url: https://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.11.than.html
+license: CC-BY-NC
+---
+
+"From where have there arisen quarrels, disputes, lamentation, sorrows, along with selfishness, conceit & pride, along with divisiveness? From where have they arisen? Please tell me." "From what is dear there have arisen quarrels, disputes, lamentation, sorrows, along with selfishness, conceit & pride, along with divisiveness. Tied up with selfishness are quarrels & disputes. In the arising of disputes is divisiveness." "Where is the cause of things dear in the world, along with the greeds that go about in the world? And where is the cause of the hopes & fulfillments for the sake of a person's next life?" "Desires are the cause of things dear in the world, along with the greeds that go about in the world. And it too is the cause of the hopes & fulfillments for the sake of a person's next life." "Now where is the cause of desire in the world? And from where have there arisen decisions, anger, lies, & perplexity, and all the qualities described by the Contemplative?" "What they call 'appealing' & 'unappealing' in the world: in dependence on that desire arises. Having seen becoming & not- with regard to forms, a person gives rise to decisions in the world; anger, lies, & perplexity: these qualities, too, when that pair exists. A person perplexed should train for the path of knowledge, for it's in having known that the Contemplative has spoken of qualities/dhammas."[1] "Where is the cause of appealing & un-? When what isn't do they not exist? And whatever is meant by becoming & not- : tell me, Where is its cause?" "Contact is the cause of appealing & un-. When contact isn't they do not exist. And whatever is meant by becoming & not- : this too is its cause." "Now where is the cause of contact in the world, and from where have graspings, possessions, arisen? When what isn't does _mine-ness_ not exist. When what has disappeared do contacts not touch?" "Conditioned by name & form is contact. In longing do graspings, possessions have their cause. When longing isn't _mine-ness_ does not exist. When forms have disappeared contacts don't touch." "For one arriving at what does form disappear? How do pleasure & pain disappear? Tell me this. My heart is set on knowing how they disappear." "One not percipient of perceptions not percipient of aberrant perceptions, not unpercipient, nor percipient of what's disappeared:[2] for one arriving at this, form disappears — for objectification-classifications[3] have their cause in perception." "What we have asked, you have told us. We ask one more thing. Please tell it. Do some of the wise say that just this much is the utmost, the purity of the spirit[4] is here? Or do they say that it's other than this?" "Some of the wise say that just this much is the utmost, the purity of the spirit is here. But some of them, who say they are skilled, say it's the moment with no clinging remaining. Knowing, 'Having known, they still are dependent,'[5] the sage, ponders dependencies. On knowing them, released, he doesn't get into disputes, doesn't meet with becoming & not- : he's enlightened." 
+
+# Notes
+
+1.
+    As other passages in this poem indicate (see note 5, below), the goal is not measured in terms of knowledge, but as this passage points out, knowledge is a necessary part of the path to the goal.
+2.
+    According to Nd.I, this passage is describing the four formless jhanas, but as the first three of the formless jhanas involve perception (of infinite space, infinite consciousness, and nothingness), only the fourth of the formless jhanas — the dimension of neither perception nor non-perception — would fit this description. On this point, see [AN 10.29](<../../an/an10/an10.029.than.html>).
+3.
+    Objectification-classifications _(papañca-sankha)_ : The mind's tendency to read distinctions and differentiations even into the simplest experience of the present, thus giving rise to views that can issue in conflict. As [Sn 4.14](<snp.4.14.than.html>) points out, the root of these classifications is the perception, "I am the thinker." For further discussion of this point, see [note 1](<snp.4.14.than.html#fn-1>) to that discourse and the introduction to [MN 18](<../../mn/mn.018.than.html>).
+4.
+    "Spirit" is the usual rendering of the Pali word, _yakkha._ According to Nd.I, however, in this context the word _yakkha_ means person, individual, human being, or living being.
+5.
+    In other words, the sage knows that both groups in the previous stanza fall back on their knowledge as a measure of the goal, without comprehending the dependency still latent in their knowledge. The sages in the first group are mistaking the experience of neither perception nor non-perception as the goal, and so they are still dependent on that state of concentration. The sages in the second group, by the fact that they claim to be skilled, show that there is still a latent conceit in their awakening-like experience, and thus it is not totally independent of clinging. (For more on this point, see [MN 102](<../../../lib/authors/thanissaro/likefire/2-3.html#mn102>), quoted in _The Mind Like Fire Unbound,_ pp. 81-82.) Both groups still maintain the concept of a "spirit" that is purified in the realization of purity. Once these dependencies are comprehended, one gains release from disputes and from states of becoming and not-becoming. It is in this way that knowledge is a means to the goal, but the goal itself is not measured or defined in terms of knowledge.
+
+See also: [DN 21](<../../dn/dn.21.2x.than.html>); [MN 18](<../../mn/mn.018.than.html>); [Sn 5.14](<snp.5.14.than.html>).
+  *[MLS]: Middle Length Sayings (I.B.Horner, tr.; PTS)
+  *[MLDB]: Middle Length Dsicourses of the Buddha (Bh. Bodhi, tr.; Wisdom Publications)

@@ -1,0 +1,40 @@
+---
+title: Jhana & Insight — July 23, 2017
+slug: 170723-jhana-insight
+order: 81
+date: July 23, 2017
+mp3: https://www.dhammatalks.org/Archive/y2017/170723_Jhana_&_Insight.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/170723_Jhana_&_Insight_v2.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2017/170723-jhana-insight.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+The mind feeds, and it suffers because it feeds: That was the Buddha’s insight. And a further insight was that there actually is a dimension of the mind that doesn’t need to feed. When we can find that, we stop suffering. Without that other dimension, there would be no end to suffering. And that’s what we’re here to find.
+
+A part of the Buddha’s path to that dimension was to teach us how to reflect on the way we feed: to see that there’s a lot of stress involved and that, ultimately, it’s not worth it. But the analysis is complete only when it brings you to that dimension that doesn’t need to feed. To have the strength to get there, we need first to learn how to feed on concentration as part of the path.
+
+This is a problem with a lot of insight methods that don’t stress concentration: They point out that the things that we’re feeding on are inconstant, stressful, and not-self, and they claim that that should be enough to make us stop feeding. But that’s like saying that when you realize that food is inconstant, your stomach is inconstant, you just stop eating. Things don’t work that way. As long as there’s hunger, you’re going to keep on feeding. So an important part of the practice is learning how to bring the mind to its aspect that doesn’t feel hunger at all. And that requires that we change our feeding habits.
+
+This is why concentration is an important part of the practice. And it’s a necessary part of insight. The Buddha said, often, that you don’t get into jhana without insight, you don’t get into insight without jhana. The two of them have to go together. Because it’s in getting the mind to settle down that—when you take it to a place where it can see things clearly, where it’s easy to remember things, i.e., easier to be mindful—your alertness is quicker and so you can do the work of ardency with a lot more precision and a lot more success.
+
+But also, in getting to that place, you learn an awful lot about the mind—all the processes of fabrication. Because, in creating a state of concentration, you’re working with fabrication. And the fabrication is the underlying process by which we feed. There’s bodily fabrication, the breath; verbal fabrication, which is your directed thought and evaluation—the way you pose a topic to your mind and then you comment on it; and then there’s mental fabrication: feelings and perceptions. You bring all those things together to create a state of concentration. You evaluate your breath, you think about the breath, you have a perception of the breath and how it goes in and out the body. And the way you relate to breath—first to the in-and-out-breath and then to the breath energies in the body—should give rise to a feeling of ease and well-being. So you’re getting hands-on experience with fabrications and making something good out of them.
+
+You can’t simply drop the process of fabrication without learning how to do it well first. Only when you do it well can you take it apart. It’s like learning how to make knots. If all you know how to do is make sloppy knots, it’s hard to untie them. But when you get clear about the process of how you tie a knot—and you can tie some very complex ones—then you know how to take them apart. It’s a similar process here. You know what you’re doing, and then you begin to realize that as you go through daily life you’re doing the same sorts of things—relating to the breath, thinking about things, evaluating them, having feelings and perceptions around things—and these processes shape your life.
+
+You begin to notice when you’re doing it in an unskillful way. Because the well-being of concentration not only gives you a sense of nourishment on the path —so that you’re not off feeding off of sensuality, ill-will, sleepiness, restlessness and anxiety, and uncertainty—you’ve got something good to feed on, and it’s actually nourishing. But the fact that you’ve got this heightened sense of well-being makes you more sensitive to what stress is, what a disturbance is in the mind.
+
+That’s the vocabulary the Buddha uses as he starts talking about the stress in concentration: “disturbance.” The principle is: If you’re not a real connoisseur of pleasure when you’re doing concentration, then you don’t really understand stress. There will be lots of subtle stresses and disturbances that you actually mistake for pleasure.
+
+So the concentration provides a foundation not only for mindfulness and alertness but also for discernment: the discernment that sees what’s going on in the mind and can begin to make better judgments about what’s worth feeding on and what’s not. As your sensitivity gets greater and greater with practice like this, that opens you up to the deathless dimension that’s always there: the dimension that doesn’t feed, the dimension that has no hunger. It’s always there, simply that your discernment isn’t precise enough to detect it. And the concentration is what puts your discernment in the place where it can do that. Prior to that, if you try to stop feeding, you just get hungry again. No matter how much you may deny yourself certain pleasures, you find that if you don’t have something better you’re going to go back to things sometimes that are worse.
+
+So insight requires the well-being of jhana, the well-being of concentration. And the Buddha never makes a clear distinction between samatha and vipassana practice. There is no pure samatha practice or pure vipassana practice in the Buddha’s teachings at all. You do concentration, and in the course of concentration you develop insight. You require some insight to get the mind to settle down, and then as the mind has settled down, your insight’s clearer. So the two processes go together.
+
+So, there’s no question about how long you do samatha and then switch over to vipassana: You just do concentration. As you’re doing it, you can’t help but begin to notice things. In the beginning, some of the things you notice and some of your insights will be fairly random and superficial, but over time they get more and more precise, and they go deeper.
+
+So it’s all part of one single practice, simply learning to do it with more sensitivity. And the more you do it, as I said, the greater the sense of well-being. You become really, really sensitive to little disturbances, like the princess who could detect the pea under many, many mattresses. Because the little things that can create suffering in the mind are like that: They’re very tiny, very small when they start out, but then they can grow. If you don’t detect them when they’re small, you’ve missed your chance to really uproot them or to understand them.
+
+So this practice we’re doing right here—working on the breath—is giving us hands-on experience with how to use fabrication in a skillful way so that we can get to know fabrication and get to some fabrications that are more and more subtle, more and more subtle. And that will deliver us to a spot where we can access—as the Buddha said, there’s an “opening” to this dimension—this deathless dimension: the dimension that has no hunger, that doesn’t need to feed. _That’s_ when you can let go of everything. Not because you tell yourself, “I’m just going to stop eating.” It’s because you realize when you’ve seen that now there’s no need.
+
+So. That’s how this practice works. You stick with this, and you don’t have to keep casting a glance down the road saying, “When do I switch to insight?” Or, “How much tranquility is enough for insight?” The two develop each other. And as you circle around this one problem—how to get the mind to settle down with the greatest amount of well-being and solidity with the breath—you’ll find that all these other good qualities gather together there as well.
+

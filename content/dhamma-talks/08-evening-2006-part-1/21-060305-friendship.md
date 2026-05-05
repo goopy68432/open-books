@@ -1,0 +1,42 @@
+---
+title: Friendship — March 05, 2006
+slug: 060305-friendship
+order: 21
+date: March 05, 2006
+mp3: https://www.dhammatalks.org/Archive/y2006/060305 Friendship.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/060305_Friendship.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2006/060305-friendship.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Focus on your breath. Notice where you feel the breath in the body. You may feel the passage of air into the nose, or you may feel the movement of the body itself as it breathes in, as it breathes out. In fact, that’s a more useful place to focus, because it means you can focus anywhere in the body. Notice how the breathing feels. Try to explore what feels best. Sometimes long breathing feels good, sometimes short. Sometimes heavy, sometimes light. Fast, slow, deep, shallow. You’ve got a whole hour to explore here.
+
+Try to notice how the breath affects your experience of the body. Sometimes you breathe in a certain way and, after a while, the body begins to feel very heavy. Or it you breathe in another way, and the body begins to feel light. You can breathe in ways that will rob you of energy and in other ways that can make you feel stronger.
+
+In other words, simply by noticing how the breath feels, paying attention to it, you begin to realize you’ve got a lot of potential here. Sometimes if you have a headache or stomachache, or if you feel tension around your shoulders, you can breathe in a way that’ll make the tension go way. What this means it that this is free medicine. You don’t have to buy it from anyone, you don’t have to see the doctor, just use the breath, and you can deal with a lot of discomfort in the body. You can make the body feel light, full, refreshed, if you take an interest in the breath.
+
+If you don’t take an interest, if you see it simply as a chore—you’ve got to sit here for an hour watching your breath, and there’s nothing else to do—what usually happens is that the mind starts creating other worlds for itself. It starts remembering the past, planning for the future, doing all kinds of other things except learning about the present moment. As a result, the hour gets wasted.
+
+It’s rare to get an hour like this where you can just be with the breath and learn about it, explore it, experiment with it. So do what you can to take an interest in it. When you learn about the breath, it’s like having a friend inside. The breath can do all kinds of things for you when you need it—if you’ve trained yourself to learn about it.
+
+And being on good terms with your breath this way helps you feel comfortable in your own skin. It gives you a sense of being grounded, not in the sense that teenagers are grounded by their parents, but grounded in the sense that you feel solid inside. You’re not easily blown around by other people’s opinions, other people’s words. You feel solid within yourself, secure within yourself. This puts you in a position of strength. Because once you’re on a good terms of the breath, you’ve got a good friend inside. Once you’ve got this good friend inside, you can be more particular about your friends outside, with the people you want to associate with.
+
+This is really important. There’s a passage in the old Buddhist texts where Ven. Ananda, one of the Buddha’s major disciples, comes to him and says, “This is half of our holy life”—half of the life we lead as monks—“having good friends, having admirable friends.” And the Buddha says, “No, don’t say that. It’s the entirety of the holy life.” Without the Buddha as a friend, the monks would never have learned about the path to awakening.
+
+And if you look at your own life, you see how much your life is shaped by the friends you choose. So, given that friends are important, you’d think we’d put more attention into choosing our friends, deciding which people are really worthwhile to associate. There’s that chant that said just now: Some people come, they cajole and they flatter us, they say nice things to ourselves, and all of a sudden, we decide that they’re our friends. Then they can cheat us, take advantage of us. Or as the chant says, they may be good only in word: They make all kinds of promises, but when push comes to shove, they disappear. And the question is, why would you want to choose friends like that? The reason is because you don’t have a true friend inside. You feel lonely, you feel insecure. You want to have lots of friends. And because of the sense of emptiness, the vacuum inside, you’re not very choosy. You’re not very particular. You go for people who are entertaining. You’re not wise in choosing your friends.
+
+But if you have a greater sense of feeling comfortable in your own skin, feeling secure inside, then you can be a lot more particular. After all, you’ve got the breath as your friend. You can depend on the breath. When you gain a sense of feeling secure in solitude and you’re not afraid of being alone, then you don’t have to worry about how many friends you have, and you can choose friends who are actually good for you: people who point you to worthwhile things, people who really share your sorrows and joys, people who are helpful and sympathetic.
+
+When you come right down to it, isn’t that what you want out of friendship? Not quantity, quality. And when you see that the nature of friendship is that you pick up habits from your friends, you want to be very particular about who you associate with.
+
+So it starts within. Learn how to be friends with your breath. Learn how to associate on good terms with your breath. If you’re sympathetic with your breath, then you have a helper. In other words, listen to the body. Listen to what feels right. Don’t ignore the needs of the breath. Sometimes the body simply needs to sit and breathe comfortably for a while to gain its strength. How many times have you stopped to notice that? What kind of breathing feels good for the body at any particular time? When you’re tired, what kind of breathing is good? When you’re angry, what way of breathing helps to defuse the anger, that sense of frustration, that sense of pressure inside that makes you do and say things you later regret? When you’re afraid, what’s a good way to breathe? When you’re bored, what’s a good way to breathe?
+
+You can play with the breath. You can do all kinds of things, thinking of the breath coming in from the back of the neck, coming in and out the palms of your hands, the soles of your feet. There are all kinds of ways you can play with the sensation of energy flow in the body. And it’s not just entertainment. You learn from it. As with any skill, it often begins by just playing around, but you come to see that it really does have an important impact. It’s like learning to play the guitar. You get your first guitar, you pick it up and play with it, and it doesn’t sound all that good. But it’s fun to try this, try that. After a while, you can actually start playing songs. If you stick with it, you become a good guitar player.
+
+It’s the same with the breath. Try different ways of breathing. Think of it as a game to begin with. What’s long breathing like? Try that for five minutes. How about short breathing? Deep breathing? Shallow breathing? At first, it just may seem like a trick or an idle game, but it’s not. You begin to realize how much the way you breathe has an impact on the body and on the mind. You begin to see the value of exploring this part of your experience. It’s something we carry with us all the time, and yet we very rarely take advantage of it, because we don’t know it, we haven’t paid attention to it, we haven’t been a good friend with the breath.
+
+So learn to be a good friend with the breath, and the breath will become your friend as well. And as Ajaan Lee said, you won’t be lonely. Everywhere you go, you have friends going along with you. All the parts the body become your friends because you’re on more intimate terms with them through the breath energy. You understand them better. You’re better at creating a sense of ease and well-being in the body. When you’ve got this stable center, then the issue friends outside becomes less desperate. And when you’re not desperate for friends, you find you get better ones, more reliable ones—because you’ve become more reliable as well.
+
+So it’s important that you take some time to develop this skill. Do what you can to become interested in the breath and you’ll find that it pays you back many times over.
+

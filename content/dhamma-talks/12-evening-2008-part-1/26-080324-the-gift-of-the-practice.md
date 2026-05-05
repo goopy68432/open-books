@@ -1,0 +1,46 @@
+---
+title: The Gift of the Practice — March 24, 2008
+slug: 080324-the-gift-of-the-practice
+order: 26
+date: March 24, 2008
+mp3: https://www.dhammatalks.org/Archive/y2008/080324 The Gift of the Practice.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/080324_TheGiftOfThePractice.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2008/080324-the-gift-of-the-practice.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+When you practice a musical instrument, you have to go off and play by yourself. Nobody accuses you of being selfish, because they know that in order to perform well you have to devote hours to the practice so that you can get really good. You don’t want to impose your unskillful playing on audiences. They wouldn’t come to listen. And everyone recognizes that it takes hours to develop that kind of skill—many, many hours.
+
+The same principle applies to meditation. There’s a good reason why it’s called _practicing_ meditation, because it takes many, many hours of practice to learn how to do it right so that you can perform the meditation in the course of your daily life, to live with a mind that’s centered, mindful, alert, wise, compassionate—all those good things. In fact, learning to live skillfully with a mind well trained is a lot more difficult than learning to play a musical instrument. And yet very few people recognize that. After all, everybody can live, everybody can talk, speak, act, think, and muddle through life in a way that seems to be okay. But in our muddling through, it’s a lot worse than playing unskillfully, playing out of tune. We can do a lot more harm, inflict a lot more damage.
+
+But we live in a society that doesn’t recognize that. So we have to keep reminding ourselves that as we sit here and meditate, it’s like practicing a musical instrument. We need to have time by ourselves to get the practice down right. And it’s not a selfish endeavor. The more skilled you are at the basic skills of meditation, the more skill you’ll be able to bring to the rest of your life.
+
+Some people think that we come here to meditate to get a particular experience, a particular kind of high, but that’s not the case at all. There are experiences that you’re going to encounter in the meditation—many valuable experiences—but it’s not just getting a high or having some sort of emotional breakthrough. There are lots of stories of meditators experiencing what psychologists call cathartic release, where you’ve been going through a really rough period in life and then, all of a sudden, everything just seems to settle in place, everything is just perfect as it is. There’s nothing to do, just be in the Now.
+
+It’s a nice experience, but it’s not awakening. Awakening involves skills. And the skills that you develop in the course of getting there enable you to speak, think, act in ways that are a gift not only to yourself, but also a gift to the people around you.
+
+Look at the Buddha’s word for the ignorance that we suffer from. In Pali, the word is _avijjā_. It’s the opposite of _vijja,_ which means not only a body of knowledge but also a body of skills, learning how to be adept. It’s a kind of how-to knowledge and is defined as knowledge of the four noble truths. On the surface this may sound like just knowing _about_ the four noble truths, but when the Buddha explained the kind of knowledge that’s appropriate of four noble truths, it’s not just that. You realize that, on the one hand, you have to learn how to look at life in terms of four noble truths—learn how to recognize suffering, its cause, the cessation of suffering, and the path that you have to follow. And also realizing that once you recognize those truths as they’re happening, then you’ve got certain tasks, certain duties, appropriate for each of them. You don’t really know the truths until you’ve mastered the duties, mastered the activities.
+
+To begin with, you have to comprehend suffering. _Comprehending_ here means getting to the point where you recognize that many things that you like in life actually are stressful, causing suffering not only to yourself but to the people around you. And you learn how to end all passion, aversion, and delusion with regard to those things. That’s the first duty.
+
+With the second noble truth—the cause of suffering or the origination of suffering—the duty is to abandon it. Once you recognize the craving, let it go.
+
+With the cessation of suffering, the duty is to learn how to realize it, recognize it, verify it for yourself that there really is such a thing.
+
+Then finally the path is something to be developed .
+
+In each of these cases, you don’t really know the truth until you’ve thoroughly mastered the skill. For instance, you don’t know craving until you’ve really abandoned it. You don’t know the path until you’ve fully developed it. And in the course of mastering these skills, you open up the mind into something really special—the deathless, total freedom. And it’s good not only for yourself. It’s good for everybody around you, everybody who has dealings with you once you’ve verified for yourself that it really exists. Because on the one hand, the skills you develop in the course of developing the path—generosity, virtue, all the various skills in the meditation—are skills you also need in order to deal with other people in a compassionate way.
+
+As you develop concentration, you’re coming from a more and more solid place. You develop the equanimity that’s needed to deal with whatever situation comes up. That’s obviously a benefit to the people around you. As the old poem says, when people around you are losing their heads but you’re able to keep yours, that’s a real gift to them. You become more and more reliable. And then ultimately when you’ve seen the deathless, you realize that’s where true happiness lies. Your relationship to all the sensual pleasures and all the other pleasures the world has to offer is a lot different. You don’t need to feed off those things anymore. You have a happiness that doesn’t take anything away from anyone else. And you’re able to let go of what you would claim to be your own, what you’ve had to fight other people for. In other words, the kind of happiness where you’re going to gain, other people have to lose—you don’t need that happiness anymore. So you’re no longer competing with other people, and at the same time you’re showing them a good example.
+
+That’s what’s really special about the practice. You show other people that if you want to be truly happy, this is how you do it. You don’t have to keep fighting one another all the time. Happiness doesn’t lie in grabbing onto things and having to fight off everyone else who wants them. There’s a real happiness that comes in letting go. And just seeing that that’s possible makes life worth living.
+
+I know in my own case, having met Ajaan Fuang really changed my attitude to the possibilities of what kind of happiness is possible in this life, what kind of fulfillment is possible in this life. And when he was practicing, he didn’t specifically do it for my sake. But in his having gained the results of the practice, it did open my mind to the possibility that there’s a lot more happiness available in this world than I thought before. It wasn’t something that he was born with. He was very clear on the fact that everything he had in terms of true happiness and all the good qualities he had, he owed totally to the practice. Just the fact that someone like that existed, I found a real inspiration.
+
+So as we find good qualities in the mind within ourselves, they can’t help but come out in our actions. And our actions are going to benefit people on many different levels. If they’re the recipients of our generosity, that’s one level. If they learn how to take us as examples, that’s another level. And if they realize we have a happiness that’s more than you can see on the outside—something that they could attain through their own practice—that’s an even deeper level. No amount of charitable work or political organization can provide that kind of help.
+
+So remember as you meditate, you’re not here just to get something, to get an experience, or to get a hit of bliss, or hit of pleasure. You’re here to train the mind in skillful qualities. And the more skill you have, the more your actions, words, thoughts are going to be a gift. In this way, the meditation is a process not only of getting, but also of giving. And it’s a getting and a giving in a way that’s different from the way of the world. The getting and the giving in the world is, “Okay, I’ll give you something, you give me something in return.” It’s a bargain—a process of bargaining, negotiating. But here you gain something inside that doesn’t take anything away from anyone else. And yet you’ve got a lot to give.
+
+So the old idea that meditation is selfish is totally misinformed, because it leads to a happiness where the fact that you’re gaining that happiness doesn’t take anything away from anyone else. It does require time by yourself, devoted to training the mind. But it’s not just for yourself. And it’s important that you realize this because it makes the meditation a much more enjoyable process, a lot more fulfilling, something you really can give your life to.
+

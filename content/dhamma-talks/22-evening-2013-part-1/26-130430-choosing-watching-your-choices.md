@@ -1,0 +1,48 @@
+---
+title: Choosing & Watching Your Choices — April 30, 2013
+slug: 130430-choosing-watching-your-choices
+order: 26
+date: April 30, 2013
+mp3: https://www.dhammatalks.org/Archive/y2013/130430_Choosing_&_Watching_Your_Choices.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/130430_Choosing_&_Watching_Your_Choices.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2013/130430-choosing-watching-your-choices.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Focus your attention on the breath. Take a couple of good, long in-and-out breaths and notice where you feel the sensation of breathing most clearly. When we talk of the breath, it’s not necessarily the air, although that may be the prime thing you notice first. It’s more the energy in the body, the process of breathing itself.
+
+What is it that pulls the air in and allows it to go out? What movements of the chest, abdomen, shoulders _do_ the breathing? And how do they do that? What’s the energy flow in those parts of the body? If it feels tight, allow it to relax. Think of all the joints in your body relaxing. You might make a survey. Start with the toes and work up, through the feet, the legs, up the pelvis, up through the spine; then starting with your fingers, coming up the arms; and eventually, getting up through the neck and into the head. Think of all the joints relaxing.
+
+Now notice how you feel the breathing. Try to focus your attention on any spot where it’s most obvious and where it feels easiest to stay focused. If you wander off, just keep coming back.
+
+This is called establishing mindfulness. In other words, you keep reminding yourself that this is where you want to stay. And alertness: You want to watch what you’re doing so that if you wander away from the breath, you know immediately—and come right back. While you’re with the breath, try to be alert to how it feels and if there are any ways you can improve it.
+
+This quality of alertness is really important. You’re watching the breath, but you’re also watching the mind watching the breath. It’s like hiring someone to watch over your things and then hiring someone else to watch over the watchman. This is one of the most important skills in your meditation because otherwise you can wander off for long periods of time and have no idea how it happened, or even that it _is_ happening. All of a sudden, oops! You meant to stay with the breath, but you’ve gone off and were tallying something else in tomorrow’s plans. Alertness is what allows you to catch yourself quickly and come right back.
+
+The work of being really sensitive to the breath is helpful in this. The more you’re exploring the subtle sensations of the breathing, and the more interested you are in the present moment, then the less likely you are to drop the breath and go off someplace else. This quality of alertness is something we develop all the way through the path. It’s related to the duties of the four noble truths. With the cause of suffering, you want to abandon it. And the cessation of suffering, when you actually do put an end to suffering, is when you _see_ the abandoning of craving, which is the cause of suffering. So that’s a double duty right there. There’s the abandoning and _seeing_ the abandoning, and that’s tricky. That’s a very subtle skill. We have to work at it from the very beginning.
+
+That’s why, when the Buddha was teaching his son—who was seven years old at the time—he told him, “Watch your actions.” Look at why you’re doing something, look at the results you’re immediately getting, and look at the results over the long term. If you see that what you’re planning to do will be harmful, don’t do it. But even with actions you think won’t be harmful, notice while you’re doing them if any unexpected harm comes up. If you see it, stop. If you don’t see any harm happening, continue with the action until it’s done. Then after it’s done, look at the long-term results.
+
+Many times, we’ll complain: How can you know the long-term results of something you did a while back? It’s partly because the mind observing is part of the thing you’re trying to train. Ajaan Chah has a nice passage where he talks about how you’re coming here to observe the precepts, to meditate, so this function of the mind as the observer is something you’re going to have to develop.
+
+The problem is this observer: What has it been doing? If you haven’t been observing the precepts before, the observer is what’s been telling you not to bother about the precepts. It’s the part of the mind that’s been giving the orders to do things that are unskillful. So what you’re doing is catching a thief and putting him in charge of law enforcement. Now, there’s an advantage here because sometimes thieves know the ways of their thievery. At the same time, though, they can be dishonest. They can take bribes. It takes a while to train them so that they can really be trustworthy in observing what’s going on.
+
+So the Buddha has you start with observing really blatant things like when you’re being generous. He says, observe that. What are the motivations? What are the results of being generous? You begin to see that being generous really is a good thing. Helpful behavior really is a nice thing to do. Then you also see what’s going on in the motivations of the mind. _Why_ are you being generous? Some of our motivations for being generous and open and aboveboard, and others are less so. You want to watch for that.
+
+The same with the precepts: You watch the process of deciding not to kill, say a little bug, not to steal even when it’s easy to take little things. You watch yourself not doing that. When you’re tempted to lie, you watch yourself not lying. If you slip and tell a lie, well, notice that. What are the results? When you realize that you don’t have to lie, that there are other ways of speaking that don’t put you at a disadvantage but you’re not misrepresenting the truth: Watch that, and then notice the results.
+
+If you have any kind of addiction, watch yourself not giving in to it and then watch the long-term results. Do it as an experiment. In this way, you train the observer, train this quality of alertness. At the same time, you’re beginning to exercise your potential for freedom of choice. With the addiction, you might say, “Well, I just can’t resist it. I have no choice.” But instead, you say, “Well, as an experiment, give it a try.” This is one of the reasons why we start with generosity, because generosity is one of the first places we notice that we _do_ have freedom of choice. We’ve got something, and we can keep it if we want, or we could give it away. You realize that it’s best to make the choice to give it away, how it feels good inside, and the benefits that come outside as well.
+
+So you train yourself to exercise freedom of choice so that when the mind picks up something or does something, you realize that you don’t have to continue with it if it’s not skillful. If it’s causing any stress or harm, you _can_ let it go. You *do *have that freedom. At the same time, you begin to notice the results of your actions, the results of your choices. The observer gets trained.
+
+Then you bring that trained observer in to watch over your meditation—to watch the movements of the mind as they’re staying with the object, the breath, and the movements of the mind when it’s not staying with the breath. You want to learn how to see these choices you exercise even in the simple act of forming a thought.
+
+We often have the feeling that thoughts come in totally unbidden and willy-nilly. But as you begin to resist them, as you stay with your object of concentration, you begin to notice more and more: What are the processes of choice in the arising of a thought? When things arise in the mind, they’re not just arising and passing away. There’s a cause deeper inside. And there are stages in the process, stages where you’re actually making a choice. There’s a little stirring of energy some place in the body, and you choose to decide: Either that’s going to be a physical event or it’s going to be a mental event. If it’s going to be a thought with a meaning, you could take the meaning in all kinds of directions. You could take it into the future; you could take it into the past.
+
+You’ve got these choices, and you want to observe yourself making them. This is why we have to train the observer, because these choices come very quickly, and they come very early on in the thought process. Sometimes you find it easy to let go of a particular thought, and other times it’s harder. You’ve got to dig down a little bit deeper. Why are some things easier to believe than others? Why are some things easier to let go of than others? What’s the difference? That’s when you begin to see where the craving is in the mind: the thoughts that you _want_ to get involved with. Even though part of the mind may know better, there’s another part that really wants to get involved. Okay, why is that? What’s it getting out of these things?
+
+When you see the reason, can you let go? Usually, if you _really_ see the reason, you see it’s something that’s deluded. How do you recognize that it’s deluded? You’ve trained this observer. It’s no longer the criminal it used to be, no longer the deceitful person it used to be. It’s learned to be more honest because it’s seen the value of honesty, of noticing: Okay, you’re doing this and it’s not helpful. You’d be better off if you let go. And if, as an experiment, you let it go, you see that it’s really true.
+
+So try to develop this ability to engage in an action and to observe yourself in the course of the action, because that’s an ability that’ll take you far.
+

@@ -1,7 +1,10 @@
 categories:
-  - slug: programming
-    name: 프로그래밍
-    icon: 💻
-  - slug: math
-    name: 수학
-    icon: 🧮
+- slug: programming
+  name: 프로그래밍
+  icon: 💻
+- slug: math
+  name: 수학
+  icon: 🧮
+- slug: dharma
+  name: 불교/법문
+  icon: ☸️

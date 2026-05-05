@@ -1,0 +1,44 @@
+---
+title: The Size of Your Eyes — September 19, 2013
+slug: 130919-the-size-of-your-eyes
+order: 76
+date: September 19, 2013
+mp3: https://www.dhammatalks.org/Archive/y2013/130919_The_Size_of_Your_Eyes.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/130919_The_Size_of_Your_Eyes.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2013/130919-the-size-of-your-eyes.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+We tend to think that meditation is something you do when your eyes are closed, when you’re sitting in a meditation posture, or when you’re doing walking meditation. But the way you live your life as a whole has a huge impact on how the formal meditation goes. After all, it’s the same mind with the same habits.
+
+This is why the Buddha taught restraint of the senses as a foundation for the meditation – in other words, looking after your eyes and ears and nose and tongue and body and the things that go through your mind as you go through the day. When you’re looking at something, why are you looking? When you’re listening, why are you listening? And when you’ve looked or listened, what does it do to your mind?
+
+That’s what it means to restrain the senses, when you realize that simply looking and listening is not a stick drawn through the water that doesn’t have any impact. There are times when you can see something and it can stick with you for hours; you can hear something and have it stick with you for days. Not every sensory input has a bad impact on the mind, but if it’s developing bad qualities in the mind, then it’s going to get in the way of your meditation.
+
+Ajaan Lee has a nice image. He says sometimes our eyes are too big for the things we see, and sometimes they’re too small for the things we see. When they’re too big, you see something and it’s not enough: You want to see more things—you want to see this, you want to see that, to just keep on looking; nothing satisfies you. Then there are things that are too big for your eyes. In other words, you get fascinated with them and keep looking at them; you never get enough of them. Restraint of the senses is getting the eye and the sights the right size for each other, getting your ears and the sounds the right size for each other. In other words, learning how to listen to something, take what’s useful, and then just leave the rest.
+
+So that means you have to prepare yourself as you go out through the day. You’re going to be looking at things. You have to ask yourself, who’s doing the looking? Is greed doing the looking? Is anger doing the looking? If they are, then you’ve got a problem. You want your mindfulness to be doing the looking; you want your alertness to be doing the looking. Try to develop your discernment to do the looking. The same holds true for you listening and your engagement with all the other senses.
+
+It’s not like we’re just sitting here perfectly normal with nothing happening and then, all of a sudden, something comes in and strikes us and either appeals to us or it doesn’t appeal to us. We’re often actually out looking for trouble. Sometimes we’re looking for sounds to like; sometimes we’re looking for things we can hate. That’s what this “hate radio” is all about; people actually have to turn it on to hear it.
+
+It’s interesting. A while back, we had someone here from Australia doing some transcriptions. She was transcribing a Dhamma talk in which I had mentioned “hate radio,” and she put a big question mark next to it. Apparently, that’s an American phenomenon. But the basic truth is true all over the world that when we look, it’s not always innocent; when we listen, it’s not always innocent. Sometimes we’re looking for trouble. Sometimes we’re looking for things to compound our lust; sometimes we’re looking for things to compound our anger. And if we’re going around looking for lust and anger and these other things as we go through the day, how are we going to get the mind to settle down when we sit down and close our eyes?
+
+Now this doesn’t mean that you don’t look at all or listen at all, but it does mean that you have to be very careful about your motivation. And if you see that the wrong part of the mind is doing the looking or directing the looking, you’ve got to do something to change it.
+
+So if you see something and it gives rise to desire, you have to look at its other side – the side that’s not so desirable. This is why we have that list of the 32 parts of the body for contemplating your own body or contemplating other people’s bodies. It helps you get past any feelings of lust for other people’s bodies, or any feelings of pride that your body somehow makes you better than other people. It’s the same with listening. Sometimes you listen to aggravate your anger; sometimes you listen to aggravate your desire. You’ve got to retune your ears. If something sounds nice, well look for its opposite side. If something sounds bad, look for its opposite side.
+
+Ajaan Lee has a nice statement about listening to other people’s criticism of you. He says when they start calling you a dog, remember that dogs don’t have any laws; they can do as they like. In other words, when other people are not giving you the chance to impress them, you don’t have to go around trying to impress them. And that frees you up. If you could listen to things in this way, then you’re putting the mind in the right frame to meditate.
+
+And so on down for all the other senses, because the motivation that directs the looking is also going to have a huge impact on what you’re left with after you’ve seen and the impression that’s made on the mind that it carries around. If you let all the unskillful sides of the mind direct you as you’re looking or listening, then they’re going to be the ones that are strengthened. They’re going to be in charge. And when you come to sit and meditate and focus on the breath, the greed and the anger and the aversion – all these other distracting things – are going to be in charge. And then it’s going to be a big battle. This doesn’t mean it’s going to be impossible to settle down, but you’re just making it that much more difficult.
+
+So remember, meditation is not just what you do as you’re sitting here with your eyes closed or as you go off and do walking meditation. The Pali word for meditation, _bhavana_ , also means to develop—to develop good qualities—and that’s something that applies all the time. In fact, we’re already developing the mind in one direction or another. We may not consciously think of it when we’re developing it in the direction of greed, aversion, and delusion, but that’s what we’re going. But we have the choice to develop it in a good direction.
+
+Remember that this is what wisdom is all about. Sometimes, when you hear about Buddhist wisdom, you think about emptiness or not-self or statements about the world. But the Buddha was always talking about wisdom in terms of what you do. The original question for wisdom is, “What, when I do it, will lead to my long-term harm and suffering? What, when I do it, will lead to my long-term welfare and happiness?” We’re here to see the impact of our actions and to learn from that, so we can act skillfully.
+
+The basic categories for sorting out our actions are the four noble truths. The unskillful cause, craving, leads to an undesirable result: stress and suffering. Skillful causes or skillful actions, like the path, lead to a desirable result: the end of suffering. They’re all about doing. When we do mindfulness practice, the qualities we develop are ardency, alertness, and mindfulness—and the wisdom is there in the ardency: trying to do it right, figuring out what’s skillful, what’s unskillful and how to do the skillful thing even when you’re not inclined; and how to abandon the unskillful thing when you’re more inclined to do the unskillful thing. That’s where the wisdom lies.
+
+This applies all the time, when we’re going around looking at the world and listening to the world, sniffing at the world, tasting the world. We have to keep remembering: We’re _doing_ this. We’re not a blank slate into which the world is doing all the writing, pushing us around. We’re the ones who are going out and doing the pushing.
+
+So look at who’s doing the pushing in the mind as you look: what makes you want to look, and determines the way you look. If you see that it’s an unskillful member of the committee of your mind, do what you can to counteract it. That way, when the time comes to sit down, here you are. You’re already looking after your mind, rooting out what’s unskillful. And sitting down and closing your eyes simply gives you a better chance to do it with a lot more subtlety and greater depth. But it’s all part of the same process because, after all, it’s all the same mind.
+

@@ -1,0 +1,52 @@
+---
+title: Free for the Time Being — February 13, 2012
+slug: 120213-free-for-the-time-being
+order: 14
+date: February 13, 2012
+mp3: https://www.dhammatalks.org/Archive/y2012/120213_Free_for_the_Time_Being.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/120213_FreeForTheTimeBeing.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2012/120213-free-for-the-time-being.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Start the meditation with some good long, deep in-and-out breaths. Think of the breath sweeping through the whole body, from the top of the head down to the tips of your toes as it comes in, and then from the tips of your toes out through the top of the head as it goes out. Think of all the various things you’ve been holding on to and feeding on and stashing away, like a squirrel, throughout the day, getting swept away with the breath, down out the feet and out. Do a little housecleaning here.
+
+The Buddha says that an important part of staying with the breath, staying with the body in and of itself, is what he calls subduing greed and distress with reference to the world, or putting aside greed and distress with reference to the world. The “world” here has many meanings. You can think about the world outside. Or just the world of your six senses: sight, sounds, smells, tastes, tactile sensations, ideas. With anything that comes up in the mind, remind yourself: That’s just the memory of a sight or the memory of a sound or whatever. You don’t have to get worked up about these things. You’re not responsible for them right now. They don’t have to impinge on your awareness. You may have some responsibilities after you leave meditation, but there’s no need to weigh the mind down with them now. You don’t need to clutter it up now. As I said, there’s no need to stash anything away.
+
+Allow the mind to have some freedom for the time being. Your frame of reference is just this: the breath coming in and going out; your sense of the body right here, right now. Think of the breath cleaning out all the parts of the breath energy in the body that haven’t been ventilated for a while.
+
+We tend to have stagnant areas in different parts of the body, so make a survey. See which parts are not getting as much breath as the other parts. Wherever there’s a sense of blockage or a sense of things tightening up, loosen it up. Remind yourself that the breath can go through anything. It’s like cosmic rays that can cut through rock. The breath can go through anything in the body: the bones, old tight muscles. Try to notice which muscles you tend to tighten up just to hold the body erect. Can you keep the body erect while loosening them? Try to figure out which patterns of tightness in the body are totally unnecessary right now.
+
+Again, regardless of whether you’re going to pick those patterns up again after the meditation or not, for the time being create a little freedom in here. It’s almost as if you’re erasing your history, erasing any lines of communication or lines of connection with anything outside at all. It’s important that the mind have this space that’s really its own space, even though it may just be part of the day, where it can let go of all the responsibilities and worries and cares of the rest of the day.
+
+Remember that time, right now, is either a memory or anticipation. It’s just like regarding the world as just sights, sounds, smells, tastes, tactile sensations, ideas. Try to reduce things to a very minimal terms like this, so they’re easier to let go of. If you allow there to be long complicated stories or very elaborate theories about who you are, what kind of person you are, or what troubles you have, you just weigh the mind down. Even if you can’t sort out or solve your problems right now, at the very least you can put them down for the time being. Just allow there to be the awareness of the breath energy, right here, right now.
+
+You want a center at some point in the body to keep you focused, but at the same time you want to enlarge your range of awareness so that it fills the whole body. If there are parts of the body that you’re not consciously occupying right now, other things can slip in, or other things can hide out. You don’t want that. You want this all to be your space.
+
+It’s just like going into a house that has gotten dusty and dirty, with a lot of old junk in the corners. So do some housecleaning: the type of housecleaning that, as you sort through your old papers, no matter what there is, you decide to throw everything out. As you know, a lot of these things will seem to have built-in magnets and they’ll come back after a while. But for the time being, let this be your space for just awareness in the present moment. This is your time for just awareness in the present moment. Forget about the fact that we’re sitting here for an hour. Just remember that we’re sitting here right now, right now, right now.
+
+One of the problems of having a regular meditation session like this is that we all know it’s going to be an hour. The mind tends to negotiate with itself: “Okay, I’ll give you ten minutes to think about this, and another number of minutes to think about that.” All too often, thinking takes up about 55 of the minutes out of the hour. Toward the end you say, “Okay, now, a little time to meditate.” You get only a few minutes of real concentration.
+
+Well, scrap all that. Just remind yourself: this breath right here, right now. Make it as good as you can; as satisfying, as gratifying as you can. You don’t have to worry about the breath you had just now, or the breath you’re going to have in a minute or two. Just this breath right here, and let it fill the whole body, however light or strong it’s going to be, whatever feels best right now. This gives the mind, which has been weighed down by its responsibilities, a chance to stand straight, to open up.
+
+Think of the coolies in Thailand who worked on the ships. Back in the old days, before they had the big cranes and containers they have now, they had long lines of people carrying huge loads on their shoulders. They’d walk, bent down, bent down, bent down all the time, because that was the best way to carry a load. Even when they weren’t carrying loads, they got in the habit of walking bent over all of the time. They never got a chance to stand up straight. Don’t let your mind be like that.
+
+Or like the proverbial old grandmother who had a big load of straw that she carried around wherever she went, in case she would ever need a load of straw someday. She was always bent down and, at the same time unable to carry anything else. People would always ask the grandma, “Why do you have that old straw?” “I don’t know, but maybe someday I’ll need it.” A lot of things we carry around in our minds are just like that. “Someday I’ll have to think about it. Someday I’ll have to work with it. Someday this is going to help me.” For most of us, it’s just that: It’s old straw.
+
+The things you’re going to need for the future for sure are mindfulness, alertness, and discernment. The future is extremely uncertain. You don’t know how much longer you’ve got in this lifetime, or where you’re going to go after this one, or what things are going to happen in the meantime. But you do know that if anything difficult comes up, your most important resources will be the skills you build in the mind: your ability to read a situation, to see it clearly, to keep in mind what’s skillful and what’s not.
+
+It’s like the precepts. People sometimes complain that they’re hard-and-fast rules. It’s better to think of them as clear-cut. Because when you find yourself in a situation where you’re really tempted to break the precept, it’s best that the precepts be really clear-cut in your mind. They’re not long and complicated, with lots of exceptions and conditions. No killing. No stealing. No lying. Period. It’s easy to keep in mind.
+
+So you need mindfulness, you need alertness so that you can see what’s actually going on, so that you can be sensitive to the situation. You need to be able to put aside everything that’s not relevant to that particular situation.
+
+These are the skills you develop as you meditate. As you create this totally present attitude in the mind right now, the only thoughts that will be really useful right now are the ones that remind you to stay here, or they help you figure out how to stay here with more solidity, with a greater sense of enjoying it. Try to keep your awareness all around, so that there’s no room for anything to hide out inside the little energy corners in the body.
+
+So for the time being you have no responsibilities. For the time being you have no history. In fact, any thought that would remind you of who you are: That can go, too. The more you’re able to do this, the more the mind will gain from the meditation.
+
+It won’t even be able to think about what it can gain in the future. It’ll see for itself that it’s really good to be right here and to learn how to let go. If you can’t let go for good, let go for the time being. That will teach the mind some lessons, give it something to remember, give you something to compare with the way the mind normally runs. This will strengthen you when you come face-to-face with things that you’re tempted to pick up even though part of you knows that they’re going to be bad, and yet another part wants them. This ability to let go regardless helps to strengthen the part that knows that these things you’re tempted to pick up are really not in your best interest. You really don’t want to pick up that particular thing because you know what it’s going to do to the mind: It’s going to tie it down and won’t allow you to have these moments of clarity, these moments of freedom, of lightness.
+
+Eventually, the state of mind that we’re developing right now for the time being will become more and more the normal state of your mind. It starts in bits and pieces like this. Ajaan Chah has the image of pouring a kettle of water. At first it’s tipped over a little bit, and so there’s a drop. And then there’s a drop. Then you tip it a bit more and it goes drop, drop, drop, drop, drop, and then more and it’s drop-drop-drop-drop-drop, and finally it’s a stream of water.
+
+We’re working toward the stream. But if all you can manage for right now is a drop, well, give the mind a drop, because it’s thirsty.
+

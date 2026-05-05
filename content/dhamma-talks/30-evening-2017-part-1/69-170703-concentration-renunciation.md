@@ -1,0 +1,40 @@
+---
+title: Concentration & Renunciation — July 03, 2017
+slug: 170703-concentration-renunciation
+order: 69
+date: July 03, 2017
+mp3: https://www.dhammatalks.org/Archive/y2017/170703_Concentration_&_Renunciation.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/170703_Concentration_&_Renunciation.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2017/170703-concentration-renunciation.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+In the practice, we don’t reject any pleasure that’s in accordance with the Dharma. We don’t inflict unnecessary pain on ourselves. But that question of what kind of pleasures are in accord with the Dhamma—that’s something we have to look into. Because for most of us, pleasures are an end in themselves. We get swallowed up in them without thinking about where they come from, what they’re going to do to the mind, or what they’re going to do to the people around us.
+
+And those are precisely the questions the Buddha has you ask as you’re thinking about what kind of pleasures you want to indulge in. Where do they come from? In other words, what kind of kamma do you create as you search for that pleasure? Are you going to do anything that breaks the precepts? Are you going to do anything that’s harmful to yourself or other people? That’s not in accordance with the Dhamma. And then, where are they going? If the pleasure aggravates more passion, more aversion, more delusion, or inspires you to inflict your passion, aversion, and delusion on others, that also isn’t in accordance with the Dhamma. So that’s how we look at pleasure: both in terms of where it comes from and where it’s going to go.
+
+Now, to put the mind in a position where it can answer these questions with some fairness, we have to get the mind into concentration. Because this is the practice that enables you not to be overcome by pleasure, not to be overcome by pain. Sometimes we sit here with pains in the body, but if the breath is comfortable, we can use that sense of comfortable breath to envelop the pain, to go through the pain, to dissolve any tension around it. You’re not quite so afraid of the pain anymore. You have some tools to use with it.
+
+Most of our fear of pain comes from the fear that we’re defenseless in the face of it. We have no tools to use to deal with it. This is a fear that we picked up very early on. Before we knew anything about language or anything, we had pains and they seemed overwhelming. They came out of nowhere. We were bewildered by them. All we could think of was that we want help, help, help, because we couldn’t handle them on our own.
+
+So the kind of help the Buddha gives us is to provide us with the skills we can use so that when pain comes, we’re not taken in by it. Of course, concentration on its own is not enough to deal with the pain. You also need some discernment: the discernment to see what kind of perceptions you’re applying to the pain, in your relationship to the pain, that are aggravating it, that are actually forming a bridge from the physical pain into the mind, where they turn it into a mental pain and make it more than it has to be.
+
+So the meditation is here to help you not be overcome by pain, and also not be overcome by pleasure. Because to get the mind centered, to get the mind concentrated, you’re going to be dealing with pleasure but you can’t let yourself wallow in it. When the breath feels good, you know the breath feels good and you work with the pleasure, but you don’t leave the breath. If you leave the breath and just soak in the pleasure, the basic cause for the pleasure is going to dissipate.
+
+As the Buddha said, it’s active attention to the breath, consistent attention to the breath, that allows the breath to become more smooth. And as the breath grows smoother, then the energy that comes from the in-and-out breathing that suffuses the body gets more and more refined. The more refined it is, the more it can penetrate.
+
+Ajaan Lee’s image is of nuclear radiation that can penetrate even mountains. In other words, it’s so refined that it can go through the spaces between atoms, or the spaces in _side_ the atoms. So you want the breath energy to get really refined and smooth, so that it can penetrate and saturate the body. It’s there, the pleasure is there, but you don’t leave the perception of the breath.
+
+This is what it means to be with pleasure but not overcome by the pleasure. And once you have this pair of abilities—to be not overcome by pleasure and not overcome by pain—then you can look at the other pleasures in life that you may be considering—the things you have to spend money for, the things you have to put out extra effort for—and you can ask yourself: Are these pleasures worth it? Where do they come from? Where do they lead? What kind of effect do they have on the mind?
+
+Then you go deeper and realize that indulging in some pleasures is going to make it hard to find other pleasures, and you have to weigh them in the balance. We can’t have everything, and the need to develop good qualities in the mind has to take precedence—qualities like generosity, determination, patience, equanimity. Sometimes learning to do without a certain pleasure is like a trade.
+
+This is what renunciation is all about. It’s interesting that in the ten perfections, concentration is not listed. But it’s there under renunciation, because without the concentration you can’t renounce pleasures. As the Buddha once said, no matter how much you may know the drawbacks of sensual pleasures, if you don’t have the pleasure of concentration, the sense of ease that comes getting the mind to settle down, the mind’s going to keep going back to that sensuality. You need this alternative. It’s what enables you to renounce the things that are unhealthy for the mind—and even things that seem relatively harmless, but when you compare them to the greater good that comes with giving them up, you realize that they’re holding you back. The concentration allows you to overcome that resistance. Not simply by being stoic, but by having an alternative place to find your pleasure, a place to find your well-being.
+
+When we were in Paris, one of the questions came up, “How do you practice concentration without getting stuck in the pleasure?” And the answer was, “Go ahead and get stuck.” Allow yourself to enjoy it—enjoy it without leaving the breath—because that kind of attachment is a relatively easy one to overcome. It’s a lot easier to overcome than the attachment to sensuality and it’s a lot less harmless.
+
+So don’t be afraid of the pleasure of concentration. Actively cultivate it. But in mastering the skill of concentration, you’ll find that the quality of being stuck on the concentration, which is basically stuck on the pleasure, is something that you will overcome as you master the process. Because you begin to realize that if you want to get to really refined levels of concentration, really solid ones, there are times when you have to let even the pleasure go. It’s done its work, and now’s the time for the mind to settle down to something even more solid, more secure, with an even more refined kind of sense of well-being. It’s in developing this taste for pleasure, becoming more sophisticated in your palate you might say, that you develop wisdom, you develop discernment. And you become a better and better judge of which kinds of pleasures really are in accordance with the Dhamma and which ones are not. Which kinds of pains are in accordance with the Dhamma and which ones are not: That, too, is something you learn.
+
+Because ultimately, you have to learn how to be not afraid either of pleasure or pain, to be able to use them. After all, the Buddha used suffering as the first noble truth—as he said, if you really comprehend it, you go beyond it. So you don’t run away from it; you learn how to use it, just as you learn how to use pleasure. And it’s in learning how not to be overcome either by pleasure or pain: That’s how the mind is freed.
+

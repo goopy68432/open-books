@@ -1,0 +1,48 @@
+---
+title: 'Magha Puja: Showing Respect with the Practice — February 28, 2010'
+slug: 100228-magha-puja-showing-respect-with-the-practice
+order: 32
+date: February 28, 2010
+mp3: https://www.dhammatalks.org/Archive/y2010/100228 Magha Puja_ Showing Respect
+  with the Practice.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/100228 Magha
+  Puja.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2010/100228-magha-puja-showing-respect-with-the-practice.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Now that we’ve shown respect with candles, flowers, and incense, let’s show respect through the practice. The Buddha once said this is the true way of showing respect for him: to practice the Dhamma in accordance with the Dhamma—in other words, to practice training the mind so that it develops dispassion for the things that lead to suffering and can find true happiness. After all, that’s why the Buddha taught. He spent all those years looking for the Dhamma, not only for his own sake, but also so that other people could gain release from suffering as well.
+
+So as we practice, we’re following in line with his intention.
+
+Tonight is Magha Puja. It’s the night of the full moon in late February, or sometimes in early March. They say that on this day, in the very first year of his teaching career, 1,250 of the Buddha’s arahant disciples all came for a meeting. There hadn’t been any word sent out that there were going to meet, but everyone came spontaneously. On that afternoon, the Buddha taught them what’s called the Ovada Patimmokha, an exhortation on the basic principles of the teaching.
+
+Now, of course all of his listeners have already attained awakening. So for their own sake, there was no need to hear the teaching again. But the Buddha was going to send them out to teach others. And in many cases, lot of these arahants had had their experience of awakening simply by listening to one Dhamma talk. So he gave them all a more general talk on the basic principles, beginning with very simple ones about learning patience, learning endurance, not harming people with your actions, not harming people with your words, all the way up to what the Buddha called being devoted to the heightened mind—in other words, lifting the mind above its surroundings so that it’s not subject to them, not dependent on them, so that it has its freedom and can find the happiness that doesn’t have to depend on conditions.
+
+So that’s the teaching. That’s the practice we’re doing right now. The practice of concentration is called heightening the mind. You’re letting go of all your sensual concerns and raising the mind to a higher level. You’re trying to find a sense of peace, a sense of well-being that comes simply from having your awareness settled inside. To focus on the breath, to know when it’s coming in, to know when it’s going out, is called focusing on form—the way you feel the body from within. And allow it to be comfortable. After all, the mind won’t stay if it’s not comfortable. As you can depend more and more on the sense of feeling centered, it puts you in a position where you’re able to look around at your other ways of finding happiness, your other ways of looking for happiness, and you’ve got a point of comparison. Are they as good as this? Are they as harmless as this? Are you taking something from other people? Or is the mind becoming intoxicated? Is the awareness becoming blurred with its happiness?
+
+You’ve got this clear state of mind in the present moment as your point of comparison so that you can begin to measure clearly which kinds of happiness are worth the struggle and the search, and which ones are not. As the Buddha said, if you don’t have a sense of happiness that comes from a centered mind, it’s going to be impossible to really give up your sensual passions. You may be able to stay away from them for a while, but you haven’t really cut your attachment to them. Eventually the mind will find its way back to them.
+
+So you’ve got to develop this sense of well-being inside. And you take refuge here. The idea of taking refuge in the Buddha, the Dhamma and the Sangha is not something quaint and ancient. It really refers to our choices. Are you going to look for your happiness following the example of other people, or are you going to look for happiness following the example of the Buddha and his disciples? That’s your choice, and you have to keep on making that choice.
+
+This is something we don’t like to think about. There was an article I read recently, saying that this is the problem with religion in America nowadays: We want religion without sacrifice. We want to have our cake and eat it, too. But things of value don’t work that way. You look for happiness in one way and you have to miss out on a lot of other forms of happiness. It’s not just that it’s a choice between happiness and suffering, it’s a choice between levels of happiness. And you have to ask yourself, who do you depend on? Who do you trust as an example in looking for happiness? Until you’ve found a true happiness that lies inside, there’s going to be an element of uncertainty. You wonder if you’re up to it, or if what the Buddha taught really was true.
+
+So it’s during this period that you really need to take refuge in the example of the Buddha and of his noble disciples: the monks and nuns, and lay men and lay women who followed his teachings. They become our community. We take refuge in them, with a sense that we really can trust them. When you look at their example, you can see that it really is noble: looking for happiness in a way that’s harmless, looking for happiness in a way that doesn’t go running around hoping to depend on somebody’s outside help, aside from help in showing you how you can train your own mind.
+
+This is where you find your true refuge, in developing their qualities in your mind—qualities of mindfulness, qualities of alertness, ardency, patience, endurance, concentration, discernment. As these qualities get stronger and stronger in the mind, you find that you really can take refuge in them. They provide you with a solid foundation. They lift your mind above its ordinary concerns, lift it above having to depend on material gain, status, praise, pleasures. The mind attains a state where it’s more and more independent, more and more solid, more and more able to rely on itself.
+
+And at this point, you develop a more certain refuge, a more solid refuge inside, when that refuge gets really solidified to the point where you have no more doubts about it because your faith and conviction in the Buddha, the Dhamma and the Sangha have been confirmed, that these teachings, these practices really do lead to a deathless freedom from suffering. Then you can become a refuge for others. This is a refuge that keeps gathering more and more people into it.
+
+Anyone who sees the need to find a way out of suffering finally comes to the mature realization that you can’t do it by depending on other people. You can learn from them, you can follow their guidance, you can follow their example, but ultimately it comes from sitting down and really taking on your defilements, taking on your weaknesses, taking on your doubts, by strengthening the skillful qualities in your mind. As those are strengthened, you find you really can depend on them more and more.
+
+So the reason we have days like this is to remind ourselves that there are people in the past who’ve followed the Buddha’s teachings and were able to find true happiness, and that it’s a continuing line. It’s a continuing line. Ajaan Suwat once said that when people attained arahantship, they realize that there has been an unbroken line. There have always been arahants in the world ever since the time of the Buddha.
+
+One of the principles of the Buddha’s teachings is to develop a healthy form of conceit, in the sense of realizing that those arahants were human beings. They started out with lots of defilements just like us, lots of weaknesses just like us. But they were able to overcome those defilements and those weaknesses by developing skillful qualities, which exist in potential form within us as well. And as one of the Buddha’s closest disciples recommended, you can tell yourself, “If they can do it, so can I.” Think that thought as a way of strengthening your practice.
+
+When you have doubts about whether you can do this or not, remind yourself of what you need. Ajaan Mun talked about this many times. What do you need to practice? You’ve got the breath. You’ve got a body. You’ve got a mind that’s aware. That’s all you need. From that point on, it’s simply a matter of learning how to keep your own true best interests in mind—and not be a traitor to your desire for true happiness.
+
+So we take comfort, we take refuge in the example of those who’ve gone before us. As we follow in their footsteps, we become part of that community: first the community of people who have joined in respect for these ideals, and ultimately the community of those who’ve found that, yes, these ideals are not just empty notions. There really is something genuine and true here that you can confirm for yourself.
+
+So when paying respect to the Buddha, the Dhamma, and the Sangha in the way that the Buddha recommended—by practicing the Dhamma in accordance with the Dhamma—we’re able to realize the goal he had in teaching the Dhamma, which was that people would benefit from it, they would see it as worth testing, and they would find that it really leads to true happiness. As we practice, this is one way of keeping his teaching alive in the world.
+

@@ -1,0 +1,48 @@
+---
+title: Disposable Worlds — August 04, 2004
+slug: 040804-disposable-worlds
+order: 38
+date: August 04, 2004
+mp3: https://www.dhammatalks.org/Archive/y2004/040804 Disposable Worlds.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/040804_Disposable_Worlds.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2004/040804-disposable-worlds.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Settle in with the breath. Learn to relate to the breath in such a way that you feel at ease. Sometimes this means simply allowing the breath to come in and out as it has been, noticing where it’s already comfortable and then protecting those little comfortable spots. Other times it means actively making the spots more comfortable. We try to do it with an attitude of being at ease, an attitude of enjoyment.
+
+This is an important part of the meditation: that you enjoy what you’re doing, that you see the importance of what you’re doing. You’re creating a special place for the mind to settle in, so that it can be at ease in the present moment, so that it can be stable in the present moment. Once it’s stable and at ease in the present moment, then it can see things a lot more clearly, especially what’s going on inside the mind itself.
+
+The problem is that we’re so adept at creating other things that we tend to slip off all the time. We create other worlds for the mind that have nothing to do with the present moment: worlds of the past, worlds of the future, worlds that don’t seem to have any particular time frame but they’re not right here right now: just the mind spinning its wheels creating this little world for itself, that little world for itself. It enjoys doing this because it’s so good at it, good in the sense that it’s very quick at it. You can create a thought of ten years ago very easily in the flash of an eye. Or you can create thoughts of things that you would like to see, things you would like to hear, smell, taste, touch. Often they seem so much more attractive than what you’re doing right here right now, and it’s very easy to slip off.
+
+So what you need is a two-pronged approach. One is to remind yourself of the drawbacks of those other worlds. Where do they go? And think of all the effort that has to go into creating them. You create them and then you throw them away, create them and throw them away.
+
+It’s not that you’re looking for permanent happiness with them. That’s one major misunderstanding that some people have: that the problem is that we’re trying to create a permanent happiness out of things that don’t give permanent happiness. For many of us, the question of its being permanent is not the issue. The issue is that you enjoy doing it, and it seems worth the effort.
+
+So you have to look at these worlds in such a way that you realize that they’re not really worth the effort. You keep spinning away, spinning away, spinning away, and yet you have nothing to show for it. Sometimes you have worse than nothing to show for it. It can actually have negative consequences. Lust, greed, anger, delusion, fear can arise from these world-constructs that we’re so adept at making. You hop into a thought and think it’s going to take you someplace you’d like to go —to the Rocky Mountains, to the Grand Canyon—and it ends up taking you down to hell. One thought leads to the next, leads to the next, and you start obsessing over things you did in the past or worrying about things that are going to happen in the future. All this comes from what in the beginning seems like a very innocent process, “Let’s entertain the mind with a few thoughts.” Or you see a thought forming and you say, “Let’s see where this one is going to go.” Curiosity kills meditators in that way, or at least, kills their meditation.
+
+So we have to remind ourselves of the drawbacks of that kind of thinking: It takes a lot of energy and has very little to show in terms of any kind of happiness that’s really satisfying, really gratifying. And it can create ruts in the mind—ruts of unskillfulness—that make it easy for you to give in to unskillful intentions in the future.
+
+This is why we have that chant on the body just now. People always complain about that chant, but it’s a very useful chant to repeat to yourself, a very useful thought to repeat to yourself. Because so many of the mind’s fantasies revolve around the body: what we we’re going to feed it, what we we’re going to do with it—either our body or other people’s bodies. You have to remind yourself of the drawbacks: What are the raw materials that you’re working with? All pretty disgusting stuff. The Buddha’s not saying to hate the body, he says just learn how to use it in a better way. Instead of fantasizing about it as being attractive or as being yours, think of it as a tool that you’re going to use to get the mind to settle down in the present moment so that it can see itself clearly.
+
+That’s the other prong of this two-pronged approach: learning to get better and better and better at keeping the mind here so that it becomes more and more second-nature. You like settling in, you know how to settle in, you know where the comfortable spots in the body are, the comfortable spots in the breath. Or if there’s a pain in the body, a part of the body doesn’t seem to be functioning well, you know how to focus on it so as to make it feel better. If you know that you have a particular disease in a particular part of the body, there are ways of breathing into that part of the body that make it better. You can focus on that.
+
+So that you don’t have to wait to see the results of the meditation down the road. You begin to see at least something right here, right now, at the very least a sense of ease, a sense of well-being or improved well-being in the present moment.
+
+And once you’ve found spots like that, then you practice getting there quicker and quicker. Make it a game: When you sit down and close your eyes, how quickly can you get the mind to a really pleasant spot inside the body? And once it’s there, how long can you keep it there?
+
+One of the problems of having a whole hour to meditate is that we sometimes get very lazy in the beginning. We think, “Well, I’ve got a whole hour, I can be a little bit lazy right now, I’ll get into the mediation in a little while.” We get lackadaisical right from the start, and sometimes if you’re lackadaisical right from the start it stays lackadaisical all the way through the hour.
+
+This is why it’s good to have meditation in little short periods as well. Sit down for five minutes and say, “We’ll bring the mind down as quickly as possible and keep it here and not allow it move for the whole five minutes.” Then, when you can do it for five minutes, you can expand it: longer, longer, longer. When you have that same sort of no-nonsense attitude for the whole hour, then you find that the meditation gives a lot more benefits.
+
+So, as long as the mind is going to be creating worlds, let it create a really good world right here. Ajaan Lee was once teaching a senior monk in Bangkok how to meditate. This was a monk who’d studied an awful lot. And after getting the mind to settle down, he said, “Aren’t we creating a state of becoming?”—which is another technical term for these worlds in the mind—“I thought we were supposed to practice to let go of becoming.” And Ajaan Lee said, “Well, if you’re going to let them go, the first thing you have to do is learn how to do them properly.” Learn how you make these things, because it’s in a state of concentration that you can observe the mind as it creates these worlds, to see what exactly the mind is doing. You can’t let go of something unless you really know it. And you don’t really know something unless you’ve worked with it.
+
+It’s like knowing cakes. If you’ve never made a cake, you can tell whether the cake’s delicious or not, but you can’t quite tell why it’s delicious or why it’s not. But if you’re good at making cakes, you taste a cake and you know precisely what’s wrong: too much flour, too much milk, too much sugar, whatever. You know because you’ve had experience making them. And particularly in the experience of making things you really like: Those are the things you really know well.
+
+So try to create a sense of well-being, a sense of being settled here in the present that you really like. That way, you get to know the process of world-making well. When you know the process that well, then you can start taking it apart.
+
+So remember there are two prongs in your approach. The first prong is to remind yourself when the mind goes off to creating other worlds that that’s not what you’re here for, and that it has a lot of drawbacks. The pleasure they seem to give is not really worth it. And these are lessons that you have to teach yourself in whatever way you find most effective. Use your ingenuity in teaching yourself these lessons.
+
+And then the second prong is to get really good at what we’re doing right here, right now. Quick in settling down, solid in staying here, clear in getting a sense of what’s going on. Learn how to enjoy it, learn how to make it entertaining. That way, not only do you find it easier to stay here, but once it’s easier to stay here and you’re doing it better and better, the payoff is that you get clearer and clearer about what the mind is doing. That’s precisely why we’re meditating: to understand the movements of the mind, particularly the movements where it’s unskillful, creating suffering for itself that it doesn’t have to. And that’s most clearly seen in a mind that’s adept at settling down and being still.
+

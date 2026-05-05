@@ -1,0 +1,35 @@
+---
+title: Loka Sutta — (Surveying) the World
+slug: ud-3-10-than
+order: 38
+author: Thanissaro Bhikkhu
+nikaya: KN
+year: '2012'
+source_url: https://www.accesstoinsight.org/tipitaka/kn/ud/ud.3.10.than.html
+license: CC-BY-NC
+---
+
+I have heard that on one occasion, the Blessed One was staying at Uruvelā on the bank of the Nerañjarā River at the root of the Bodhi tree — the tree of awakening — newly awakened. And on that occasion he sat at the root of the Bodhi tree for seven days in one session, sensitive to the bliss of release. Then, with the passing of seven days, after emerging from that concentration, he surveyed the world with the eye of an Awakened One. As he did so, he saw living beings burning with the many fevers and aflame with the many fires born of passion, aversion, & delusion.
+
+Then, on realizing the significance of that, he on that occasion exclaimed:
+
+This world is burning. Afflicted by contact, it calls disease a 'self.' By whatever means it construes [anything], it becomes otherwise than that.[1]Becoming otherwise, the world is attached to becoming afflicted by becoming and yet delights in that very becoming. Where there's delight, there is fear. What one fears is stressful. This holy life is lived for the abandoning of becoming. 
+
+Whatever contemplatives or brahmans say that liberation from becoming is by means of becoming, all of them are not released from becoming, I say.
+
+And whatever contemplatives or brahmans say that escape from becoming is by means of non-becoming, all of them have not escaped from becoming, I say.
+
+For this stress comes into play in dependence on every acquisition.[2] With the ending of every clinging/sustenance, there's no stress coming into play. Look at this world: Beings, afflicted with thick ignorance, are unreleased from passion for what has come to be. All levels of becoming, anywhere, in any way, are inconstant, stressful, subject to change. Seeing this — as it's come to be — with right discernment, one abandons craving for becoming, and doesn't delight in non-becoming.[3] From the total ending of craving comes fading & cessation without remainder: unbinding. For the monk unbound through lack of clinging/sustenance, there's no further becoming. He has conquered Māra, won the battle, having gone beyond becomings : Such. 
+
+# Note
+
+1.
+    In other words, regardless of whatever one bases one's construal of an experience on, by the time the construal is complete, the base has already changed.
+2.
+    Reading _sabb'upadhiṃ_ _hi_ with the Thai edition. The Burmese and Sri Lankan editions read _upadhiṃ hi:_ "For this stress comes into play in dependence on acquisition." The parallel passage in the Udānavarga (32.36) agrees with this latter version.
+3.
+    This passage indicates the way out of the dilemma posed above, that one cannot gain release either through becoming or non-becoming. Rather than focus on whether one wants to take "what has come to be" in the direction of becoming or non-becoming, one develops dispassion for "what has come to be" as it occurs, and this provides the way out. On this point, see _The Paradox of Becoming,_ chapters 2 and 6.
+
+See also: [MN 113](<../../mn/mn.113.than.html>); [SN 1.1](<../../sn/sn01/sn01.001.than.html>); [SN 12.15](<../../sn/sn12/sn12.015.than.html>); [Iti 49](<../iti/iti.2.028-049.than.html#iti-049>). 
+  *[MLS]: Middle Length Sayings (I.B.Horner, tr.; PTS)
+  *[MLDB]: Middle Length Dsicourses of the Buddha (Bh. Bodhi, tr.; Wisdom Publications)

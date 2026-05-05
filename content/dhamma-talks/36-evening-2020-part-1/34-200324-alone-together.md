@@ -1,0 +1,42 @@
+---
+title: Alone Together — March 24, 2020
+slug: 200324-alone-together
+order: 34
+date: March 24, 2020
+mp3: https://www.dhammatalks.org/Archive/y2020/200324_Alone_Together.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/200324_Alone_Together.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2020/200324-alone-together.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+I read that after the quarantine ended in China, the number of requests for divorce shot up. People found that being forced to live together became unbearable because they lacked the skills needed to live together in a peaceful way.
+
+This is one of the reasons why we have the Vinaya. The rules are there, not simply to look after the individual’s mind, but also to look after peace in the community, harmony in the community. So as we’re living together, it’s good to think about the principles—not only the rules, but also the larger principles of how we can live together peacefully in harmony and be admirable friends to one another, and how that can further our practice.
+
+There are four qualities that the Buddha said are useful for making any community peaceful, happy, where people live together with a sense of wanting to live together and benefiting from it.
+
+The first principle is generosity. You don’t think only of yourself, of what you’re getting out of the situation, or what you want out of the situation. You try to take other people’s wants and needs into consideration as well. And if there’s anything you have to share, you’re happy to share it.
+
+We hear so much about hoarding right now. There’s an old Thai riddle where they ask: If you have a fish, how can you arrange to eat it for a whole year? The answer is that you take part of it and eat it yourself, and you share the rest of it with other people. That way, when they get something where they have a little bit of extra, they think of sharing things back with you. This back-and-forth of sharing can go on, not only for a year, but for many years.
+
+This principle applies not only to material things, but also to time, energy, knowledge, and forgiveness. The more we cultivate a sense that we have enough to share, the greater sense of wealth we develop. So even though there are restrictions on where we can go, who we can see, you can constantly keep in mind that you still have more than enough—and you learn how to look objectively at your sense of what is enough. You realize that it may be a lot less than you thought. If you have more than that, then you can share. As the Buddha said, when you’re sharing, you don’t want to share so much that you’re harming yourself. But you’ve got to take other people’s willingness to share into the calculation as well. You set a good example. There may be some people who follow and others who don’t. But you never know who’s going to follow it unless you set it.
+
+This is why generosity always comes first in _so_ many lists of the qualities of the teaching, with the realization that if you’re going to gain anything good in life, you have to be willing to give first. Of course, you have to look at what you’ve got and see areas where you have more than enough. That creates a sense of abundance, a sense of wealth. It’s easier to live in constrained circumstances when you feel that you’ve got abundance within those circumstances. And having a sense that we’re all in this together makes it a lot easier to put up with other people’s idiosyncrasies, other people’s foibles.
+
+There was a group of monks I knew who went up into northwestern Thailand and lived out in the forest. At first they were living very meager lives, in the sense that there wasn’t much in terms of material support, so they shared quite a lot. As a result, the sense of group loyalty and group identity was very strong. Then they started getting more and more outside support, and some of the monks started hoarding. Soon the group fell apart. Hoarding comes from a sense of poverty. Even though you may have a lot of things, as long as you think you’re poor, things get worse and worse. So the willingness to give creates a sense of wealth, a sense of spaciousness inside—and a sense of spaciousness within the group. That’s the first principle.
+
+The second principle is kind words. This doesn’t mean that you never express criticism, but when you _do_ express criticism, you express it in a kind way. Show respect for the other person. _The_ number one thing that destroys a group, destroys a relationship, is contempt that one person shows for another. I know of cases where people complain that the other people in the group don’t like them, but as a result they immediately show contempt for the other people’s attempts to be polite. Well, it’s because of the contempt that the other people don’t like this person to begin with. So if you have something critical to say, stop and think about what would be the best time, the best place, the best way to phrase it, to show respect for the other person. Don’t just blurt things out.
+
+This is one of the principles I learned living with Ajaan Fuang: that how you phrase things makes a huge difference. Sometimes in the evening, I would come up to his hut with a question. Thai was not my native language, of course, and I tried to put together a question in a way that seemed okay to me. But it struck a nerve in him one way or another, and so the question would never get answered. But then I realized that the problem had to do with the way I broached the topic. So I had to think about how to say something to him, how to make a request without making it sound like I was imposing on him or trying to get him to do my work for me. I had to phrase the question in a way that showed respect. Over time, I got better and better at it because I was forced to think. As a result, I developed a skill that I could use with any senior monk.
+
+So always remember that the _way_ you say things, the tone of voice, the words you choose, can reverberate around for a long time in other people’s minds. This means you have to put thought into your words. When you put thought into your words, other people will be willing to think about them.
+
+The third principle is that when you help other people, you genuinely help them. You don’t do things simply to make points that then you will then collect as return payment. Always looking into: “What does this person really need? What can I do to help that person’s genuine needs?” That kind of help goes to the heart. Again, you put thought into the things you do for other people, and they’ll be happy to think about them as well.
+
+And then finally, consistency: I once read a psychology book saying that if you’re consistently helpful to other people, they don’t really appreciate it. So if you want their appreciation, be inconsistent—which is a really selfish way of looking at things, trying to milk every little bit of appreciation out of people because of your help. Consistency is a virtue that you benefit from. After all, when we meditate, we’re trying to make the mind consistent. As Ajaan Lee points out, we’re taking something that’s stressful—the way we breathe, the way we experience the body—and making it easeful; we’re taking something inconstant—the way the mind moves around—and we learn how to give it some constancy; we’re taking something that’s not-self and trying to bring it under our control. In each case, we’re trying to develop in our consistency, and we develop that quality first through the consistency with which we live our daily lives.
+
+Now, if you’re going to be consistent in how you help others, the way you interact with other, you’ve got to learn how to talk yourself in a way that makes you enjoy it: that you take pride in your work, pride in the fact that you’re reliable. This way, you create a better environment within your own mind and in the world around you as well.
+
+So these are some of the principles that the Buddha would have us keep in mind so the group can get along, even in difficult circumstances, so that our enforced time together doesn’t drive us apart, but actually strengthens the group, strengthens our practice, creates a good emotional field around the fact that we’re here together practicing the Dhamma, something that’s really good. This is a rare opportunity. Appreciate it. The more we appreciate how valuable this opportunity is, the more energy we’ll be able to put into trying to maintain it and to do it well.
+

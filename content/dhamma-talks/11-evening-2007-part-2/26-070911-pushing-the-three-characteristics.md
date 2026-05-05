@@ -1,0 +1,38 @@
+---
+title: Pushing the Three Characteristics — September 11, 2007
+slug: 070911-pushing-the-three-characteristics
+order: 26
+date: September 11, 2007
+mp3: https://www.dhammatalks.org/Archive/y2007/070911 Pushing the Three Characteristics.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/070911_Pushing_the_Three_Characteristics.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2007/070911-pushing-the-three-characteristics.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Themes of inconstancy, stress, not-self: We usually hear these pretty early on when we learn the Buddha’s teachings. And they are important themes in the teachings. But then here we are, sitting and meditating, trying to get state of constant concentration, a sense of ease, pleasure, bliss even in the concentration, and to get the mind under our control, to get the results of our concentration under our control. So in a way, we’re pushing against the three themes of what are often called the three characteristics.
+
+It’s important that we do. The Buddha didn’t ask you simply to accept what he had to say. He said to test it. And one good way of testing the principle of inconstancy is to try to make your mind as constant as possible. A good way of testing the principle of stress is to see how much ease you can get as you focus the mind. And the way of testing the principle of not-self is to see how much control you can exert over the breath and the mind. The Buddha often brings up the issue of control as a central part of your sense of self. If something is really yours, you have control over it.
+
+He never said that the five aggregates are totally stressful, totally inconstant, totally out of control. As he once pointed out, if there were no pleasure to be found in the aggregates, we wouldn’t be attached to them. We wouldn’t cling to them. There is some pleasure here. But there are different kinds of pleasure.
+
+What he wants us to do is to drop some of the sensual pleasure that we try to find in the aggregates, and develop a different kind of pleasure: the pleasure that comes from getting the mind into the level of form, i.e., the form of the body as we feel it from within while we’re sitting here. How much pleasure can you develop by inhabiting your whole body, as you allow the breath to come in and go out in a comfortable way? That pleasure forms the nourishment for the path. Without that pleasure, the path would run out of gas. Things would dry up. Ajaan Fuang once said that the rapture that comes from good concentration is like a lubricant that keeps a motor from seizing up.
+
+So we are pushing against the three characteristics. And of course, they’re going to push back. We have to be prepared for that and learn from it, to find exactly where the limitations are, how far concentration can take you, and how far can you take the concentration. You’ll find some days that it goes smoothly with no trouble at all; other days it seems like it’s totally out of whack. You wonder even if you’ve ever been a meditator. It has its ups and downs like this. The important thing is that you try to make your input into the present moment as constant as possible.
+
+Another lesson you learn by giving the mind a task to do consistently is that you begin to see that sometimes not everything you experience is determined by what you do in the present moment. Sometimes there are things coming from the past. Anyone who’s had several children will notice this principle immediately. You raise your kids the same way, but they turn out differently. That makes you stop and think: Maybe each kid comes in with a different load of past karma. They come from different directions.
+
+The same principle applies to your mind. On different days, during different periods of time, even within one meditation sitting, you find past karma of different kinds will come up, so that focusing on the breath for one five-minute period will get results, and for the next five-minute period, it doesn’t seem to get any results at all, even though you’re doing the same thing.
+
+So that’s the other lesson you’re learning: the principle of past karma having some influence. When you find that your meditation has these ups and downs, you have to be very careful. Once you’ve tested to make sure that what you’re doing in the present moment is as skillful as you know how, you then try to keep on doing the skillful thing and not let yourself get discouraged by the sloughs, and not get careless during the high periods. Try keep your practice on an even keel.
+
+Only by continuing to put good input into the present moment will you, in the future, have a chance to have some good past karma to rely on. If you let your present mood depend on the results of your meditation, you’re setting yourself up for problems. Suppose you have a stretch of old past karma that’s not particularly good showing itself and you let yourself get discouraged by that. That sets you into a tailspin. Or if you’re riding along a really nice period and you start getting lazy and complacent, that’s unskillful karma as well. You always want to make sure that no matter what, no matter how good or bad the situation is, you always try to apply the skillful approach into the present moment, add as much skillful energy, as much skillful attention as you can. In other words, you have to try to be as constant as you can. Even though the results may be inconstant, don’t let your efforts depend on their inconstancy.
+
+This way you begin to find your own inner resources, what you can call on inside yourself to encourage yourself, to energize your practice. Even through the bad periods, the periods when things don’t seem to make any sense, try to stay with your sense of awareness, try to be as still as possible, and just watch. That way you don’t pick up the diseases that come, the germs that come from, say, a bad session of the meditation—or the germs that can come from a good session.
+
+One of Ajaan Fuang’s students once complained, “Why is it that yesterday my meditation was so good that I thought it would never change to anything bad, and today it’s as if I’ve never meditated ever before?” He told her, “The mind is like the body: It wears different sets of clothes from one day to the next. And just watch that. Remember, you’re separate from the clothes. The results of the meditation are one thing, the observer is something else, and the part of the mind that’s deciding what to do next, that’s something else as well. Keep them separate.”
+
+Learn to find some source within yourself like a deep well. There are wells in the world whose output doesn’t depend on the amount of rainfall that comes. They go very deep. There’s one theory that the water actually comes up through the earthquake faults. It doesn’t come from the rain. It comes from chemical reactions down in the faults, which are constant. You can draw on these walls during the dry periods, during the wet periods, and their output is constant.
+
+So try to develop the kind of attitude toward the meditation that allows you to keep drawing on that deep well, so that whether the results are going through a drought or a flood, you can develop consistency in your meditation. And as you do that, you start learning a lot of important lessons. Remember, we’re not here just to enjoy the meditation. We’re to learn from it. And one of the things we’re going to learn is how constant you can make the mind, how much pleasure you can get out of these aggregates, how much control you have over them. Don’t be surprised when they push back, because you’re pushing them. And be willing to learn whatever lessons they have to teach.
+

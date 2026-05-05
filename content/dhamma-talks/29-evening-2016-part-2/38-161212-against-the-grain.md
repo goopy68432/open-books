@@ -1,0 +1,48 @@
+---
+title: Against the Grain — December 12, 2016
+slug: 161212-against-the-grain
+order: 38
+date: December 12, 2016
+mp3: https://www.dhammatalks.org/Archive/y2016/161212_Against_the_Grain.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/161212_Against_the_Grain.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2016/161212-against-the-grain.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+One of our most basic ways of trying to find happiness is through feeding: feeding on physical food, material food; feeding on emotional food, our relationships; the satisfaction we get out of doing something, the sense of self we build around things. We feed off all of these things. We think that it makes us happy. And it was precisely the Buddha’s insight that it’s in feeding that we suffer. Which is why his teaching goes so much against the grain.
+
+In his analysis, he talks about the suffering of the five clinging-aggregates. Each of the aggregates is an activity that’s involved in feeding. There’s the form of the body that needs to be fed, and of the physical food that we feed on. There’s the feeling of hunger that drives us to feed, and the feeling of satisfaction that comes after we’ve fed; the perception of what kind of hunger we have and our perception of what kind of food would feed that hunger. Then there are all the fabrications, mental fabrications and intentions that go into trying to find food and figuring out how to fix it. And then there’s the awareness of all these things. Those are the aggregates.
+
+And then we cling to them. And clinging, of course, is another word for sustenance. We take sustenance off this double level of feeding: the actual food we eat and then the activities that go into finding and fixing the food. For all of us, this is one of our main sources of pleasure.
+
+So when the Buddha says it’s precisely in feeding that we suffer, it’s hard for us to take in his message. There are times when we can see that it’s true, but we have some very deep-seated habits, and we need to go very much against them in order to admit that the Buddha’s right.
+
+Especially when it comes to feeding. The sources of food we have, the type of feeding we like to get involved with: The mind has lots of ways of making excuses, saying there’s no suffering there; or if there is suffering, it doesn’t really matter or it’s unavoidable: lots of ways of covering up all the suffering that goes into our need to feed.
+
+Think of hunting and gathering cultures. Almost all of them will have the belief that the animal that the hunter is going out to get actually offers itself to the hunter. That’s the hunter’s way of justifying to himself that he’s taking some poor little animal’s life. But actually, the animal was not there saying, “Yes I want to offer my life up to you.” It was just caught in the act of trying to live and gets killed for it. And although we may not be hunters in that way, there are other ways in which our need to feed does cause suffering for others, in addition to the suffering it causes ourselves. And because we have all these ways of making excuses and creating worlds around our excuses, the only way we’re going to see through this is to look very carefully at where the suffering is.
+
+In some ways this is even an anti-social activity, because a lot of human society is built around eating. You’ll notice when the monks go home, the rest of the family you’re visiting is having their evening meal and you’re not having the evening meal along with them. Part of them really resents it. Here we are trying to get out of the feeding cycle entirely. And so in that way it is an anti-social activity that we’re involved in here. But it goes against not only our outer society but also the inner society: all the voices in the mind that make excuses for the way we like to feed. They’re going to resist.
+
+As the Buddha said, the only way you’re going to get past this is to really comprehend where the stress and the suffering are. Look for it. Look for it again and again and again. And provide yourself with an alternative source of food so that you can see these things clearly. This is why the path is a necessary—all the factors of the path, but particularly right concentration, because it gives you the sustenance and nourishment you need to keep up this analysis. This goes against your old ways of eating and your old ways of thinking around the eating—and your old ways of justifying, making excuses for the way you feed and your attachment to the way you feed.
+
+So when the Buddha says to indulge in the pleasure of concentration, he really means it. Learn to take that as your source of food, your source of nourishment. The more satisfaction you find in the concentration, then the easier it will be to see the ways in which your old ways of eating really are harmful. That’s because you’ve found a more harmless source of food and a more refined sense of what’s stress and what’s not stress. There are a lot of things we just put up with because we think that’s just the way they have to be.
+
+When the Buddha set out the four noble truths, one of the things he was saying was that _it doesn’t have to be that way_. The fact that there is the stress, the suffering, the pain, the anguish: These things have causes, and the causes can be overcome. There’s a way to practice so that you can put an end to those causes. In the four noble truths, he cites specifically the three kinds of craving: sensual craving, craving for becoming, craving for non-becoming. And the path attacks these directly.
+
+With right resolve, there’s the resolve to go beyond sensuality. Right concentration is a skill showing that there is a way to find happiness that doesn’t require sensuality.
+
+When the Buddha talks about the Middle Way, he’s not saying it’s just a feeling halfway between pleasure and pain. It’s a different kind of devotion to pleasure. He says the devotion to sensual pleasure is one extreme and the devotion to self-torture is the other. What lies in the middle is devotion to the pleasure of concentration. If you don’t have that kind of pleasure, no matter how much you see the drawbacks of sensuality, you’re just going to keep going back to sensuality—because the mind’s hungry.
+
+So right concentration is a natural outgrowth of right resolve, the resolve to go beyond sensuality, providing a sense of well-being that doesn’t involve sensuality.
+
+Then, when the mind is in concentration, you can start seeing it as a state of becoming. But first you learn to use it to see all the other becomings you get involved with, all these worlds that the mind gets into and then wakes up and comes out of. All too often we leave one world simply to go into another one. What concentration gives us is another world to stay in so that we can see more clearly the drawbacks of the worlds that we tend to inhabit as part of our feeding process. We get to see things so clearly that we realize that even the desire to destroy these worlds, to crave non-becoming, would also lead to more becoming. That was one of the Buddha’s great insights. You can gain it, too, by following the path.
+
+So this is a path of practice that shows how the suffering of life is not necessary. The pain of having a body is a natural part of life, but suffering around that is not necessary. This offers a new perspective: that there can be pain but there doesn’t have to be suffering.
+
+I was reading recently a piece attacking the practice of mindfulness in that it says that people’s happiness is in their hands. The critic was saying that the implication there is that their unhappiness is their fault, instead of the fault of the economic system. Well, the Buddha’s saying, “Well, yes it is their fault but it doesn’t have to be that way and they can learn how not to be that way. It’s not that they’re bad, it’s just that they’re ignorant.” The fact that we can find happiness within, without having to change that much in terms of external circumstances, is actually empowering. It’s not making us docile little sheep that just obey the powers that be. It’s actually our declaration of independence from the powers that be: that we’re not going to let them be in charge of whether we’re happy or not. We’re going to be the ones in charge.
+
+So see the four noble truths as the crowbar that will pry away your attachments to your old ways of creating worlds. You need to understand where the suffering is, is because only when you see that something you’re doing is creating suffering, and it’s not necessary, will you be able to give it up, or even willing to think of giving it up. But it requires that you be really honest. There are ways in which we feed that we really hold onto and we’re going to require some pretty strong medicine to get us to be willing to let go. It’s not just a matter of letting go of what’s obviously bad. Sometimes the things we see as really, really good, or really, really justified: Those are the things that are keeping us enslaved.
+
+So it’s good to reflect on the four noble truths as a technique for getting you to see the stupidity of your own actions and to see that it’s not necessary—and to see that when the Buddha is pointing out that stupidity, it’s an act of kindness. It’s not that you _are_ stupid, it’s just that you have been acting stupid. But you don’t have to be that way, just as the suffering doesn’t have to be there. And the reason the suffering doesn’t have to be there is because you _can_ change your ways, if you’re willing to adopt the four noble truths and give their duties the priority they deserve.
+

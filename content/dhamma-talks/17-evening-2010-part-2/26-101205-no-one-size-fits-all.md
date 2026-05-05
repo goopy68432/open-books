@@ -1,0 +1,62 @@
+---
+title: No One Size Fits All — December 05, 2010
+slug: 101205-no-one-size-fits-all
+order: 26
+date: December 05, 2010
+mp3: https://www.dhammatalks.org/Archive/y2010/101205 No One Size Fits All.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/101205_NoOneSizeFitsAll.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2010/101205-no-one-size-fits-all.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+There’s no-one-size-fits-all approach to meditation. This applies both to concentration and to insight. Although it is true that the Buddha recommended breath meditation as generally the best meditation topic, he recognized that not everyone could get his or her mind to settle down with the breath. There were some people who needed to focus on the unattractiveness of the body; others, on recollecting the Buddha or the brahmaviharas. Concentration is a matter of finding something the mind feels comfortable with, a place where it feels it can settle down and be at ease.
+
+So you have to explore which of the topics can be your home base. Again Ajaan Lee recommends the breath as a general home base or at the very least a good place to go, but it’s not the only meditation theme he taught.
+
+There’s that famous passage in the Canon where the Buddha taught some monks the foulness of the body as a contemplation, and then he went off into the woods for some time by himself. Many of monks, in his absence, started getting really disgusted with their bodies—to the point where those who had the courage committed suicide and those who didn’t have the courage would hire someone else to kill them. The Buddha came out from his retreat and noticed that the Sangha was a lot smaller. He learned from one of the monks what had happened, so he called the monks together and told them that when something unskillful comes up in the mind from your meditation, go back to the breath. The breath, he said, is like a big rain cloud that comes at the end of the hot season. And if you’ve ever been in India, you know what the hot season is like: It’s very dusty. When the rains come, they wash all the dust out of the air. And the breath functions in that way. It gives the mind something cool, clean, and refreshing to focus on when contemplation of the body becomes oppressive.
+
+So it’s a good technique to have in your background, and there are many ways of dealing with it, many things you can do with the breath:
+
+focusing on the impact of the breath on the body, learning how to allow that impact to calm down;
+
+focusing on the feelings that the breath creates—feelings of pleasure, feelings of rapture, refreshment—and allowing those to calm down;
+
+noticing how you perceive the breath energy in the body, working with different perceptions that allow the breath to calm-down;
+
+using the breath to gladden the mind, settle it down, release it from various preoccupations.
+
+So there are all kinds of things you can do with the breath.
+
+Ajaan Lee talks about the different kinds of breath energy in the body. It seems as if there are no two talks where he analyzes the breath in the same way. There’s a breath energy that circles around in the body. There’s a breath energy that moves in and out. There’s a breath energy that spreads like a film on the water, spreading all over the body. There are lots of different ways that you can look at the breath: the breath that comes from the navel up through the neck and out the nose, the breath that comes from the base of the spine and up the back—lots of different ways you can notice the breath energy. It’s up to you to decide which way is most calming for you, which way allows you to settle down with the greatest sense of security, and then learn to content yourself to just stay there. What it really means to settle down is when you can resist any temptation to move around.
+
+So there’s lots you can do just with this one topic.
+
+The same with goodwill: There are lots of different ways you can contemplate goodwill. You can use it as a framework for the rest of your practice. Ajaan Mun, they say, would do some metta meditation every morning right after he woke up, every afternoon right after he woke up from his afternoon nap, and then every evening before he went to bed. You can do this by reciting different phrases of goodwill or just stopping to think: What does it mean to have goodwill? What kind of happiness are you wishing? How is that happiness attained? What does it mean to wish for everybody to find that happiness? Is there anybody out there that you can’t wish that happiness for? Learn how to straighten your thoughts out around this issue. When you can do that, it’s a lot easier to settle down with the breath or whatever your topic of meditation is. Otherwise, there are going to be simmering resentments that don’t allow you the measure of happiness that you could find if you could let go of them.
+
+So you’ve got to check out your mind to see what needs to be taken care of. If there are areas of unfinished business in terms of resentment or whatever, take care of them and then settle down with the breath. But here again, the instructions are not cast in stone. Sometimes it’s hard to feel goodwill for others unless you can have some sense of well-being or refreshment inside yourself. So work on the breath first until that feels good, then you can start thinking about goodwill for others.
+
+Ajaan Suwat would recommend goodwill meditation at the beginning and at the end of a meditation session. The goodwill at the beginning, he said, is for your own sake, to clear the decks, ti dig out any resentments you might be carrying in from things that happened during the day. The meditation of goodwill at the end is for the sake of other people. Radiating out some thoughts of harmlessness, thoughts of goodwill, from a more concentrated mind gives them more force. Of course, this too is not solely for their sake. When you come out of meditation with a sense of ease and well-being, it helps direct how you’re going to deal with other people. Remind yourself, “Okay, bring goodwill to all your activities, to all the people you meet.” It’s a good way of setting your intention for the remainder of the day.
+
+As for insights, there’s a similar principle: There’s no one way that you can guarantee insight. There was a fascination in the late nineteenth and early twentieth centuries with mass production, reducing everything to its bare essentials. You got lots of different people, none of whom had any great skill, who could all work together and create things very efficiently . The same attitude was brought to insight meditation. All you had to do was to reduce it to its simplest forms, make it a fool-proof method. Just tell people, okay, do this, this, this. Fold here, insert tab A into slot B here, and there you have it: insight. Whereas the Buddha kept saying that ingenuity is an important part of the practice and something you have to develop.
+
+Not everything can be laid out on a map. And your ability to deal with unexpected things as they come-up is an important part of discernment. As for the topics you use, in general, the Buddha said it’s an issue of learning how to look at fabrication: this process by which the mind creates thoughts, intentions, urges. You can look at fabrication from any number of angles: from the five aggregates, the six sense media, the six properties, dependent co-arising.
+
+A monk once went to see a several different arrahants, one at a time, and asked them, “What were you focused on when you gained insight and gained awakening?” One monk said the five aggregates, another one said the six properties, another said the six sense media, and another said dependent co-arising. This upset the monk, because he wanted one answer that would work all the way across the board, and here, instead, he got a whole series of answers.
+
+So he went to see the Buddha, and the Buddha said, “It’s like a riddle tree,” which apparently is a coral tree, a source of a lot of riddles in many of the nations where it exists. It’s an unusual tree. It loses all of its leaves before its bright red flowers bloom. So there are some times when the tree has nothing on it at all: just black branches. There are other times when it has bright red flowers but no leaves, and other times when it has the leaves but no flowers. The Buddha said, in essence, that if you go and see the coral tree when the flowers are there, you’re going to describe it one way; when you see it when the leaves are there you’re going to describe it another way; and so on down the line. But it’s the same tree.
+
+In the same way, the Buddha said, there are a lot of different ways you can be focusing on the process of fabrication. The important thing is you learn how to look at the process of fabrication in a way that depersonalizes it so that you can develop some dispassion for it—so that it’s not so much a matter of “you” in there thinking this or that, but just a series of causally-connected events happening in the mind. Not that we’re saying there’s nobody in there—it’s just that you’re not going to be looking with the question of “you” in mind.
+
+This an important aspect of insight: learning how to frame your questions. If you think you’re here to try and prove whether or not there is or is not a self, the Buddha would discourage that. That’s not the question; that’s not the issue. The issue is: How is there suffering? Where in the process of fabrication does the suffering arise? What can you do to put an end to it?
+
+When you develop dispassion for the process of fabrication, regardless of how you analyze it, that’s the important thing: the dispassion. And when there’s dispassion, you begin to realize that you’re not simply there watching a movie that’s going to go on regardless of your watching it or not. This movie happens only because you’re watching it. You have a part in the production and if you lose your passion for the production, it’s not the case that the movie will continue to go on while you walk away. When you’re no longer involved, the movie stops. That’s why dispassion is followed by cessation, and then finally relinquishment: relinquishment of all the tools by which you gained that insight.
+
+So there’s no one size fits all. There are general principles that apply to everybody, but both in the case of concentration and with insight, it depends on which of the ways of analyzing things makes sense to you and helps give rise to a sense of dispassion. Nobody can tell you beforehand which topic is going to induce that sense of, “Oh, it’s just this. It’s not worth continuing to fabricate this.” So you have to experiment. Fortunately, the range of things you experiment with is not infinite, but you do have to learn how to tell for yourself what’s working and what’s not.
+
+This is why the Buddha included in his meditation instructions not only what to do but also how to gauge the results: all those different questions he has you ask about the state of your mind, the state of your concentration, the level of disturbance that may be at any level of concentration, the results that insights have on the mind. Notice that it’s not that you take the insight as a prize. You can’t grab onto insight, or it’ll bite you. It’s like the cup and Harry Potter. They go through the maze to get the cup and they’re so happy to get the cup, they latch onto it, but then the cup carries them off to a point where one of the people holding onto the cup actually dies. So we’re not here to win the cup of insight. We’re here to use the insight for the sake of release.
+
+So the Buddha gives you a whole series of questions for gauging: Did you gain genuine release from that insight or just a partial release? This is one of the most important parts of the practice, the fact that you have to figure out for yourself what’s going to work for you. You have to learn how to read the results of your practice and learn how to get more sensitive, more honest, more discerning in testing the results of your concentration, testing the results of your insight. In fact, the process of testing and improving your sensitivity is, in and of itself, a way of improving your insights.
+
+So we’re not here to put the mind through a concentration factory or an insight factory. We’re learning how to become better and better judges of what we’re doing with our own minds.
+

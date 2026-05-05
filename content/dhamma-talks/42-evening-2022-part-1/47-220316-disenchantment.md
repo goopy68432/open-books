@@ -1,0 +1,44 @@
+---
+title: Disenchantment — March 16, 2022
+slug: 220316-disenchantment
+order: 47
+date: March 16, 2022
+mp3: https://www.dhammatalks.org/Archive/y2022/220316_Disenchantment.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/220316_Disenchantment.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2022/220316-disenchantment.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+Try to find a sense of nourishment in the breath, because the mind needs nourishment. If it doesn’t find its food here, it’s going to go looking someplace else. As long as we’re beings, we need to feed. The Buddha pointed out that that’s the thing we all have in common: All beings depend on nutriment. As long as we enjoy feeding, we’re going to keep on being beings.
+
+This is where the Buddha’s teaching that we suffer because of our clinging goes so much against the grain, because the Pali word for clinging, _upadana,_ also means to feed, to take sustenance. The very thing that defines us also makes us suffer. This explains why the way away from suffering will have to involve disenchantment and dispassion. The Pali word for disenchantment, _nibbida,_ actually means a sense you don’t want to feed anymore. You’ve been hoodwinked into believing that the food is good. Then you suddenly see that what you’ve been feeding on involves a lot of suffering.
+
+If this were our only option, we’d say, “Well, put up with it.” The desire to stop feeding would be classed as depression. But the Buddha saw that there was another alternative. There was a happiness that doesn’t depend on feeding. That’s what we’re practicing for—which is why he said that practicing the Dhamma in accordance with the Dhamma means to practice for the sake of disenchantment. This is a principle that’s got long roots in the Forest tradition. As Ajaan Suwat said, one of Ajaan Mun’s favorite Dhamma topics was practicing the Dhamma in accordance with the Dhamma. It means several things.
+
+Especially nowadays, it means practicing the Dhamma as the Dhamma is. You don’t try to change the Dhamma to suit yourself. We’re surrounded with the new ideas of what the Buddha would have taught if he’d come to the 21st century, which would have been different from what he taught then. They tell us that since he’s not here to do that, we can make the changes ourselves. In fact, I know one teacher who has made lots of changes in the Vinaya, saying the Buddha is our father, so he’d be happy to see his children bringing things up to date.
+
+But the Buddha warned against changes in the Dhamma, again and again and again. His image was of a drum. There were drums back in the old days where you would take a piece of wood, hollow it out, stretch the drum head over it, and the integrity of the wood was what made the drum resonant. But then it would get a crack, and you’d fill the crack with a peg. Then another crack and another peg. And bit by bit, over time, the drum would get less resonant until there was nothing but pegs. The drum would be worthless. In the same way, when you make changes in the Dhamma it’s like creating a crack and filling it with a peg. After a while, it’s worthless.
+
+So when you make up your mind you’re going to practice the Dhamma as it’s taught, that’s one meaning of practicing the Dhamma in accordance with the Dhamma. In the time of the Buddha, though, it also meant practicing for the sake of disenchantment—for the sake of not having to feed. That first means looking at the way you feed and seeing that it’s not worth it. This is where the analysis of those five steps that the Buddha teaches about comes in. You look for the origination of whatever desire you have—for forms, feelings, perceptions, thought constructs, and consciousness—and you see that it originates in the mind. What is it in the mind that wants these things? What wants to take the raw materials, the potentials in the present moment for these things, and turn them into actual aggregates? And then from the aggregates make all kinds of other things? It’s usually because we want pleasure of some kind or another that we delight in these things. In other words, they look delicious. We think that “If I’m a good cook, I can turn them into things that I want.”
+
+But then the delight fades away because you’re going to be disappointed. But then we still figure that it’s worth it. That’s the allure: seeing that the disappointment doesn’t matter. Or the suffering that’s entailed somehow makes us noble. This is one of the ways of looking at suffering that really pulls people back into samsara: the idea that the more you suffer, the more sensitive you are, the higher level you are as a human being. The more spiritual. In a religion where the symbol at the front of the chapel is always somebody suffering, it’s easy to think in those ways.
+
+But look here, is the Buddha suffering in the Buddha images we have here? Occasionally you will find pictures of the Buddha going through his austerities, but that’s the Buddha on the wrong path. The Buddha on the right path is the one who looks content. And he’s content not because he just told himself to be content with whatever. It’s because he found something that really is worthy of contentment: a happiness that doesn’t change, a happiness that’s totally satisfying. In his vision of the cosmos, there’s lots of suffering, but there’s nobody ordaining an overarching plan for the cosmos, so the suffering doesn’t serve any higher purpose. It doesn’t make us more noble than other people.
+
+So you have to learn how to see through that suffering to see that it’s really not worth it. That’s when you can get beyond it. Now, the idea of not feeding is something that goes so against the grain, because that’s where our happiness lies, in feeding off of forms and feelings and perceptions and thought constructs and consciousness.
+
+Now, as part of the path, we do have to feed. This is why we talk about feeding off the breath, feeding off the pleasure of the breath. Learn to really appreciate this. Learn to become a connoisseur of your breathing, so that you can pry yourself loose from your other attachments, the things you used to feed on. We choose this feeding, the feeding on concentration, because it’s relatively innocent. A lot of other feeding depends on feeding on other people—emotionally, mentally. As long as the mind is in the feeding mode, then even our compassion for other beings is feeding off of them somehow.
+
+That same Dhamma teacher who wanted to change the Vinaya was also the one who said he wouldn’t ever want to live in a world where there was no suffering, because then he wouldn’t be able to exercise his compassion. Which sounds noble, but then you start thinking about it: You want to feed off your compassion and your compassion has to feed off of the sufferings of others. There’s an element of selfishness in there.
+
+So we learn how to take things apart in the mind, to see that the things we’re feeding on in some cases are worth it for the time being, because they’re part of the path, but there are a lot of other things off the path. We have to learn how to develop a sense of distaste for them. A sense of disenchantment.
+
+You get more and more focused on the path. Once you get all of your desires for food focused in the path and then can see that it, too, is not really worthy of contentment, that’s when the mind will finally be really inclined toward the unfabricated, going against its old habits of wanting to feed here and feed there.
+
+But again, this is not depression. This is not looking at the world and just giving up. It’s actually looking for something higher, something better. As the Buddha pointed out, that something better exists. There is such a thing and it’s why his path is said to be in the path of victory, winning out over this desire to feed. You’re no longer feeding on the aggregates, because you’ve got something better, something not related to the aggregates at all.
+
+Some people complain, saying that if you’re not feeding, then if you go for dispassion, how can you have compassion for others? Actually, you develop a different kind of compassion, because you remember what suffering was like. Those people who’ve gone beyond suffering look back and see all the other people who are still suffering, and they know what it was like. They’ve been there. So they have to have compassion, but that compassion is the kind that doesn’t feed on you. Which is why it’s really genuine.
+
+So we’re changing our feeding habits. It’s going to require reordering a lot of things inside. But then wherever there’s feeding, there’s insecurity. Which is one of the reasons why the goal, which has many names, has as one of its names The Secure. It’s secure because there’s no need to feed. Always keep that in mind.
+

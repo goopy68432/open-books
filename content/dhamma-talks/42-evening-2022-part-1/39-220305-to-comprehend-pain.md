@@ -1,0 +1,48 @@
+---
+title: To Comprehend Pain — March 05, 2022
+slug: 220305-to-comprehend-pain
+order: 39
+date: March 05, 2022
+mp3: https://www.dhammatalks.org/Archive/y2022/220305_To_Comprehend_Pain.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/220305_To_Comprehend_Pain.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2022/220305-to-comprehend-pain.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+When you encounter pain in your meditation, you’re sometimes told that in dealing with it, the purpose shouldn’t be to get rid of the pain. It should be to comprehend it. That’s partly right and partly wrong, because after all, we’re here for the third noble truth, which would be the cessation of suffering. So our underlying motivation is that, yes, we do want to get past the pain. We want to make sure that the mind, at least, is not pained by the pain. We simply have to realize that the mere desire to be past the pain is not going to do the work.
+
+The desire itself is not bad. We’re sometimes told that if you desire for the pain to end, that’s craving, and craving, of course, is a cause for suffering. But then there’s also the desire that’s part of right effort. A major part of right effort is trying to figure things out. So yes, we’re trying to get the mind past the pain, and we’re focusing on what we can do to help in that direction. In some cases, you work with the elements in the body: the breath, the warmth, the liquid, the solid parts of the body. Bring them into balance, especially using the breath. It’s going to be the main means by which you can change what’s going on in the body.
+
+I was reading recently about one of the pioneers in the medical profession who actually looked into what meditation can do for changing what’s going on in the body. From our point of view, he was very timid. From the medical point of view, though, he was considered an outlier. But he found that it really happens: The mind can have an impact on the body. And it’s primarily through the breath.
+
+So if you want to comprehend how your mind reacts to the pain, get very sensitive to the way you breathe. And remember that ultimately, what you’re trying to comprehend is the mental side of the pain: What is it that weighs the mind down?
+
+With physical pain, as the Buddha said, some pains will go away when you treat them. Other pains go away whether or not you treat them. Others won’t go away at all, even if you do treat them. You deal with that fact. You try to see which ones will go away through treatment. And here, we’re treating the pain with the breath, with the concentrated mind.
+
+To get the mind concentrated, you first have to focus on an area of the body that’s not in pain. That gives you a home base. Then you can work with the breath energy in that part of the body, to make it even more pleasant. It’s one of the steps of breath meditation: breathing in and out, sensitive to pleasure, finding where the potentials for pleasure are in the body right now, and then maximizing them by the way you breathe. Then you can think of that comfortable breath energy flowing through the part of the body that’s in pain. Make sure it goes _through_ the pain, and that it doesn’t *stop *at the pain. That’s one way you can visualize it. You’re using perceptions here, of course.
+
+Another way is to think of the breath coming in and out right at the pain. See if that helps. You can ask yourself if that part of the body is being forced to do a lot of the work of the breathing. Can you give it a vacation? Relax around it, and keep it relaxed. See what other parts of the body will pitch in to do the breathing.
+
+In some cases, the pain will go away. In other cases, it won’t. But at least you’ve cleared the ground. This is in line with the Buddha’s principle that you don’t weigh yourself down unnecessarily with pain, and you don’t deny pleasures that are in line with the Dhamma. So you’re trying to clear things out. See which pains in the body you have to live with and which ones you don’t. That makes it a lot easier to bear up with the ones that you have to live with.
+
+Then you can start analyzing what the mind is doing around the pain. This is where you can think of Ajaan Maha Boowa’s questions: Is the pain the same thing as the body? Where is the most vivid point of the pain? Is the pain itself a block? Does it have a shape? Does the pain even know that it’s pain? See how your mind has created lots of layers of perception around the pain. The issue is with those layers of perception: You cling to them, often without realizing it. You just assume that they’re true. Or you’re hardly even aware of them. Many times they’re subconscious, because a lot of ways in which we deal with pain come from when we were children. Even before we knew language, we had to encounter pain. We had to figure out how to deal with it. In our own rudimentary way, we came up with some perceptions. There were certain things that seemed to work, so those hang on.
+
+In this case, when you do the Buddha’s fivefold analysis of those perceptions, the allure is simply the fact that these things are familiar. But you’ve got to realize that often they’re part of the problem. If they’re causing the mind to be afflicted by the pain, you’ve got to change the perceptions, because ultimately, you want to see that your awareness is one thing, the pain is something else, the body is something else. For instance, your experience of the body is composed of those four elements. And although pain may have a hot aspect to it or a solid aspect to it, you’re the one who’s glommed the heat on to the pain, glommed the solidity on to the pain. Those are perceptions you can question. Is the heat the same thing as the pain? Is the solidity the same thing as the pain? No.
+
+You don’t have to limit yourself to Ajaan Maha Boowa’s questions. You can ask all kinds of questions around your pain. One that I’ve found useful is—once you see that the pain actually is moments arising and passing away, rather than a solid block—you can ask yourself: Are the moments coming at you? Are they going away? Think of yourself as riding in a train. You’re in one of those seats that has its back to the engine. As you look out at the countryside as it goes past, it’s going away from you. As soon as you see anything, it’s already going away from you. In the same way, as soon as the pain appears, it’s already going away, going away, going away.
+
+In this way, you loosen up some of your ways of perceiving things. You realize you’ve been clinging to certain perceptions about how you should be dealing with the pain. This would probably count as clinging to habits and practices on an internal level, or clinging to views about the pain, focused mainly on the perceptions.
+
+And the ways you talk to yourself about the pain—that’s something else you have to watch out for. That would come under fabrication.
+
+One of the worst things you can do is sit here and say, “I’ve been sitting with this pain for *this *amount of time, and there’s *that *much more time that I have to sit with it.” You’re weighing down the present moment with past and future, and that’s more than it can bear. Remind yourself: The past pain is gone. You’re not experiencing it now. The mind does have a tendency to send warnings to itself, from one moment to the next: “Watch out for the pain right here. Watch out for the pain right here.” That tends to solidify the pain. So look out for that tendency, too, and see if you can drop it.
+
+It’s in trying to understand the pain for the purpose of making sure the mind doesn’t have to suffer from it: That’s how you comprehend it. That’s a large part of comprehension: seeing cause and effect. And how are you going to see cause and effect unless you change the causes, change the attitudes you bring into things? We’re not here simply to witness the fact, “Oh yes, there is pain.” That’s not comprehending. Or when we’re told, “Okay, the pain for the mind is in the clinging,” even though the words are right, that’s not comprehension, either. We have to see these things in action, see the mind holding on to something that is causing it to suffer, and realizing that you have the option not to hold on.
+
+In some cases, you simply let go. In other cases, you give yourself better perceptions to hold on to, better ways of talking to yourself to hold on to. The Buddha’s image is a carpenter who’s trying to drive a peg out of a board, so he uses a smaller peg. Use one way of thinking, one way of perceiving, to drive out a coarser one, a less skillful one. In doing so, you’re beginning to comprehend what’s going on.
+
+So the desire to put an end to the suffering of the mind doesn’t *have *to conflict with the desire to comprehend the pain. In fact, when you do things right, they go together. You’re not going to comprehend unless you want to get beyond it. And you’re not going to get beyond it unless you comprehend it.
+
+So go ahead and *want *to be free of pain. *Want *to be free of suffering. Want to see the mind as separate from the pain. Then explore the extent to which you can do that. Which ways of acting on those desires actually get results, and which ways don’t? When you explore in line with these questions, that’s how discernment arises. Remember, discernment has to be penetrative, which means that it sees which causes are good, which causes are not, which causes lead to the end of suffering, which ones don’t. You’re going to see those distinctions only through practice, through trying to get the mind free from suffering as you come to see what does and doesn’t work. That’s where the comprehension arises.
+

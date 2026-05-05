@@ -1,0 +1,50 @@
+---
+title: The Wisdom of Incongruity — October 22, 2013
+slug: 131022-the-wisdom-of-incongruity
+order: 87
+date: October 22, 2013
+mp3: https://www.dhammatalks.org/Archive/y2013/131022_The_Wisdom_of_Incongruity.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/131022_The_Wisdom_of_Incongruity.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2013/131022-the-wisdom-of-incongruity.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+One of the first lessons of meditation is seeing how disorderly and chaotic your mind can be. Stream-of-consciousness novels have nothing on the strange shifts and incongruous fragments that the mind can toss up. If you try to trace where your mind has been or the course of its inner conversations even over the course of five minutes, you find that it’s zigged and zagged all over the place.
+
+Of course, when we’re getting the mind to settle down, we’re trying to stop that: to get things focused, to get things centered. In the beginning, we actually have to use that ability to think around things from various angles to help get the mind settled in on the breath in a comfortable way. If the mind has a tendency to think, well, try to have it think about the breath. Think about evaluating how comfortable it is, where you feel it, where it feels good, where it doesn’t feel good. Give the mind some work to do. As long as it wants to work, wants to think, give it something good to think about that’s related to the breath. That way, it can gradually zero in, zero in on the breath.
+
+That’s one of the uses of our ability to shift contexts: to be in one story and all of a sudden go through a modulation and find yourself in a totally different story, a different world. This ability is also useful for insight. If we didn’t have this ability, if everything in the mind were perfectly consistent, we would go mad. When you think about people who try to develop a system that explains all of reality—where everything is consistent and everything fits very neatly in its own proper place—you realize they’re crazy. Our minds are more like a bag full of bits and pieces; some of the bits and pieces are large fragments, and others are just tiny little ones. As we move from one state of becoming to another, what makes sense in one state of becoming is not going to make sense in another. When we meditate, we learn how to use that.
+
+For instance, with the contemplation of the body: We tend to think about certain aspects of our body in certain contexts and in other contexts we banish those aspects from our thoughts. One way of developing a sense of dispassion for the body is to think about putting your body in different contexts. Like Ajaan Singtong’s question: Would you want to swim in a vat full of saliva? No, of course not. Yet you’re swallowing it every day. What you’re willing to swallow, what you’re willing to swim in: Those are two different things. Or would you be willing to take a bath in a bathtub of blood? No. And yet you’ve got it coursing through your veins all the time.
+
+In other words, step back and put the different parts of the body in a different context and you begin to see how alien they can be.
+
+The same with other things going on in the mind: Step out of your normal context. When you’ve got a story going on about someone doing this to you or doing that to you, try to get out of the story and look at it from another perspective entirely.
+
+I was reading an interview with John McPhee recently. He had written an enormous tome on geology, and part of it had a long section on geological time. After it came out, he got letters from many cancer patients saying how that section had really put their minds at peace. When you think about say, dying at age 30, when your friends are going to live to be 70 or 80—if you think in the normal human time frame, dying at 30 seems to be a real tragedy. But if you think in geological time, where they measure things in millions of years, in fact the smallest unit is a million years, the fact that your life is 30 years rather than 70 doesn’t seem so bad. Just the shift of context can make a huge difference in how you perceive things.
+
+So when you find yourself angry at someone, or you find yourself attracted to someone, try to shift the context. Look at the situation from a different angle. Bring a different set of perceptions.
+
+If you perceive someone’s words coming right at you, try holding the perception that they’re going _past_ you. The reason they seem to be coming into you is that you’ve got an internal vacuum cleaner that sucks up all the dirt and brings it inside. So turn the vacuum cleaner off. Then you realize you’re not the victim of that person’s words. They’re just sounds that go past. You’re actually the victim of your own tendency to bring those words in and using them to stab yourself again and again—right there at the moment it’s happening, and then again later.
+
+This is one of the reasons the Buddha uses so many analogies, so many _vivid_ analogies, like the one of the bandits sawing off your limbs. He says that if you hold that image in mind, realizing that even in a situation like that you’ve got to have goodwill for the bandits, then you look at the words that people use to hit you and at they seem a lot easier to take. At least they’re not sawing off your limbs.
+
+Another useful image is of the horse that needs to have the whip dig down to its bone before it’s willing to obey. Are you that kind of meditator? If you are, do want to keep on being that kind of meditator? Or can you see the wisdom of being more willing to listen to the Dhamma before things really dig into your bones?
+
+Learn how to think about things in terms of these analogies instead of your normal ones, and they give you a new perspective. The ability to step out of your thought worlds is what saves you from getting pulled into all the defilements that created those thought worlds to begin with—that picked and chose and decided that this detail you’re going to focus on and that other detail you’re going to ignore.
+
+You have to remember that all of our defilements are based on a partial way of looking at things. They have big blind spots. So you’ve got to turn the light on those blind spots and remind yourself that there _must_ be another way to look at this. Ajaan Lee’s recommends a good way of making sure that you don’t fall for your insights. When an insight happens, it seems to crystallize lots of different things, everything seems to comes together and make perfect sense. It’s really compelling, really alluring. But you have to make sure you aren’t falling for the allure of a subtle defilement. So he recommends that, when an insight happens, you ask yourself: To what extent is it false? To what extent is the opposite true? Look for the fragmentary nature of the insight. That will help pull you out of a lot of things that could otherwise really make you crazy.
+
+This is one of the reasons why the Buddha never set out a system. There’s a consistency to his teachings, but it’s a strategic consistency. All the teachings are aimed at the same thing but they approach it from different angles. When you find yourself at one spot, okay, this teaching is going to point you in the right direction. If you’re in another spot, another teaching will point you in the right direction. It’s like Ajaan Chah’s old comment that when he sees people going off the right side of the road, he says, “Go left, go left”; when they go off the left side of the road, he says, “Go right, go right.” The words may seem contradictory, but the purpose is consistent.
+
+And the same with all the Buddha’s teachings: They’re aimed at the same thing, but they come from different angles, because people are coming from different angles. Even his analogies he doesn’t always use in the same way. Sometimes, for instance, a stream is a symbol for the stream to awakening. Other times, it’s the stream of craving. The fact that these two images look the same but are meant differently is supposed to jolt you out of getting complacent. Learn to look at things from different angles and you’ll learn a lot.
+
+Another one of Ajaan Lee’s recommendations is that when you listen to the Dhamma, you should take what’s taught and then compare it to the opposite of what’s taught. Toss them around. When you hear about inconstancy, look for what’s constant. When you hear about stress, look for where pleasure and ease are useful. When you hear about not-self, look to see what you can actually get under your control. Someplace in the cracks between those different thought worlds and concepts is where the light of freedom shines.
+
+So it’s always useful to learn how to question your perceptions: your perceptions about your body, your perceptions about your relationships with other people; your perceptions about your mind. And remember that sanity lies in stepping back.
+
+One of the things I especially appreciated about the ajaans in Thailand was their sense of humor: the type of humor that comes from being able to step back and look at things as they really are, from an angle that people don’t ordinarily look at or look from. There’s that ancient Greek comment that the god’s laugh. And why do gods laugh at human failings? Because the gods are separate. They step back; they’re not totally involved. The ajaans laugh, too, because they’ve learned how to step back from their own crazy thoughts, their own defilements.
+
+So learn how to step out and step back. Look at things from a different angle. When things are not going well, ask yourself, “What am I believing here? What are my underlying perceptions? Can I look at things using a different set of perceptions?” Think of each thought world as a fragment. It’s like a hologram: There’s always one spot in the hologram where the image cannot be reproduced. Look for that spot so that you can step out of it. That’s a lot of what the process of discernment is all about: seeing incongruities, where things don’t quite come together, and then using those incongruities for the sake of freedom.
+

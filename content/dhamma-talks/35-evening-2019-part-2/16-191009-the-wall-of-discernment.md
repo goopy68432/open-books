@@ -1,0 +1,44 @@
+---
+title: The Wall of Discernment — October 09, 2019
+slug: 191009-the-wall-of-discernment
+order: 16
+date: October 09, 2019
+mp3: https://www.dhammatalks.org/Archive/y2019/191009_The_Wall_of_Discernment.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/191009_The_Wall_of_Discernment.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2019/191009-the-wall-of-discernment.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+When the Buddha compares the practice to a fortress, the wall of the fortress is discernment. And it’s said to be a wall that’s well-plastered. In other words, the defilements can’t get a handhold, can’t get a foothold, which makes it hard for them to get inside. But what is there inside that the wall is protecting? Well, there’s the gatekeeper: mindfulness. And there’s your right effort, which are the soldiers. In other words, discernment is there to protect your mindfulness, to make sure it doesn’t go off remembering things that are useless, remembering ideas and get you to do things that are unskillful. The same with protecting the soldiers, protecting your efforts: Discernment makes sure they don’t start turning on you. And it’s also protecting the food, the food of concentration.
+
+This is where we see how discernment really helps us as we’re practicing right now, because the role of discernment is to see what’s worth doing and what’s not worth doing. The clearer you are, the more precise you are in understanding what is really worth doing in terms of giving rise to long-term happiness, the more useful your discernment becomes.
+
+This is where you have to keep in mind the Buddha’s statement that there is no happiness apart from peace. We may think of other kinds of happiness and pleasure that are not very peaceful, but when you actually look at them, you begin to realize what you like about them is that the mind can rest in them for a bit. It’s that ability to rest for a bit: That’s where the happiness is in those things. The Buddha’s simply saying that if you can find something where you can rest totally, that’s what real happiness would be. And so we work in that direction.
+
+Our discernment sees that anything we have to do in order to get there is worthwhile. Some people say, “Well, just learn to content yourself with things as they are. Don’t put up too much effort.” But the happiness that comes that way is not all that satisfying. It’s certainly not the kind of happiness that would satisfy the Buddha. As he said, the secret to his awakening was being discontent with skillful qualities. In other words, as long as his mind hadn’t reached the ultimate level of skill, he wasn’t going to rest content.
+
+So the value judgement of discernment is that the peace of mind you can find through the practice is the most important thing to work for. And anything that’s required for that, you’re willing to do. So discernment here is based on desire, just as all the other factors of the path are based on desire. You want the highest happiness. And then you look at what you’ve got to do in order to get it. You have to protect the peace of mind you’re trying to create here.
+
+The first thing you have to do is to get the mind in the right mood, to get it motivated. This is where the Buddha recommends learning how to think about things in a way that gets the mind more and more inclined to _want_ to be peaceful—to want to find happiness inside by finding peace inside. When the Buddha was teaching his son Rahula, before he taught him breath meditation he taught him some discernment exercises—seeing things in terms of inconstancy, seeing things in terms of not self; developing thoughts of goodwill for all beings—as a way of inclining the mind to want to be quiet, to want to be still.
+
+For instance, when you think of the inconstancy of the happiness you can find outside, you think of all the effort that goes into it, and yet what do you get? It all slips from your grasp, like water going through your fingers. There are so many pleasures we work for, work for, work for, and then when we get them, they disappear. And sometimes they don’t simply disappear. Sometimes in order to get those pleasure we had to do things that were unskillful. So the pleasure itself is gone and all you’re left with is the karma. When you can think in that way, it gets the mind more inclined to want to be still.
+
+The same with the contemplation of not self: You realize how all the things you’ve laid claim to in the world out there are not going to stay with you. The only thing that stays with you is your mind. So you realize that you’ve got to train the mind so that it can depend on itself, so that it can find a sense of true well-being inside.
+
+So this is the first duty of discernment, to get the mind willing to work on concentration. Then the next step, once you get started, is to use your directed thought and evaluation to figure out how to get the mind to settle down. What’s the most effective way of breathing right now? What’s the most effective way of focusing the mind right now, so that the breath and the mind can fit snugly together? Then you try to figure out how to maintain that. This, too, is a duty of discernment.
+
+You begin to realize that even in concentration there is still some disturbance. And you want to figure out what’s causing it so that you can get the mind even more still. This is how you can train the mind to go into deeper and deeper levels of concentration, until you get to the point where even the breath seems to stop. There’s no need to breathe, probably because the brain is using so little oxygen. The breath energy fills the body. If there were a need to breathe, you would, but there’s no felt need. Maybe the oxygen exchange at the skin is enough to keep everything going.
+
+When the breath stops, though, you begin to realize that your sense of the body begins to lose its boundaries. It feels like a mist: little dots of sensations. And in-between those little sensations, there’s space. When you focus on the space, you can get into formless states, which are even more refined than the states that depend on the breath. You keep following this process until you get as far as you can in terms of concentration. It’s because you’re using your discernment as you get the mind focused that the mind can settle down like this. But then as you continue using your discernment, you realize that even the most refined concentration has to be put together. There’s still something fabricated.
+
+You get to the point where you’re tired of having to fabricate. You wonder: Is there anything that is not fabricated? And as you contemplate that question, there can come an opening to something that’s totally unintended, and involves no intention to keep it going. That’s where you can find the happiness the Buddha was talking about: something that’s really safe because it doesn’t depend on conditions. If you think in terms of the fortress, this is where you don’t need the fortress anymore. The fortress is there because things need protection. But this happiness doesn’t need to be protected. There’s nothing to touch it.
+
+That’s where everything aims. But to get there requires effort, requires mindfulness, requires concentration, which is why the discernment has to work on these things to protect them, to make them more and more reliable. After all, this is the big problem in life. You can’t even rely on your own mind if it hasn’t been trained. There’s nothing that can change as quickly as the mind. And as long as the mind hasn’t reached the state where you can totally depend on it, you’re in a state of danger.
+
+That’s why the Buddha used the image of the fortress. The mind has dangers all around, and it has dangers inside. But you can develop these qualities to bring the mind to safety. And when it finds a happiness inside that it can totally depend on, that—at the same time—is the point where the mind itself is totally dependable and it’s not going to change.
+
+So use your discernment to see that this is something really worth aiming at. And whatever needs to be done in order to get there is always worth doing. Anything that gets in the way is not worth doing. The more clearly your discernment sees that, the more useful it is, the more reliable it is. So work on developing it. Because it’s only through discernment that true safety can be found.
+
+Of course, it depends on all those other qualities that go into the fortress. You need a sense of shame and compunction as a moat and a road around the fortress. You need mindfulness as the gatekeeper, and right effort as the soldiers, knowledge of the Dhamma as their weapons, concentration as their food. Conviction is the foundation post. All of these things working together enable discernment to do its work to make sure that your fortress, and the protection it provides, can be complete.
+

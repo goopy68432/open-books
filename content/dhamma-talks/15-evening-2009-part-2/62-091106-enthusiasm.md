@@ -1,0 +1,46 @@
+---
+title: Enthusiasm — November 06, 2009
+slug: 091106-enthusiasm
+order: 62
+date: November 06, 2009
+mp3: https://www.dhammatalks.org/Archive/y2009/091106 Enthusiasm.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/091106_Enthusiasm.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2009/091106-enthusiasm.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+One of the important skills in meditating is learning how to push yourself in an effective way—in other words, realizing that there is more to be done, you could put more effort into the practice, and figuring out how to take that realization and actually embody it, so that you’re enthusiastic to put more into the practice. It’s not just pushing. It’s not just harshness. It’s a matter of inducing a desire. That’s an important element in right effort: generating desire to do the practice, to let go of what’s unskillful, to prevent unskillful states from arising, to give rise to skillful states, and to maintain skillful states once they’re there, bringing them to the culmination of their development. Those are the terms of the texts.
+
+In short, you’re developing enthusiasm for what you’re doing. How you do it will vary from person to person. There are a number of suttas where the Buddha talks to the monks and compares a meditator to a warrior, someone who’s not afraid of going into the battle, someone who’s up for the challenge, willing to deal with hardships, and having a sense of honor and a sense of self-worth that enables you to deal with hardships. Some of us respond to that warrior model; some of us don’t. Some of us are more attracted simply to the idea of mastering a skill. Some of us are more easily motivated by realizing we don’t have much time, and here’s an opportunity to do something really good with the time we do have.
+
+There are lots of different ways of encouraging yourself, and you have to learn what the mind responds to, so that the effort is not just drudgery, and you’re not just gritting your teeth. That kind of effort wears you out pretty quickly, and then you get discouraged and disillusioned, which doesn’t help. You have to learn how to read yourself and understand what’s going to get you going, what’s going to keep you going, what level of effort is not enough, what level of effort is too much. That’s something you have to read as well.
+
+So when we’re talking about getting to know ourselves in the meditation, this is one of the most important things you’ve got to get to know: how to motivate yourself. You can think of any skill you’ve mastered so far: How did you motivate yourself to master that skill? Part of it might have been enthusiasm for the skill itself, part of it might have been the enthusiasm for winning, or fear of losing. Fear is not such a bad thing, you know. If you learn how to motivate yourself properly, there’s the fear of doing unskillful things, which is a legitimate fear. There’s a fear of wasting your time, which is a legitimate fear. The first one in Pali is called _ottappa,_ compunction: knowing that your actions have consequences, and you’re not apathetic about the fact that if you don’t develop a skill, things are going to get bad. Fear of wasting your time comes under heedfulness and urgency. The heedfulness is what provokes the urgency: You’ve really got do something with this life, because you don’t know how much longer you’re going to have this opportunity, how much longer you’re going to have this human life. It’d be a shame just to let it go, let it go, let it go, enjoying what little pleasures there are, and then having it all taken away. And who knows what’s going to happen after that?
+
+So learn how to look at exactly what is it that you fear in life, because the two ways of motivating anyone to master a skill are, one, enthusiasm for the results of mastering the skill, and two, fear for the dangers of not mastering it. You want to learn how to use both of these attitudes to help you along the path.
+
+Fear is an emotion we don’t like There’s a lot written about how to overcome your fears, but remember: There is such thing as skillful fear. The biggest thing to fear, of course, is that in your effort to find happiness you’re going to do things that will cause suffering; in your effort to do good, you may get so that you lose your enthusiasm to do good, or when the situation gets tough, the virtues that you’ve been trying to develop, the precepts you’ve been trying to foster, suddenly fall by the wayside.
+
+And there is that possibility. All the apocalyptic literature out there makes you stop and think: Suppose society really did break down, and you were stuck at home. The refrigerator wouldn’t work; food would be spoiling: What would you do to get your next meal? Exactly how far would you go to fight for your next meal? What would you do if you were really, really hungry? If you think that there’s a possibility that you could kill or steal or break any of precepts to feed yourself or to feed your loved ones, you’ve got a scary mind, a mind you can’t trust. That’s one thing you can think about to give yourself some enthusiasm for the practice: that you’d like to have a mind you can know you can trust no matter what happens outside.
+
+This is one of the biggest issues in life: How far can you trust yourself? Maybe you can get enthusiastic about the idea that you’d like to be totally trustworthy: That can be an inducement to the practice, too. But this matter of generating desire, developing enthusiasm, is something each of us has to look into for ourselves, to figure out: How do you motivate yourself in an effective way? How do you keep up the motivation?
+
+Because that’s the second part: You don’t just give yourself a running start and then just fail five minutes down the line. Once you’ve got your momentum up, how do yo maintain that momentum? How do you give yourself encouragement? How do you learn how to read the results of your practice in such a way that if things are going well, you keep them going well, and you don’t get too complacent? Remember: You’ve got something really good going here, so let’s keep it going.
+
+When things are not going well, how do you learn not to be discouraged? Remind yourself, on the one hand, that patience is a virtue. It’s one of the perfections. If you don’t deal with unskillful states the mind, if you don’t deal with setbacks in the practice, you’re never really going to master the practice. So view the setbacks as an opportunity to develop mastery.
+
+It’s like being a good musician. You’re playing along and you made a mistake. What do you do so that you don’t get flustered? Or if you suddenly find yourself phrasing the music in a way you hadn’t phrased it before, how do to incorporate the new phrasing into it so that it doesn’t sound like a mistake? Or if you’re carpenter, you’re planing the wood, and all of a sudden there’s a gash that you didn’t plan: How do you cover up for that? Compensating for your mistakes is what makes you a master.
+
+So remind yourself that you’re working here, you’re mastering the mind. This is a skill. This is an art: shaping your mind. And it’s not the case that masters never make mistakes. They know what to do when there’s a mistake. That’s what the mastery consists of.
+
+I noticed this in my father. He was a carpenter. He would be working along and you’d hear an, “Oh, shit,” coming from the basement. He had made a mistake. So I’d go down to see what had happened. It would have been an issue of making a cut where it should’ve been cut, or a piece of wood splitting where he didn’t expect it to split. It was interesting, watching to see how he compensated for the mistake. When the finished product came out, you didn’t even notice there had been a mistake at all. That’s why he was a good carpenter.
+
+So when you find yourself having problems in the meditation, tell yourself: Here’s an opportunity. Learn how to deal with this particular problem. And give yourself encouragement. Often this will happen when your energy level is down, and you least feel like working with the problem, but that’s when you’ve got to give yourself encouragement to get your energy back up.
+
+We’re all adults by now. We should have some experience in knowing how to motivate ourselves and keep the motivation going. Wherever you’ve learned that particular skill in whatever aspect of your life, try to bring it into the practice here.
+
+This is one of the salient features of the Buddha’s teachings. When people would ask him questions, he would often ask them about skills they already had, quiz them about their skills. When they would make useful statements or points that he felt were relevant to the practice, he would show the relationship to them. In other words, he’d teach them how to learn from the skills they already had and to apply those skills to the meditation.
+
+That way, when you’re pushing yourself, it’s not just harshness, because when you’re harsh, you just start driving yourself into the ground. Learn how to offer yourself encouragement, learn how to use things even like fear and heedfulness to fire your imagination, to fire your enthusiasm, so that you really do make the most of the opportunity you have here to practice.
+

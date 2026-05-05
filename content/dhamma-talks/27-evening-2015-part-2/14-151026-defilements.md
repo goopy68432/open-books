@@ -1,0 +1,48 @@
+---
+title: Defilements — October 26, 2015
+slug: 151026-defilements
+order: 14
+date: October 26, 2015
+mp3: https://www.dhammatalks.org/Archive/y2015/151026_Defilements.mp3
+pdf_transcript: https://www.dhammatalks.org/Archive/Writings/Transcripts/151026_Defilements.pdf
+source_url: https://www.dhammatalks.org/audio/evening/2015/151026-defilements.html
+speaker: Thanissaro Bhikkhu
+license: CC BY-NC 4.0
+---
+
+We like to think that meditation will automatically have an impact on our daily lives. It does have some impact automatically. You come out of meditation and it’s like taking something out of a refrigerator. It’s going to be cool for a while, depending on how much heat you expose it to. If you take it out of the refrigerator on a hot day when it’s 110F outside, it’s not going to stay cool very long. But if you take it out of the refrigerator and put it in a cooler on a cool day, it’ll stay cool longer. The cooler stands for your determination to carry the meditation into your daily life.
+
+In other words, it’s not automatic that the meditation will have a long-term impact. You have to decide: This is what you want to do. You want to take whatever skills you can manage, whatever sense of peace and well-being you can manage during your meditation, and see how long you can maintain them as you go into the day.
+
+Sometimes you may find that the temperature outside is pretty hot. In other words, you find yourself in difficult situations where it’s hard to maintain your sense of the breath at the same time as you deal with all the activity around you. But sometimes, and all too often, _you’re_ the one who destroys the sense of being centered, the sense of having a nice sense of good breath energy in the body.
+
+This is where you begin to see the power of your own defilements.
+
+A lot of people resist the idea that their minds have defilements, but that’s usually because they don’t know the difference between a defiled and an undefiled state. They all look the same. Ajaan Fuang has an image of a floor that you never clean. Dust settles and more dust settles and more dust settles, and you don’t really see how much dust has settled today because it just adds to what’s already there from the days before. But, he says, if you wipe the floor down every day, you notice every little speck of dust that comes in.
+
+So as you try to maintain a sense of center, be alert to the fact that you’re going to see your defilements trying to destroy your concentration.
+
+They come in three large categories. There’s greed, aversion, and delusion, and they work themselves out into all kinds of other things. There’s spite and malice and hypocrisy and envy. I can’t remember the whole list: about fifteen all together, what they call the _upakkilesas_. But you notice these things best if you have the mind in concentration and you try to maintain that sense of center. You begin to hear more clearly the voices in your mind: all the different committee members.
+
+This is where it’s good to have some practice with the phrases for goodwill, compassion, empathetic joy, and equanimity, because if you then suddenly find yourself talking to yourself about somebody else in an envious or a spiteful way, you’ll notice that it doesn’t really go together with “May all beings be happy. May all beings not be deprived of the good fortune they have attained.” That doesn’t go with envy. Malice doesn’t go with goodwill. So if you can get the mind quiet and see if you can carry at least some sense of stillness into the day, you’ll be in a better position to see how these defilements come and go, and you’ll recognize them as defilements. You’ll also begin to recognize them as something you don’t want to get involved with.
+
+The problem all too often is that we like our defilements. They’re our old friends, our habitual ways of doing things. We have a certain familiarity with them, and part of the mind is of the opinion that this is just the way the mind has to be. You’re not going to change anything. When you start changing it, it feels out of whack, like something’s wrong, unfamiliar. It’s like somebody who’s been leaning to the left for years and years and suddenly you straighten him out. It feels weird to be straight. He’ll feel more inclined to lean back to the left again, which is what he’s familiar with.
+
+So this is something you have to watch out for: your sense of familiarity. And watch out for the way the mind will often say, “Well, this is just the way things have to be. How can a mind function without some greed, aversion, and delusion?” It may not put it quite in those terms, but you have certain ways of talking to yourself that seem to be a normal part of how you survive in life. You come to think of them as your armor as you go through the day. Well, remember what armor is like. It’s big and clunky and it weighs you down.
+
+The armor you get with the breath, though—if you’re fully with the breath and the breath energy is good—creates a force field around you, where the things that you used to have to fight off with your spite or malice or whatever, you can deflect without having to use any of those unskillful mind states. You need to develop some confidence in the breath until see that you don’t really need these defilements. When you see that you don’t need them, you can begin looking more carefully into, well, why do you like them?
+
+They provide a certain amount of pleasure, but if you have the pleasure of meditation and can carry some of that pleasure into daily life, you find that you’re not quite so hungry for unskillful pleasure. When you find the mind going for it, you realize it’s just out of habit. Again, it’s not automatic that doing the concentration and having a sense of well-being will starve these defilements or keep you from going back to them. It’s so easy to drop the concentration and go back to your old ways because they’re habitual. But if you’re determined that you don’t want to be led around by the nose by these things, that’s when you have a chance of resisting their power.
+
+In Ajaan Mun’s final sermon, one of the most memorable lines is the one where he talks about going into battle with the defilements. The soldier in that case is the determination not to come back and be the laughingstock of the defilements ever again. They lead you by the nose, getting you to do all kinds of stupid things, but then when the karma from the stupid things comes, they don’t suffer. It’s like people who convince you to go down and break a store window or something and then, of course, when you do that, they run away and the police catch you. So, as Ajaan Mun said, this is the determination you have to maintain, above all else: not to come back and be the laughingstock of the defilements ever again. That’s an attitude you want to nourish because it helps you to resist the power of what’s familiar; the power of the mind state that says, “Well, it just has to be this way. I’m not going to hear anything else.”
+
+It’s like political parties that get into collusion and say, “We’re going to only offer these alternatives to the public and we’re not going to allow anybody to think anything outside of the box.” That’s how your defilements treat your mind. They don’t want you to think anything outside the box. They have their ideas of what will make you happy and, even though their ideas are deluded, they really hold to them very tightly. And, of course, because these defilements have been your identities in the past, it’s very easy to slip back into them.
+
+This is where the image of the committee of the mind comes together with the Buddha’s teachings on _bhava,_ or becoming. You take on a becoming and it’s like a set of clothing you’ve worn in the past. It’s very easy to put it back on again. At some time in the past, you found that spite and malice and envy and insolence and all the other children of defilement gave you some pleasure. When you’re in a hungry mood, where you don’t know anything else to do or you don’t have anything better to do, you just go back and slip on that old set of clothes, take on that identity again. And it’s you again. Once it’s you, you have a very hard time seeing it as a defilement, realizing that it’s something you want to let go.
+
+This is why the Buddha said that to gain discernment, we have to see all these things as separate. Whatever comes up in the mind, good, bad or indifferent, you have to see it as something separate from your awareness. You can actually look at it. Where is it going? Where does it come from? Is it taking you someplace you really want to go? Is it a voice you want to identify with?
+
+In this way, concentration is a tool for helping in daily life, but still you have to be determined, one, to bring the concentration into your life and then, two, to use it for the right purpose, which is to figure out how the mind deceives itself all the time into thinking that very unskillful attitudes will actually lead to happiness.
+
+Again, it’s the determination that makes the difference, as Ajaan Mun said. You may not put it quite in the way he did, but there’s got to be a certain amount of determination to carry these things through. Otherwise, you take the mind out of the refrigerator of concentration and it’s cool only for a few minutes, and then you’re back to where you were before, with a mind on fire. And you get disappointed. You say, “What’s wrong with the concentration? Why isn’t it changing my life?” You have to use the concentration with the right motivation and with steady determination. That’s when it’ll make important changes.
+
