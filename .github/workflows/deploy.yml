@@ -1,6 +1,17 @@
 name: Deploy to GitHub Pages
 on:
-  push: { branches: [main] }
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'src/**'
+      - 'scripts/**'
+      - 'public/**'
+      - 'astro.config.*'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - 'tsconfig.json'
+      - '.github/workflows/deploy.yml'
   workflow_dispatch:
 permissions: { contents: read, pages: write, id-token: write }
 concurrency: { group: pages, cancel-in-progress: false }
@@ -13,6 +24,17 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 20, cache: pnpm }
       - run: pnpm install --frozen-lockfile
+      - name: Cache Astro build artifacts
+        uses: actions/cache@v4
+        with:
+          path: |
+            .astro
+            node_modules/.astro
+            node_modules/.cache
+          key: astro-${{ runner.os }}-${{ hashFiles('astro.config.*', 'package.json', 'pnpm-lock.yaml') }}-${{ hashFiles('content/**', 'src/**', 'scripts/**', 'public/**') }}
+          restore-keys: |
+            astro-${{ runner.os }}-${{ hashFiles('astro.config.*', 'package.json', 'pnpm-lock.yaml') }}-
+            astro-${{ runner.os }}-
       - run: pnpm exec astro build
         env:
           NODE_OPTIONS: --max-old-space-size=6144
